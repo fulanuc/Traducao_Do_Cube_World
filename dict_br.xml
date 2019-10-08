@@ -742,87 +742,87 @@
   </name>
 
   <name id="Ogre" tags="m an">
-    { #plural Ogres | Ogre }
+    { #plural Ogros | Ogre }
   </name>
 
   <name id="Rockling" tags="n">
-    { #plural Rocklings | Rockling }
+    { #plural Criaturas de Pedra | Rockling }
   </name>
 
   <name id="SpikeCreature" tags="n">
-    { #plural Spike Creatures | Spike Creature }
+    { #plural Criaturas Espinhentas | Spike Creature }
   </name>
 
   <name id="Spectrino" tags="m">
-    { #plural Spectrinos | Spectrino }
+    { #plural Espectrinos | Spectrino }
   </name>
 
   <name id="Djinn" tags="m">
-    { #plural Djinns | Djinn }
+    { #plural Gênios | Djinn }
   </name>
 
   <name id="Minotaur" tags="m">
-    { #plural Minotaurs | Minotaur }
+    { #plural Minotauros | Minotaur }
   </name>
 
   <name id="Frightener" tags="n">
-    { #plural Frighteners | Frightener }
+    { #plural Assombrações | Frightener }
   </name>
 
   <name id="Wraith" tags="n">
-    { #plural Wraiths | Wraith }
+    { #plural Fúrias | Wraith }
   </name>
 
   <name id="SandHorror" tags="n">
-    { #plural Sand Horrors | Sand Horror }
+    { #plural Horrores de Areia | Sand Horror }
   </name>
 
   <name id="Imp" tags="an n">
-    { #plural Imps | Imp }
+    { #plural Diabretes | Imp }
   </name>
 
   <name id="Vampire" tags="m">
-    { #plural Vampires | Vampire }
+    { #plural Vampiros | Vampire }
   </name>
 
   <name id="Spitter" tags="n">
-    { #plural Spitters | Spitter }
+    { #plural Pogos | Spitter }
   </name>
 
   <name id="PlantCreature" tags="m">
-    { #plural Cormlings | Cormling }
+    { #plural Plantas-Vivas | Cormling }
   </name>
 
   <name id="BabyElephant" tags="n">
-    { #plural Baby Elephants | Baby Elephant }
+    { #plural Bebês Elefantes | Baby Elephant }
   </name>
 
   <name id="BabyMammoth" tags="n">
-    { #plural Baby Mammoths | Baby Mammoth }
+    { #plural Bebês Mamutes | Baby Mammoth }
   </name>
 
   <name id="PlantCreatureSprout" tags="n">
-    { #plural Cormling Sprouts | Cormling Sprout }
+    { #plural Viveiros de Plantas-Vivas | Cormling Sprout }
   </name>
 
   <name id="RadishCreature" tags="m">
-    { #plural Radishlings | Radishling }
+    { #plural Rabanetes | Radishling }
   </name>
 
   <name id="RadishCreatureSprout" tags="n">
-    { #plural Radishling Sprouts | Radishling Sprout }
+    { #plural Viveiros de Rabanetes | Radishling Sprout }
   </name>
 
   <name id="Onionling" tags="m an">
-    { #plural Onionlings | Onionling }
+    { #plural Cebolas | Onionling }
   </name>
 
   <name id="Chiling" tags="m">
-    { #plural Chilings | Chiling }
+    { #plural Pimentas | Chiling }
   </name>
 
   <name id="ChilingSprout" tags="m">
-    { #plural Chiling Sprouts | Chiling Sprout }
+    { #plural Viveiros de Pimentas | Chiling Sprout }
   </name>
 
   <name id="Habanero" tags="m">
@@ -830,35 +830,35 @@
   </name>
 
   <name id="Bloomling" tags="m">
-    { #plural Bloomlings | Bloomling }
+    { #plural Planteixos | Bloomling }
   </name>
 
   <name id="DesertOnionling" tags="m">
-    { #plural Desert Onionlings | Desert Onionling }
+    { #plural Cebolas dos Desertos | Desert Onionling }
   </name>
 
   <name id="Ginseng" tags="n">
-    { #plural Ginseng | Ginseng }
+    { #plural Gengibres | Ginseng }
   </name>
 
   <name id="Bush" tags="n">
-    { #plural Bushes | Bush }
+    { #plural Moitas | Bush }
   </name>
 
   <name id="SnowBush" tags="n">
-    { #plural Bushes | Bush }
+    { #plural Moitas | Bush }
   </name>
 
   <name id="SnowBerryBush" tags="n">
-    { #plural Snowberry Bushes | Snowberry Bush }
+    { #plural Moitas das Frutas de Neve | Snowberry Bush }
   </name>
 
   <name id="SnowBerry" tags="n">
-    { #plural Snowberries | Snowberry }
+    { #plural Frutas da Neve | Snowberry }
   </name>
 
   <name id="SnowBerryMash" tags="n">
-    { #plural Snowberry Mashes | Snowberry Mash }
+    { #plural Mix de Frutas da Neve | Snowberry Mash }
   </name>
 
   <name id="ThornTree" tags="n">
