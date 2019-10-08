@@ -1,0 +1,5479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+  <name id="Wizard" tags="m">
+    { #plural { #dativ Zauberern | Zauberer } | Zauberer }
+  </name>
+
+  <name id="Sorcerer" tags="m">
+    { #plural { #dativ Hexern | Hexer } | Hexer }
+  </name>
+
+  <name id="Necromancer" tags="m">
+    { #plural #dativ #akkusativ Nekromanten | Nekromant }
+  </name>
+
+  <name id="OldMan" tags="m">
+    { #plural { #dativ alten Männern | { #bestimmt alten | alte } Männer }
+    | { #dativ #akkusativ alten | #bestimmt alte | alter } Mann
+    }
+  </name>
+
+  <name id="LizardmanMale" tags="m m2">
+    { #plural #dativ #akkusativ Echsenmenschen | Echsenmensch }
+  </name>
+
+  <name id="LizardmanFemale" tags="f m2">
+    { #plural #dativ #akkusativ Echsenmenschen | Echsenmensch }
+  </name>
+
+  <name id="GoblinMale" tags="m m2">
+    { #plural Goblins | Goblin }
+  </name>
+
+  <name id="GoblinFemale" tags="f m2">
+    { #plural Goblins | Goblin }
+  </name>
+
+  <name id="Crow" tags="f">
+    { #plural Krähen | Krähe }
+  </name>
+
+  <name id="Parrot" tags="m">
+    { #plural Papageien | Papagei }
+  </name>
+
+  <name id="Peacock" tags="m">
+    { #plural Pfauen | Pfau }
+  </name>
+
+  <name id="Seagull" tags="f">
+    { #plural Möwen | Möwe }
+  </name>
+
+  <name id="Bat" tags="f">
+    { #plural { #dativ Fledermäusen | Fledermäuse } | Fledermaus }
+  </name>
+
+  <name id="Toucan" tags="m">
+    { #plural { #dativ Tukanen | Tukane } | Tukan }
+  </name>
+
+  <name id="Flamingo" tags="m">
+    { #plural Flamingos | Flamingo }
+  </name>
+
+  <name id="Hornet" tags="f">
+    { #plural Hornissen | Hornisse }
+  </name>
+
+  <name id="Bumblebee" tags="f">
+    { #plural Hummeln | Hummel }
+  </name>
+
+  <name id="Koala" tags="m">
+    { #plural Koalas | Koala }
+  </name>
+
+  <name id="Beaver" tags="m">
+    Biber
+  </name>
+
+  <name id="Moose" tags="m">
+    { #plural { #dativ Elchen | Elche } | Elch }
+  </name>
+
+  <name id="ManaDeer" tags="m">
+    { #plural { #dativ Mana-Hirschen | Mana-Hirsche } | Mana-Hirsch }
+  </name>
+
+  <name id="Zebra" tags="n">
+    { #plural Zebras | Zebra }
+  </name>
+
+  <name id="Elephant" tags="m">
+    { #plural #dativ #akkusativ Elefanten | Elefant }
+  </name>
+
+  <name id="Iceling" tags="m">
+    { #plural { #dativ Eislingen | Eislinge } | Eisling }
+  </name>
+
+  <name id="Rhino" tags="n">
+    { #plural { #dativ Nashörnern | Nashörner } | Nashorn }    
+  </name>
+
+  <name id="LionMale" tags="m">
+    { #plural #dativ #akkusativ Löwen | Löwe }   
+  </name>
+
+  <name id="LionFemale" tags="f">
+    { #plural Löwen | Löwin }    
+  </name>
+
+  <name id="SnowLionMale" tags="m">
+    { #plural #dativ #akkusativ Schneelöwen | Schneelöwe }
+  </name>
+
+  <name id="SnowLionFemale" tags="f">
+    { #plural Schneelöwen | Schneelöwin }
+  </name>
+
+  <name id="SnowLeopard" tags="m">
+    { #plural #dativ #akkusativ Schneeleoparden | Schneeleopard }
+  </name>
+
+  <name id="SilverLion" tags="m">
+    { #plural #dativ #akkusativ Silberlöwen | Silberlöwe }
+  </name>
+
+  <name id="Ostrich" tags="m">
+    { #plural #dativ #akkusativ Straußen | Strauß }   
+  </name>
+
+  <name id="InsectGuard" tags="m">
+    { #plural Insektenwachen | Insektenwache }
+  </name>
+
+  <name id="Mantis" tags="m">
+    Mantis
+  </name>
+
+  <name id="PlainRunner" tags="m">
+    { #plural { #dativ Ebenenläufern | Ebenenläufer } | Ebenenläufer }
+  </name>
+
+  <name id="LeafRunner" tags="m">
+    { #plural { #dativ Blattläufern | Blattläufer } | Blattläufer }
+  </name>
+
+  <name id="SnowRunner" tags="m">
+    { #plural { #dativ Schneeläufern | Schneeläufer } | Schneeläufer }
+  </name>
+
+  <name id="DesertRunner" tags="m">
+    { #plural { #dativ Wüstenläufern | Wüstenläufer } | Wüstenläufer }
+  </name>
+
+  <name id="Frog" tags="m">
+    { #plural { #dativ Fröschen | Frösche } | Frosch }
+  </name>
+
+  <name id="DwarfMale" tags="m">
+    { #plural { #dativ Zwergen | Zwerge } | Zwerg }
+  </name>
+
+  <name id="DwarfFemale" tags="f">
+    { #plural { #dativ Zwergen | Zwerge } | Zwergin }
+  </name>
+
+  <name id="FrogmanMale" tags="m">
+    { #plural #dativ #akkusativ Froschmenschen | Froschmensch }
+  </name>
+
+  <name id="FrogmanFemale" tags="f m2">
+    { #plural #dativ #akkusativ Froschmenschen | Froschmensch }
+  </name>
+
+  <name id="Mole" tags="m">
+    { #plural { #dativ Maulwürfen | Maulwürfe } | Maulwurf }
+  </name>
+
+  <name id="Horus" tags="m">
+    { #plural { #dativ Uralten Wächtern | { #bestimmt Uralten | Uralte } Wächter }
+    | { #dativ Uralten | #bestimmt Uralte Wächter | Uralter } Wächter }
+  </name>
+
+  <name id="Anubis" tags="m">
+    { #plural { #dativ Uralten Wächtern | { #bestimmt Uralten | Uralte } Wächter }
+    | { #dativ Uralten | #bestimmt Uralte | Uralter } Wächter }
+  </name>
+
+  <name id="Biter" tags="m">
+    Beißer
+  </name>
+
+  <name id="Squirrel" tags="m">
+    Eichhörnchen
+  </name>
+
+  <name id="Raccoon" tags="m">
+    { #plural #dativ #akkusativ Waschbären | Waschbär }
+  </name>
+
+  <name id="Duckbill" tags="n">
+    { #plural { #dativ Schnabeltieren | Schnabeltiere } | Schnabeltier }
+  </name>
+
+  <name id="Crocodile" tags="n">
+    { #plural { #dativ Krokodilen | Krokodile } | Krokodil }
+  </name>
+
+  <name id="Owl" tags="f">
+    { #plural Eulen | Eule }
+  </name>
+
+  <name id="Crab" tags="f">
+    { #plural Krabben | Krabbe }
+  </name>
+
+  <name id="Crawler" tags="m">
+    { #plural { #dativ Krabblern | Krabbler } | Krabbler }
+  </name>
+
+  <name id="BarkBeetle" tags="m">
+    { #plural { #dativ Borkenkäfern | Borkenkäfer } | Borkenkäfer }
+  </name>
+
+  <name id="SnoutBeetle" tags="m">
+    { #plural { #dativ Rüsselkäfern | Rüsselkäfer } | Rüsselkäfer }
+  </name>
+
+  <name id="LemonBeetle" tags="m">
+    { #plural { #dativ Zitronenkäfern | Zitronenkäfer } | Zitronenkäfer }
+  </name>
+
+  <name id="FireBeetle" tags="m">
+    { #plural { #dativ Feuerkäfern | Feuerkäfer } | Feuerkäfer }
+  </name>
+
+  <name id="LemonFish" tags="m">
+    { #plural { #dativ Zitronenfischen | Zitronenfische } | Zitronenfisch }
+  </name>
+
+  <name id="SapphireFish" tags="m">
+    { #plural { #dativ Saphirfischen | Saphirfische } | Saphirfisch }
+  </name>
+
+  <name id="Shark" tags="m">
+    { #plural { #dativ Haien | Haie } | Hai }
+  </name>
+
+  <name id="LanternFish" tags="m">
+    { #plural { #dativ Laternenfischen | Laternenfische } | Laternenfisch }
+  </name>
+
+  <name id="MawFish" tags="m">
+    { #plural { #dativ Schlundfischen | Schlundfische } | Schlundfisch }
+  </name>
+
+  <name id="Piranha" tags="m">
+    { #plural Piranhas | Piranha }
+  </name>
+
+  <name id="Blowfish" tags="m">
+    { #plural { #dativ Kugelfischen | Kugelfische } | Kugelfisch }
+  </name>
+
+  <name id="Seahorse" tags="n">
+    Seepferdchen
+  </name>
+
+  <name id="Vase" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+
+  <name id="SeaCrab" tags="f">
+    { #plural Meereskrabben | Meereskrabbe }
+  </name>
+
+  <name id="Penguin" tags="m">
+    { #plural { #dativ Pinguinen | Pinguine } | Pinguin }
+  </name>
+
+  <name id="OrcMale" tags="m">
+    { #plural Orks | Ork }   
+  </name>
+
+  <name id="OrcFemale" tags="f m2">
+    { #plural Orks | Ork }
+  </name>
+
+  <name id="UndeadMale" tags="m an">
+    { #plural { #bestimmt #dativ #akkusativ Untoten | Untote } | { #dativ Untoten | #bestimmt Untote | Untoter} }
+  </name>
+
+  <name id="UndeadFemale" tags="f an">
+    { #plural { #bestimmt #dativ #akkusativ Untoten | Untote } | { #dativ Untoten | Untote} }
+  </name>
+
+  <name id="Skeleton" tags="n">
+    { #plural { #dativ Skeletten | Skelette } | Skelett }
+  </name>
+
+  <name id="SkeletonKnight" tags="m">
+    { #plural { #dativ Skelettrittern | Skelettritter } | Skelettritter }
+  </name>
+
+  <name id="SkeletonHorse" tags="n">
+    { #plural { #dativ Skelettpferden | Skelettpferde } | Skelettpferd }
+  </name>
+
+  <name id="GoldKnightHorse" tags="n">
+    { #plural { #dativ Goldritter-Pferden | Goldritter-Pferde } | Goldritter-Pferd }
+  </name>
+
+  <name id="Dragon" tags="m">
+    { #plural #dativ #akkusativ Drachen | Drache }
+  </name>
+
+  <name id="IronDeposit" tags="n">
+    Eisenvorkommen
+  </name>
+
+  <name id="GoldDeposit" tags="n">
+    Goldvorkommen
+  </name>
+
+  <name id="SilverDeposit" tags="n">
+    Silbervorkommen
+  </name>
+
+  <name id="SandstoneDeposit" tags="n">
+    Sandsteinvorkommen
+  </name>
+
+  <name id="IceCrystalDeposit" tags="n">
+    Eiskristallvorkommen
+  </name>
+
+  <name id="EmeraldDeposit" tags="n">
+    Smaragdvorkommen
+  </name>
+
+  <name id="DiamondDeposit" tags="n">
+    Diamantvorkommen
+  </name>
+
+  <name id="RubyDeposit" tags="n">
+    Rubinvorkommen
+  </name>
+
+  <name id="SapphireDeposit" tags="n">
+    Saphirvorkommen
+  </name>
+
+  <name id="HumanMale" tags="m">
+    { #plural #dativ #akkusativ Menschen | Mensch }
+  </name>
+
+  <name id="HumanFemale" tags="f m2">
+    { #plural #dativ #akkusativ Menschen | Mensch }
+  </name>
+
+  <name id="ElfMale" tags="m">
+    { #plural #dativ #akkusativ Elfen | Elf }
+  </name>
+
+  <name id="ElfFemale" tags="f">
+    { #plural Elfen | Elfin }
+  </name>
+
+  <name id="Bunny" tags="m">
+    { #plural #dativ #akkusativ Hasen | Hase }
+  </name>
+
+  <name id="Porcupine" tags="m">
+    { #plural { #dativ Stacheltieren | Stacheltiere } | Stacheltier }
+  </name>
+
+  <name id="Collie" tags="m">
+    { #plural Collies | Collie }
+  </name>
+
+  <name id="SavageDog" tags="m">
+    { #plural { #dativ Kampfhunden | Kampfhunde } | Kampfhund }
+  </name>
+
+  <name id="AlphaDog" tags="m">
+    { #plural { #dativ Alpha-Hunden | Alpha-Hunde } | Alpha-Hund }
+  </name>
+
+  <name id="ShepherdDog" tags="m">
+    { #plural { #dativ Schäferhunden | Schäferhunde } | Schäferhund }
+  </name>
+
+  <name id="Cow" tags="m">
+    { #plural { #dativ Kühen | Kühe } | Kuh }
+  </name>
+
+  <name id="Alpaca" tags="n">
+    { #plural Alpacas | Alpaca }
+  </name>
+
+  <name id="BrownAlpaca" tags="n">
+    { #plural Alpacas | Alpaca }
+  </name>
+
+  <name id="SkullBull" tags="m">
+    { #plural #dativ #akkusativ Schädelbullen | Schädelbulle }
+  </name>
+
+  <name id="Egg" tags="n">
+    { #plural { #dativ Eiern | Eier } | Ei }
+  </name>
+
+  <name id="Turtle" tags="f">
+    { #plural Schildkröten | Schildkröte }
+  </name>
+
+  <name id="BlueTurtle" tags="f">
+    { #plural Schildkröten | Schildkröte }
+  </name>
+
+  <name id="LavaTurtle" tags="f">
+    { #plural Lavaschildkröten | Lavaschildkröte }
+  </name>
+
+  <name id="Terrier" tags="m">
+    { #plural { #dativ Terriern | Terrier } | Terrier }
+  </name>
+
+  <name id="ScottishTerrier" tags="m">
+    Scottish { #plural { #dativ Terriern | Terrier } | Terrier }
+  </name>
+
+  <name id="Panther" tags="m">
+    { #plural { #dativ Panthern | Panther } | Panther }
+  </name>
+
+  <name id="Cat" tags="f">
+    { #plural Katzen | Katze }
+  </name>
+
+  <name id="BrownCat" tags="f">
+    { #plural Katzen | Katze }
+  </name>
+
+  <name id="WhiteCat" tags="f">
+    { #plural Katzen | Katze }
+  </name>
+
+  <name id="Pig" tags="n">
+    { #plural { #dativ Schweinen | Schweine } | Schwein }
+  </name>
+
+  <name id="Sheep" tags="n">
+    { #plural { #dativ Schafen | Schafe } | Schaf }
+  </name>
+
+  <name id="Horse" tags="n">
+    { #plural { #dativ Pferden | Pferde } | Pferd }
+  </name>
+
+  <name id="Camel" tags="n">
+    { #plural { #dativ  Kamelen | Kamele } | Kamel }
+  </name>
+
+  <name id="Monkey" tags="m">
+    { #plural #dativ #akkusativ Affen | Affe }
+  </name>
+
+  <name id="Makake" tags="m">
+    { #plural #dativ #akkusativ Makaken | Makake }
+  </name>
+
+  <name id="SkeletonDog" tags="m">
+    { #plural { #dativ Skeletthunden | Skeletthunde } | Skeletthund }
+  </name>
+
+  <name id="Chicken" tags="n">
+    { #plural { #dativ Hühnern | Hühner } | Huhn }
+  </name>
+
+  <name id="Wolf" tags="m">
+    { #plural { #dativ Wölfen | Wölfe } | Wolf }
+  </name>
+
+  <name id="Hyena" tags="f">
+    { #plural Hyänen | Hyäne }
+  </name>
+
+  <name id="Giraffe" tags="f">
+    { #plural Giraffen | Giraffe }
+  </name>
+
+  <name id="Warthog" tags="n">
+    { #plural { #dativ Warzenschweinen | Warzenschweine } | Warzenschwein }
+  </name>
+
+  <name id="Antelope" tags="f">
+    { #plural Antilopen | Antilope }
+  </name>
+
+  <name id="Devourer" tags="m">
+    { #plural { #dativ Verschlingern | Verschlinger } | Verschlinger }
+  </name>
+  
+  <name id="Fly" tags="f">
+    { #plural Fliegen | Fliege }
+  </name>
+
+  <name id="Midge" tags="f">
+    { #plural Mücken | Mücke }
+  </name>
+
+  <name id="Mosquito" tags="m">
+    { #plural Moskitos | Moskito }
+  </name>
+
+  <name id="GreenSlime" tags="m">
+    { #plural { #dativ Schleimen | Schleime } | Schleim }
+  </name>
+
+  <name id="PinkSlime" tags="m">
+    { #plural { #dativ Schleimen | Schleime } | Schleim }
+  </name>
+
+  <name id="YellowSlime" tags="m">
+    { #plural { #dativ Schleimen | Schleime } | Schleim }
+  </name>
+
+  <name id="BlueSlime" tags="m">
+    { #plural { #dativ Schleimen | Schleime } | Schleim }
+  </name>
+
+  <name id="Witch" tags="f">
+    { #plural Hexen | Hexe }
+  </name>
+
+  <name id="Gnobold" tags="m">
+    { #plural { #dativ Gnobolden | Gnobolde } | Gnobold }
+  </name>
+
+  <name id="SnowGnobold" tags="m">
+    { #plural { #dativ Schneegnobolden | Schneegnobolde } | Schneegnobold }
+  </name>
+
+  <name id="Insectoid" tags="m">
+    { #plural Insektoiden | Insektoid }
+  </name>
+
+  <name id="Jester" tags="m">
+    { #plural #dativ #akkusativ Narren | Narr }
+  </name>
+  
+  <name id="Gnoll" tags="m">
+    { #plural { #dativ Gnollen | Gnolle } | Gnoll }
+  </name>
+
+  <name id="PolarGnoll" tags="m">
+    { #plural { #dativ Polargnollen | Polargnolle } | Polargnoll }
+  </name>
+
+  <name id="Mermaid" tags="f">
+    { #plural Meerjungfrauen | Meerjungfrau }
+  </name>
+
+  <name id="Merman" tags="m">
+    { #plural { #dativ Meermännern | Meermänner } | Meermann }
+  </name>
+
+  <name id="EmpireSoldierMale" tags="m">
+    { #plural Soldaten | Soldat }
+  </name>
+
+  <name id="EmpireSoldierFemale" tags="f">
+    { #plural Soldaten | Soldatin }
+  </name>
+
+  <name id="Empress" tags="f">
+    { #plural Imperatorinnen | Imperatorin }
+  </name>
+
+  <name id="HalfDemon" tags="m">
+    { #plural Halbdämonen | Halbdämon }
+  </name>
+
+  <name id="Archdruid" tags="m">
+    { #plural Erzdruiden | Erzdruide }
+  </name>
+
+  <name id="GhostPreacher" tags="m">
+    Geistprediger
+  </name>
+
+  <name id="LegendaryPaladin" tags="m">
+    Legendärer Paladin
+  </name>
+
+  <name id="Angel" tags="f">
+    Engel
+  </name>
+
+  <name id="ManaMech" tags="m">
+    { #plural Mana-Mechs | Mana-Mech }
+  </name>
+
+  <name id="Treant" tags="m">
+    { #plural Treants | Treant }
+  </name>
+
+  <name id="FireRunestone" tags="m">
+    { #plural Feuer-Runensteine | Feuer-Runenstein }
+  </name>
+  <name id="WaterRunestone" tags="m">
+    { #plural Wasser-Runensteine | Wasser-Runenstein }
+  </name>
+  <name id="IceRunestone" tags="m">
+    { #plural Eis-Runensteine | Eis-Runenstein }
+  </name>
+  <name id="WindRunestone" tags="m">
+    { #plural Wind-Runensteine | Wind-Runenstein }
+  </name>
+
+  <name id="RunePortal" tags="n">
+    { #plural { #dativ Runenportalen | Runenportale } | Runenportal }
+  </name>
+
+  <name id="Monstrosity" tags="f">
+    { #plural Monstrositäten | Monstrosität }
+  </name>
+
+  <name id="SkullSlater" tags="f">
+    { #plural Schädel-Asseln | Schädel-Assel }
+  </name>
+
+  <name id="TortureRack" tags="f">
+    { #plural { #dativ Folterbänken | Folterbänke } | Folterbank }
+  </name>
+
+  <name id="LegIrons" tags="f">
+    { #plural Fußfesseln | Fußfessel }
+  </name>
+
+  <name id="Pole" tags="m">
+    { #plural { #dativ Pfählen | Pfähle } | Pfahl }
+  </name>
+
+  <name id="CeilingChain" tags="f">
+    { #plural Ketten | Kette }
+  </name>
+
+  <name id="Mammoth" tags="n">
+    { #plural Mammuths | Mammuth }
+  </name>
+
+  <name id="Cyclops" tags="m">
+    { #plural #dativ #akkusativ Zyklopen | Zyklop }
+  </name>
+
+  <name id="RuneGiant" tags="m">
+    { #plural #dativ #akkusativ Runenriesen | Runenriese }
+  </name>
+
+  <name id="Yeti" tags="m">
+    { #plural Yetis | Yeti }
+  </name>
+
+  <name id="Golem" tags="m">
+    { #plural Golems | Golem }
+  </name>
+
+  <name id="EmberGolem" tags="m">
+    { #plural Glutgolems | Glutgolem }
+  </name>
+
+  <name id="SnowGolem" tags="m">
+    { #plural Schneegolems | Schneegolem }
+  </name>
+
+  <name id="HellDemon" tags="m">
+    { #plural #dativ #akkusativ Höllendämonen | Höllendämon }
+  </name>
+
+  <name id="Ogre" tags="m">
+    { #plural { #akkusativ #dativ Ogern | Oger } | Oger }
+  </name>
+
+  <name id="Rockling" tags="m">
+    { #plural { #dativ Felslingen | Felslinge } | Felsling }
+  </name>
+
+  <name id="SpikeCreature" tags="n">
+    Stachelwesen
+  </name>
+
+  <name id="Spectrino" tags="m">
+    { #plural Spectrinos | Spectrino }
+  </name>
+
+  <name id="Djinn" tags="m">
+    Dschinn
+  </name>
+
+  <name id="Minotaur" tags="m">
+    { #plural Minotauren | Minotaurus }
+  </name>
+
+  <name id="Frightener" tags="m">
+    Schrecken
+  </name>
+
+  <name id="Wraith" tags="n">
+    { #plural { #dativ Gespenstern | Gespenster } | Gespenst }
+  </name>
+
+  <name id="SandHorror" tags="m">
+    Sandschrecken
+  </name>
+
+  <name id="Imp" tags="m">
+    { #plural { #dativ Wichteln | Wichtel } | Wichtel }
+  </name>
+
+  <name id="Vampire" tags="m">
+    { #plural { #dativ Vampiren | Vampire } | Vampir }
+  </name>
+
+  <name id="Spitter" tags="m">
+    { #plural { #dativ Spuckern | Spucker } | Spucker }
+  </name>
+
+  <name id="PlantCreature" tags="m">
+    { #plural { #dativ Knollingen | Knollinge } | Knolling }
+  </name>
+
+  <name id="BabyElephant" tags="n">
+    { #plural Elefantenbabies | Elefantenbaby }
+  </name>
+
+  <name id="BabyMammoth" tags="n">
+    { #plural Mammuthbabies | Mammuthbaby }
+  </name>
+
+  <name id="PlantCreatureSprout" tags="n">
+    { #plural { #dativ Knolling-Sprossen | Knolling-Sprosse } | Knolling-Spross }
+  </name>
+
+  <name id="RadishCreature" tags="m">
+    { #plural { #dativ Radieslingen | Radieslinge } | Radiesling }
+  </name>
+
+  <name id="RadishCreatureSprout" tags="m">
+    { #plural { #dativ Radiesling-Sprossen | Radiesling-Sprosse } | Radiesling-Spross }
+  </name>
+
+  <name id="Onionling" tags="m">
+    { #plural { #dativ Zwiebelingen | Zwiebelinge } | Zwiebeling }
+  </name>
+
+  <name id="DesertOnionling" tags="m">
+    { #plural { #dativ Wüstenzwiebelingen | Wüstenzwiebelinge } | Wüstenzwiebeling }
+  </name>
+
+  <name id="Ginseng" tags="m">
+    Ginseng
+  </name>
+
+  <name id="Bush" tags="m">
+    { #plural { #dativ Büschen | Büsche } | Busch }
+  </name>
+
+  <name id="SnowBush" tags="m">
+    { #plural { #dativ Büschen | Büsche } | Busch }
+  </name>
+
+  <name id="SnowBerryBush" tags="m">
+    { #plural { #dativ Schneebeeren-Büschen | Schneebeeren-Büsche } | Schneebeeren-Busch }
+  </name>
+
+  <name id="SnowBerry" tags="f">
+    { #plural Schneebeeren | Schneebeere }
+  </name>
+
+  <name id="SnowBerryMash" tags="n">
+    { #plural Schneebeeren-Pürees | Schneebeeren-Püree }
+  </name>
+
+
+  <name id="ThornTree" tags="m">
+    { #plural { #dativ Dornenbäumen | Dornenbäume } | Dornenbaum }
+  </name>
+
+
+  <name id="Cactus" tags="m">
+    { #plural Kakteen | Kaktus }
+  </name>
+
+  <name id="Dummy" tags="m">
+    { #plural Trainingspuppen | Trainingspuppe }
+  </name>
+  
+  <name id="Aim" tags="m">
+    { #plural Zielscheiben | Zielscheibe }
+  </name>
+
+  <name id="DemonPortal" tags="n">
+    { #plural { #dativ Dämonenportalen | Dämonenportale } | Dämonenportal }
+  </name>
+
+  <name id="SlimeWell" tags="m">
+    Schleimbrunnen
+  </name>
+
+  <name id="HornetsNest" tags="n">
+    { #plural { #dativ Hornissennestern | Hornissennester } | Hornissennest }
+  </name>
+
+  <name id="UnholyTomb" tags="n">
+    { #plural { #dativ unheiligen Gräbern
+              | { #bestimmt #akkusativ unheiligen | unheilige } Gräber
+              }
+    | { #dativ unheiligen | #bestimmt #akkusativ unheilige | unheiliges } Grab
+    }
+  </name>  
+  
+  <name id="BonePile" tags="m">
+    Knochenhaufen
+  </name>
+
+  <name id="Molehill" tags="m">
+    Maulwurfhügel
+  </name>  
+
+  <name id="CottonPlant" tags="f">
+    { #plural Baumwollpflanzen | Baumwollpflanze }
+  </name>
+
+  <name id="Capsule" tags="f">
+    { #plural Kapseln | Kapsel }
+  </name>
+
+  <name id="Scrub" tags="m">
+    { #plural { #dativ Sträuchern | Sträucher } | Strauch }
+  </name>
+
+  <name id="CobwebScrub" tags="m">
+    { #plural { #dativ Sträuchern | Sträucher } | Strauch }
+  </name>
+
+  <name id="FireScrub" tags="m">
+    { #plural { #dativ Feuersträuchern | Feuersträucher } | Feuerstrauch }
+  </name>
+
+  <name id="Scarecrow" tags="f">
+    { #plural Vogelscheuchen | Vogelscheuche }
+  </name>
+
+  <name id="NomadMale" tags="m">
+    { #plural #dativ #akkusativ Nomaden | Nomade }
+  </name>
+
+  <name id="NomadFemale" tags="f">
+    { #plural Nomaden | Nomadin }
+  </name>
+
+  <name id="DarkCultistMale" tags="m">
+    { #plural { #dativ #bestimmt Dunklen | Dunkle } Kultisten
+    | { #dativ Dunklen | #bestimmt Dunkle | Dunkler } Kultist
+    }
+  </name>
+
+  <name id="DarkCultistFemale" tags="f">
+    { #plural { #dativ #bestimmt Dunklen | Dunkle } Kultisten
+    | { #dativ Dunklen | Dunkle } Kultistin
+    }
+  </name>
+
+  <name id="PirateMale" tags="m">
+    { #plural Piraten | Pirat }
+  </name>
+
+  <name id="PirateFemale" tags="f">
+    { #plural Piraten | Piratin }
+  </name>
+
+  <name id="Saurian" tags="m">
+    Saurier
+  </name>
+
+  <name id="LesserSaurian" tags="m">
+    { #plural { #dativ #bestimmt Niederen | Niedere } { #dativ #akkusativ Sauriern | Saurier }
+    | { #dativ #akkusativ Niederen | #bestimmt Niedere | Niederer } Saurier
+    }
+  </name>
+
+  <name id="Zombie" tags="m">
+    { #plural Zombies | Zombie }
+  </name>
+
+  <name id="Lich" tags="m">
+    { #plural Lichs | Lich }
+  </name>
+
+  <name id="Troll" tags="m">
+    { #plural { #dativ #akkusativ Trollen | Trolle } | Troll }
+  </name>
+
+  <name id="LesserTroll" tags="m">
+    { #plural { #dativ #bestimmt Niederen | Niedere } { #dativ #akkusativ Trollen | Trolle }
+    | { #dativ #akkusativ Niederen | #bestimmt Niedere | Niederer } Troll
+    }
+  </name>
+
+  <name id="Werewolf" tags="m">
+    { #plural { #dativ Werwölfen | Werwölfe } | Werwolf }
+  </name>
+
+  <name id="DemonMarauder" tags="m">
+    { #plural { #dativ Dämonenmarodeuren | Dämonenmarodeure } | Dämonenmarodeur }
+  </name>
+
+  <name id="FlyingEye" tags="n">
+    { #plural { #dativ #bestimmt Fliegenden | Fliegende } Augen
+    | { #dativ Fliegenden | #bestimmt #akkusativ Fliegende | Fliegendes } Auge
+    }
+  </name>
+
+  <name id="DarkTroll" tags="m">
+    { #plural { #dativ Dunkeltrollen | Dunkeltrolle } | Dunkeltroll }
+  </name>
+
+  <name id="StoneTablet" tags="f">
+    { #plural Steintafeln | Steintafel }
+  </name>
+
+  <name id="Artifact" tags="n">
+    { #plural { #dativ Artefakten | Artefakte } | Artefakt }
+  </name>
+  
+  <name id="Amulet" tags="n">
+    { #plural { #dativ Amuletten | Amulette } | Amulett }
+  </name>
+
+  <name id="Ring" tags="m">
+    { #plural { #dativ Ringen | Ringe } | Ring }
+  </name>
+
+  <name id="Amulet1" tags="n">
+    { #plural { #dativ Amuletten | Amulette } | Amulett }
+  </name>
+
+  <name id="Amulet2" tags="n">
+    { #plural { #dativ Amuletten | Amulette } | Amulett }
+  </name>
+
+  <name id="Statue" tags="f">
+    { #plural Statuen | Statue }
+  </name>
+  
+  <name id="Door" tags="f">
+    { #plural Türen | Tür }
+  </name>
+  
+  <name id="BigDoor" tags="f">
+    { #plural Türen | Tür }
+  </name>
+  
+  <name id="Window" tags="n">
+    { #plural { #dativ Fenstern | Fenster } | Fenster }
+  </name>
+  
+  <name id="CastleWindow" tags="n">
+    { #plural { #dativ Fenstern | Fenster } | Fenster }
+  </name>
+  
+  <name id="Gate" tags="n">
+    { #plural { #dativ Toren | Tore } | Tor }
+  </name>
+
+  <name id="Wall" tags="f">
+    { #plural { #dativ Wänden | Wände } | Wand }
+  </name>
+
+  <name id="Spiderweb" tags="n">
+    { #plural { #dativ Spinnennetzen | Spinnennetze } | Spinnennetz }
+  </name>
+  
+  <name id="FireTrap" tags="f">
+    { #plural Feuerfallen | Feuerfalle }
+  </name>
+  
+  <name id="SpikeTrap" tags="f">
+    { #plural Stachelfallen | Stachelfalle }
+  </name>
+  
+  <name id="StompTrap" tags="f">
+    { #plural Stampffallen | Stampffalle }
+  </name>
+  
+  <name id="Lever" tags="m">
+    { #plural { #dativ Schaltern | Schalter } | Schalter }
+  </name>
+
+  <name id="LockedLever" tags="m">
+    { #plural { #dativ Schaltern | Schalter } | Schalter }
+  </name>
+
+  <name id="Tombstone" tags="m">
+    { #plural { #dativ Grabsteinen | Grabsteine } | Grabstein }
+  </name>
+
+  <name id="ManaPump" tags="f">
+    { #plural Mana-Pumpen | Mana-Pumpe }
+  </name>
+
+  <name id="ManaInductor" tags="m">
+    { #plural Mana-Spulen | Mana-Spule }
+  </name>
+
+  <name id="ManaGenerator" tags="m">
+    { #plural Mana-Generatoren | Mana-Generator }
+  </name>
+
+
+  <name id="Chest" tags="f">
+    { #plural Truhen | Truhe }
+  </name>
+
+  <name id="WoodChest" tags="f">
+    { #plural Holztruhen | Holztruhe }
+  </name>
+
+  <name id="SkullChest" tags="f">
+    { #plural Schädeltruhen | Schädeltruhe }
+  </name>
+
+  <name id="ObsidianChest" tags="f">
+    { #plural Obsidiantruhen | Obsidiantruhe }
+  </name>
+
+  <name id="BoneChest" tags="f">
+    { #plural Knochentruhen | Knochentruhe }
+  </name>
+
+  <name id="Table" tags="m">
+    { #plural { #dativ Tischen | Tische } | Tisch }
+  </name>
+  
+  <name id="Stool" tags="m">
+    { #plural { #dativ Stühlen | Stühle } | Stuhl }
+  </name>
+  
+  <name id="Bench" tags="f">
+    { #plural { #dativ Bänken | Bänke } | Bank }
+  </name>
+  
+  <name id="Bed" tags="n">
+    { #plural Betten | Bett }
+  </name>
+  
+  <name id="BedTable" tags="m">
+    { #plural { #dativ Nachttischen | Nachttische } | Nachttisch }
+  </name>
+  
+  <name id="MarketStand1" tags="m">
+    { #plural { #dativ Marktständen | Marktstände } | Marktstand }
+  </name>
+  
+  <name id="MarketStand2" tags="m">
+    { #plural { #dativ Marktständen | Marktstände } | Marktstand }
+  </name>
+  
+  <name id="MarketStand3" tags="m">
+    { #plural { #dativ Marktständen | Marktstände } | Marktstand }
+  </name>
+  
+  <name id="Barrel" tags="n">
+    { #plural { #dativ Fässern | Fässer } | Fass }
+  </name>
+  
+  <name id="Crate" tags="f">
+    { #plural Kisten | Kiste }
+  </name>
+  
+  <name id="OpenCrate" tags="f">
+    { #plural Kisten | Kiste }
+  </name>
+  
+  <name id="Sack" tags="m">
+    { #plural Säcke | Sack }
+  </name>
+  
+  <name id="Shelter" tags="n">
+    { #plural { #dativ Vordächern | Vordächer } | Vordach }
+  </name>
+  
+  <name id="Cupboard" tags="m">
+    { #plural { #dativ Schränken | Schränke } | Schrank }
+  </name>
+  
+  <name id="Desktop" tags="m">
+    { #plural { #dativ Schreibtischen | Schreibtische } | Schreibtisch }
+  </name>
+  
+  <name id="Counter" tags="f">
+    { #plural Bars | Bar }
+  </name>
+  
+  <name id="Shelf1" tags="n">
+    { #plural { #dativ Regalen | Regale } | Regal }
+  </name>
+  
+  <name id="Shelf2" tags="n">
+    { #plural { #dativ Regalen | Regale } | Regal }
+  </name>
+  
+  <name id="Shelf3" tags="n">
+    { #plural { #dativ Regalen | Regale } | Regal }
+  </name>
+  
+  <name id="Corpse" tags="f">
+    { #plural Leichen | Leiche }
+  </name>  
+ 
+  <name id="RuneStone" tags="m">
+    { #plural { #dativ Runensteinen | Runensteine } | Runenstein }
+  </name>
+  
+  <name id="Artifact" tags="n">
+    { #plural { #dativ Artefakten | Artefakte } | Artefakt }
+  </name>
+  
+  <name id="FlowerBox1" tags="m">
+    { #plural Blumenkästen | Blumenkasten }
+  </name>
+  
+  <name id="FlowerBox2" tags="m">
+    { #plural Blumenkästen | Blumenkasten }
+  </name>
+  
+  <name id="FlowerBox3" tags="m">
+    { #plural Blumenkästen | Blumenkasten }
+  </name>
+  
+  <name id="StreetLight" tags="f">
+    { #plural Laternen | Laterne }
+  </name>
+  
+  <name id="FireStreetLight" tags="f">
+    { #plural Laternen | Laterne }
+  </name>
+  
+  <name id="Fence1" tags="m">
+    { #plural { #dativ Zäunen | Zäune } | Zaun }
+  </name>
+  
+  <name id="Fence2" tags="m">
+    { #plural { #dativ Zäunen | Zäune } | Zaun }
+  </name>
+  
+  <name id="Fence3" tags="m">
+    { #plural { #dativ Zäunen | Zäune } | Zaun }
+  </name>
+  
+  <name id="Fence4" tags="m">
+    { #plural { #dativ Zäunen | Zäune } | Zaun }
+  </name>
+
+  <name id="Furnace" tags="m">
+    { #plural Schmelzöfen | Schmelzofen }
+  </name>
+
+  <name id="Anvil" tags="m">
+    { #plural { #dativ Ambossen | Ambosse } | Amboss }
+  </name>
+
+  <name id="SpinningWheel" tags="n">
+    { #plural { #dativ Spinnrädern | Spinnräder } | Spinnrad }
+  </name>
+
+  <name id="Loom" tags="m">
+    { #plural { #dativ Webstühlen | Webstühle } | Webstuhl }
+  </name>
+
+  <name id="SawBench" tags="f">
+    { #plural Sägen | Säge }
+  </name>
+
+  <name id="Workbench" tags="f">
+    { #plural Arbeitsplatten | Arbeitsplatte }
+  </name>
+
+  <name id="Customization Bench" tags="f">
+    { #plural Anpassungsplatten | Anpassungsplatte }
+  </name>
+
+  <name id="Vase1" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase2" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase3" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase4" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase5" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase6" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase7" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase8" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Vase9" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+  
+  <name id="Campfire" tags="n">
+    { #plural { #dativ Lagerfeuern | Lagerfeuer } | Lagerfeuer }
+  </name>
+  
+  <name id="Tent" tags="n">
+    { #plural { #dativ Zelten | Zelte } | Zelt }
+  </name>
+
+  <name id="Sunshade" tags="m">
+    { #plural { #dativ Sonnenschirmen | Sonnenschirme } | Sonnenschirm }
+  </name>
+
+  <name id="Sign" tags="n">
+    { #plural { #dativ Schildern | Schilder } | Schild }
+  </name>
+
+  <name id="BeachTowel" tags="n">
+    { #plural { #dativ Handtüchern | Handtücher } | Handtuch }
+  </name>
+
+  <name id="SleepingMat" tags="f">
+    { #plural Schlafmatten | Schlafmatte }
+  </name>
+
+  <name id="Cage1" tags="m">
+    { #plural { #dativ Käfigen | Käfige } | Käfig }    
+  </name>
+
+  <name id="Cage2" tags="m">
+    { #plural { #dativ Käfigen | Käfige } | Käfig }
+  </name>
+
+  <name id="Cage3" tags="m">
+    { #plural { #dativ Käfigen | Käfige } | Käfig }
+  </name>
+  
+  <name id="Cage4" tags="m">
+    { #plural { #dativ Käfigen | Käfige } | Käfig }
+  </name>
+
+  <name id="Cauldron" tags="m">
+    { #plural { #dativ Kesseln | Kessel } | Kessel }
+  </name>
+
+  <name id="Brazier" tags="f">
+    { #plural Kohlenpfannen | Kohlenpfanne }
+  </name>
+
+  <name id="GhostBrazier" tags="n">
+    { #plural { #dativ Geisterfeuer | Geisterfeuer } | Geisterfeuer }
+  </name>
+
+  <name id="UnholyBonfire" tags="n">
+    { #plural { #dativ Unheiligen Leuchtfeuern | { #bestimmt Unheiligen | Unheilige } Leuchtfeuer }
+    | { #dativ Unheiligen | #akkusativ #bestimmt Unheilige | Unheiliges } Leuchtfeuer
+    }
+  </name>
+
+  <name id="Wagon" tags="m">
+    Wagen
+  </name>
+
+  <name id="WitchWagon" tags="m">
+    Hexenwagen
+  </name>
+
+  <name id="RuneCube" tags="m">
+    { #plural { #dativ Rubenwürfeln | Runenwürfel } | Runenwürfel }
+  </name>
+
+  <name id="ShrineOfTheLight" tags="m">
+    { #plural { #dativ Schreinen | Schreine } | Schrein } des Lichts
+  </name>
+
+  <name id="Boots" tags="p m">
+    { #dativ Stiefeln | Stiefel }
+  </name>
+
+  <name id="Gloves" tags="p m">
+    { #dativ Handschuhen | Handschuhe }
+  </name>
+
+  <name id="ChestArmor" tags="f">
+    { #plural Brustrüstungen | Brustrüstung }
+  </name>
+
+  <name id="ShoulderArmor" tags="f">
+    { #plural Schulterrüstungen | Schulterrüstung }
+  </name>
+
+  <name id="Sword" tags="n">
+    { #plural { #dativ Schwertern | Schwerter } | Schwert }
+  </name>
+
+  <name id="Dagger" tags="m">
+    { #plural { #dativ Dolchen | Dolche } | Dolch }
+  </name>
+
+  <name id="Fist" tags="f">
+    { #plural Faustwaffen | Faustwaffe }
+  </name>
+
+  <name id="Mace" tags="m">
+    Streitkolben
+  </name>
+
+  <name id="Axe" tags="f">
+    { #plural { #dativ Äxten | Äxte } | Axt }
+  </name>
+
+  <name id="Bow" tags="m">
+    { #plural Bögen | Bogen }
+  </name>
+
+  <name id="Crossbow" tags="f">
+    { #plural { #dativ Armbrüsten | Armbrüste } | Armbrust }
+  </name>
+
+  <name id="Boomerang" tags="m">
+    { #plural Bumerangs | Bumerang }
+  </name>
+
+  <name id="Arrows" tags="p m">
+    { #dativ Pfeilen | Pfeile }
+  </name>
+
+  <name id="Arrow" tags="m">
+    { #plural { #dativ Pfeilen | Pfeile } | Pfeil }
+  </name>
+
+  <name id="Torch" tags="f">
+    { #dativ Fackeln | Fackel }
+  </name>
+
+  <name id="Staff" tags="m">
+    { #plural { #dativ Stäben | Stäbe } | Stab }
+  </name>
+
+  <name id="Wand" tags="m">
+    { #plural { #dativ Zauberstäben | Zauberstäbe } | Zauberstab }
+  </name>
+
+  <name id="Bracelet" tags="m">
+    { #plural { #dativ Armreifen | Armreife } | Armreif }
+  </name>
+
+  <name id="Shield" tags="m">
+    { #plural { #dativ Schilden | Schilde } | Schild }
+  </name>
+
+  <name id="Greatsword" tags="n">
+    { #plural { #dativ Großschwertern | Großschwerter } | Großschwert }
+  </name>
+
+  <name id="Greataxe" tags="f">
+    { #plural { #dativ Großäxten | Großäxte } | Großaxt }
+  </name>
+
+  <name id="Greatmace" tags="m">
+    Großstreitkolben
+  </name>
+
+  <name id="Longsword" tags="n">
+    { #plural { #dativ Langschwertern | Langschwerter } | Langschwert }
+  </name>
+
+  <name id="Coin" tags="f">
+    { #plural Münzen | Münze }
+  </name>
+
+  <name id="Candle" tags="f">
+    { #plural Kerzen | Kerze }
+  </name>
+
+  <name id="HangGlider" tags="m">
+    { #plural { #dativ Drachenfliegern | Drachenflieger } | Drachenflieger }
+  </name>
+
+  <name id="Boat" tags="m">
+    { #plural { #dativ Booten | Boote } | Boot }
+  </name>
+
+  <name id="Lamp" tags="f">
+    { #plural Lampen | Lampe }
+  </name>
+
+  <name id="ManaCube" tags="m">
+    { #plural { #dativ Manawürfeln | Manawürfel } | Manawürfel }
+  </name>
+
+  <name id="Mushroom" tags="m">
+    { #plural { #dativ Pilzen | Pilze } | Pilz }
+  </name>
+
+  <name id="ShimmerMushroom" tags="m">
+    { #plural { #dativ Schimmerpilzen | Schimmerpilze } | Schimmerpilz }
+  </name>
+
+  <name id="GinsengRoot" tags="f">
+    { #plural Ginsengwurzeln | Ginsengwurzel }
+  </name>
+
+  <name id="MushroomSpit" tags="m">
+    { #plural { #dativ Pilzspießen | Pilzspieße } | Pilzspieß }
+  </name>
+
+  <name id="Cookie">
+    { #plural { #dativ Keksen | Kekse } | Keks }
+  </name>
+
+  <name id="Bait" tags="m">
+    { #plural { #dativ Ködern | Köder } | Köder }
+  </name>
+
+  <name id="BlueJelly" tags="m">
+    { #plural { #dativ Blauen | { #bestimmt Blauen | Blaue } } Wackelpuddings
+    | { #dativ Blauen | #bestimmt Blaue | Blauer } Wackelpudding
+    }
+  </name>
+
+  <name id="GreenJelly" tags="m">
+    { #plural { #dativ Grünen | { #bestimmt Grünen | Grüne } } Wackelpuddings
+    | { #dativ Grünen | #bestimmt Grüne | Grüner } Wackelpudding
+    }
+  </name>
+
+  <name id="PinkJelly" tags="m">
+    Rosa { #plural Wackelpuddings | Wackelpudding }
+  </name>
+
+  <name id="YellowJelly" tags="m">
+    { #plural { #dativ Gelben | { #bestimmt Gelben | Gelbe } } Wackelpuddings
+    | { #dativ Gelben | #bestimmt Gelbe | Gelber } Wackelpudding
+    }
+  </name>
+
+  <name id="Carrot" tags="f">
+    { #plural Karotten | Karotte }
+  </name>
+
+  <name id="PumpkinMash" tags="n">
+    { #plural Kürbis-Pürees | Kürbis-Püree }
+  </name>
+
+  <name id="BananaMash" tags="n">
+    { #plural Bananen-Pürees | Bananen-Püree }
+  </name>
+
+  <name id="Candy" tags="n">
+    { #plural Bonbons | Bonbon }
+  </name>
+
+  <name id="Lollipop" tags="m">
+    Lutscher
+  </name>
+
+  <name id="Softice" tags="n">
+    { #plural Softeise | Softeis }
+  </name>
+
+  <name id="ChocolateDonut" tags="m">
+    { #plural Schokoladen-Donuts | Schokoladen-Donut }
+  </name>
+
+  <name id="CottonCandy" tags="f">
+    { #plural Zuckerwatten | Zuckerwatte }
+  </name>
+
+  <name id="Popcorn" tags="n">
+    Popcorn
+  </name>
+
+  <name id="CerealBar" tags="m">
+    Müsliriegel
+  </name>
+
+  <name id="StrawberryCake" tags="m">
+    Erdbeerkuchen
+  </name>
+
+  <name id="ChocolateCake" tags="m">
+    Schokoladenkuchen
+  </name>
+
+  <name id="ChocolateCupcake" tags="m">
+    { #plural Schokoladen-Muffins | Schokoladen-Muffin }
+  </name>
+
+  <name id="VanillaCupcake" tags="m">
+    { #plural Vanille-Muffins | Vanille-Muffin }
+  </name> 
+
+  <name id="BananaSplit" tags="n">
+    { #plural Bananen-Splits | Bananen-Split }
+  </name>
+
+  <name id="Croissant" tags="n">
+    { #plural Croissants | Croissant }
+  </name>
+
+  <name id="Bread" tags="n">
+    { #plural Brote | Brot }
+  </name>
+
+  <name id="Lolly" tags="m">
+    { #plural Lollies | Lolli }
+  </name>
+
+  <name id="LemonTart" tags="m">
+    Zitronenkuchen
+  </name>
+
+  <name id="ChocolateCookie" tags="m">
+    { #plural { #dativ Schokoladenkeksen | Schokoladenkekse } | Schokoladenkeks }
+  </name>
+
+  <name id="BubbleGum" tags="m">
+    { #plural Kaugummis | Kaugummi }
+  </name>
+
+  <name id="LicoriceCandy" tags="m">
+    { #plural Lakritzbonbons | Lakritzbonbon }
+  </name>
+
+  <name id="CinnamonRole" tags="f">
+    { #plural Zimtschnecken | Zimtschnecke }
+  </name>
+  
+  <name id="AppleRing" tags="m">
+    { #plural { #dativ Apfelringen | Apfelringe } | Apfelring }
+  </name>
+
+  <name id="Waffle" tags="f">
+    { #plural Waffeln | Waffel }
+  </name>
+
+  <name id="WaterIce" tags="n">
+    { #plural { #dativ Wassereisen | Wassereise } | Wassereis }
+  </name>
+
+  <name id="DateCookie" tags="m">
+    { #plural { #dativ Dattelkeksen | Dattelkekse } | Dattelkeks }
+  </name>
+
+  <name id="CandiedApple" tags="m">
+    { #plural { #dativ Kandierten | { #bestimmt Kandierten | Kandierte } } Äpfel
+    | { #dativ Kandierten | #bestimmt Kandierten | Kandierter } Apfel
+    }
+  </name>
+
+  <name id="StrawberryCocktail" tags="m">
+    { #plural Erdbeer-Cocktails | Erdbeer-Cocktail }
+  </name>
+
+  <name id="MilkChocolateBar" tags="f">
+    { #plural Milchschokoladentafeln | Milchschokoladentafel }
+  </name>
+
+  <name id="CaramelChocolateBar" tags="f">
+    { #plural Karamelschokoladentafeln | Karamelschokoladentafel }
+  </name>
+
+  <name id="MintChocolateBar" tags="f">
+    { #plural Minzschokoladentafeln | Minzschokoladentafel }
+  </name>
+
+  <name id="WhiteChocolateBar" tags="f">
+    Weiße { #plural Schokoladentafeln | Schokoladentafel }
+  </name>
+
+  <name id="SugarCandy" tags="f">
+    { #plural Zuckerstangen | Zuckerstange }
+  </name>
+
+  <name id="BlackberryMarmelade" tags="f">
+    { #plural Brombeermarmeladen | Brombeermarmelade }
+  </name>
+
+  <name id="SaltedCaramel" tags="n">
+    { #plural { #dativ Gesalzenen | { #bestimmt Gesalzenen | Gesalzene } } Karamelle
+    | { #dativ Gesalzenen | #bestimmt #akkusativ Gesalzenen | Gesalzenes } Karamell
+    }
+  </name>
+
+  <name id="GingerTartlet" tags="n">
+    Ingwer-Törtchen
+  </name>
+
+  <name id="MangoJuice" tags="m">
+    { #plural { #dativ Mango-Nektaren | Mango-Nektare } | Mango-Nektar }
+  </name>
+
+  <name id="FruitBasket" tags="m">
+    { #plural { #dativ Fruchtkörben | Fruchtkörbe } | Fruchtkorb }
+  </name>
+
+  <name id="MelonIceCream" tags="f">
+    { #plural Melonen-Eiscremes | Melonen-Eiscreme }
+  </name>
+
+  <name id="BloodOrangeJuice" tags="m">
+    { #plural { #dativ Blutorangensäften | Blutorangensäfte } | Blutorangensaft }
+  </name>
+
+  <name id="Pancakes" tags="m">
+    Pfannkuchen
+  </name>
+
+  <name id="Curry" tags="n">
+    { #plural Curries | Curry }
+  </name>
+
+  <name id="BiscuitRole" tags="f">
+    { #plural Biscuit-Rollen | Biscuit-Rolle }
+  </name>
+
+  <name id="Buckhorn" tags="m">
+    { #plural { #dativ Spitzwegerichen | Spitzwegeriche } | Spitzwegerich }
+  </name>
+
+  <name id="EucalyptusCandy" tags="n">
+    { #plural Eukalyptus-Bonbons | Eukalyptus-Bonbon }
+  </name>
+
+  <name id="MineralWater" tags="n">
+    { #plural { #dativ Mineralwässern | Mineralwässer } | Mineralwasser }
+  </name>
+
+  <name id="SpringWater" tags="n">
+    { #plural { #dativ Quellwässern | Quellwässer } | Quellwasser }
+  </name>
+
+  <name id="Peanut" tags="f">
+    { #plural { #dativ Erdnüssen | Erdnüsse } | Erdnuss }
+  </name>
+
+  <name id="ChocolateIceCream" tags="f">
+    { #plural Schokoladeneiscremes | Schokoladeneiscreme }
+  </name>
+
+  <name id="RaspberryJuice" tags="m">
+    { #plural { #dativ #akkusativ Himber-Säften | Himber-Säfte } | Himbeer-Saft }
+  </name>
+  
+  <name id="Pumpkin" tags="m">
+    { #plural { #dativ #akkusativ Kürbissen | Kürbisse } | Kürbis }
+  </name>
+
+  <name id="Pineapple" tags="f">
+    Ananas
+  </name>
+
+  <name id="PineappleSlice" tags="f">
+    { #plural Ananas-Scheiben | Ananas-Scheibe }
+  </name>
+
+  <name id="PumpkinMuffin" tags="m">
+    { #plural Kürbis-Muffins | Kürbis-Muffins }
+  </name>
+
+  <name id="LifePotion" tags="m">
+    { #plural { #dativ Lebenstränken | Lebenstränke } | Lebenstrank }
+  </name>
+
+  <name id="GreaterLifePotion" tags="m">
+    { #plural { #dativ Großen Lebenstränken | { #bestimmt Großen | Große } Lebenstränke }
+    | { #dativ Großen | #bestimmt Große | Großer } Lebenstrank
+    }
+  </name>
+
+  <name id="CactusPotion" tags="m">
+    { #plural { #dativ Kaktustränken | Kaktustränke } | Kaktustrank }
+  </name>
+
+  <name id="ManaPotion" tags="m">
+    { #plural { #dativ Manatränken | Manatränke } | Manatrank }
+  </name>
+
+  <name id="Heartflower" tags="f">
+    { #plural Herzblumen | Herzblume }
+  </name>
+
+  <name id="PricklyPear" tags="f">
+    { #plural Kaktusfeigen | Kaktusfeige }
+  </name>
+
+  <name id="FrozenHeartflower" tags="f">
+    { #plural Eisblumen | Eisblume }
+  </name>
+
+  <name id="Soulflower" tags="f">
+    { #plural Seelenblumen | Seelenblume }
+  </name>
+
+  <name id="Mindflower" tags="f">
+    { #plural Gedankenblumen | Gedankenblume }
+  </name>
+
+  <name id="ManaOrchid" tags="f">
+    { #plural Manaorchideen | Manaorchidee }
+  </name>
+
+  <name id="Spiritflower" tags="f">
+    { #plural Geistblumen | Geistblume }
+  </name>
+
+  <name id="GinsengSoup" tags="f">
+    { #plural Ginsengsuppen | Ginsengsuppe }
+  </name>
+
+  <name id="RadishSlice" tags="f">
+    { #plural Radieschenscheiben | Radieschenscheibe }
+  </name>
+
+  <name id="OnionSlice" tags="f">
+    { #plural Zwiebelscheiben | Zwiebelscheibe }
+  </name>
+
+  <name id="WaterFlask" tags="n">
+    { #plural Wasserflaschen | Wasserflasche }
+  </name>
+
+  <name id="Bomb" tags="n">
+    { #plural Bomben | Bombe }
+  </name>
+
+  <name id="Nugget" tags="m">
+    Klumpen
+  </name>
+
+  <name id="Log" tags="m">
+    { #plural { #dativ Scheiten | Scheite } | Scheit }
+  </name>
+
+  <name id="Feather" tags="f">
+    { #plural Federn | Feder }
+  </name>
+
+  <name id="Horn" tags="n">
+    { #plural { #dativ Hörnern | Hörner } | Horn }
+  </name>
+
+  <name id="Claw" tags="f">
+    { #plural Klauen | Klaue }
+  </name>
+
+  <name id="Fiber" tags="f">
+    { #plural Fasern | Faser }
+  </name>
+
+  <name id="Cobweb" tags="f">
+    { #plural Spinnweben | Spinnwebe }
+  </name>
+
+  <name id="Hair" tags="n">
+    { #plural { #dativ Haaren | Haare } | Haar }
+  </name>
+
+  <name id="Crystal" tags="m">
+    { #plural { #dativ Kristallen | Kristalle } | Kristall }
+  </name>
+
+  <name id="PlatinumCoin" tags="f">
+    { #plural Platinmünzen | Platinmünze }
+  </name>
+
+  <name id="Yarn" tags="n">
+    { #plural { #dativ Garnen | Garne } | Garn }
+  </name>
+
+  <name id="Cube" tags="m">
+    { #plural { #dativ Würfeln | Würfel } | Würfel }
+  </name>
+
+  <name id="Orb" tags="f">
+    { #plural Kugeln | Kugel }
+  </name>
+
+  <name id="Spirit" tags="m">
+    { #plural { #dativ Geistern | Geister } | Geist }
+  </name>
+
+  <name id="Flask" tags="f">
+    { #plural Flaschen | Flasche }
+  </name>
+
+  <name id="Beak" tags="m">
+    { #plural { #dativ Schnäbeln | Schnäbel } | Schnabel }
+  </name>
+
+  <name id="JewelCase" tags="n">
+    Schmuckkästchen
+  </name>
+
+  <name id="Key" tags="m">
+    { #plural { #dativ Schlüsseln | Schlüssel } | Schlüssel }
+  </name>
+
+  <name id="RustyKey" tags="m">
+    { #plural { #dativ Rostigen Schlüsseln | { #bestimmt Rostigen | Rostige } Schlüssel }
+    | { #dativ #akkusativ Rostigen | #bestimmt Rostige | Rostiger } Schlüssel
+    }
+  </name>
+
+  <name id="GoldKey" tags="m">
+    { #plural { #dativ Goldenen Schlüsseln | { #bestimmt Goldenen | Goldene } Schlüssel }
+    | { #dativ #akkusativ Goldenen | #bestimmt Goldene | Goldener } Schlüssel
+    }
+  </name>
+
+  <name id="BoneKey" tags="m">
+    { #plural { #dativ Knochen-Schlüsseln | Knochen-Schlüssel } | Knochen-Schlüssel }
+  </name>
+  
+  <name id="BronzeKey" tags="m">
+    { #plural { #dativ Bronze-Schlüsseln | Bronze-Schlüssel } | Bronze-Schlüssel }
+  </name>
+
+  <name id="SilverKey" tags="m">
+    { #plural { #dativ Silber-Schlüsseln | Silber-Schlüssel } | Silber-Schlüssel }
+  </name>
+
+  <name id="SkullKey" tags="m">
+    { #plural { #dativ Schädel-Schlüsseln | Schädel-Schlüssel } | Schädel-Schlüssel }
+  </name>
+
+  <name id="IronKey" tags="m">
+    { #plural { #dativ Eisen-Schlüsseln | Eisen-Schlüssel } | Eisen-Schlüssel }
+  </name>
+
+  <name id="ScratchedKey" tags="m">
+    { #plural { #dativ Zerkratzten Schlüsseln | { #bestimmt #akkusativ Zerkratzten | Zerkratzte } Schlüssel }
+    | { #dativ #akkusativ Zerkratzten | #bestimmt Zerkratzte | Zerkratzter } Schlüssel
+    }
+  </name>
+
+  <name id="AdornedKey" tags="m">
+    { #plural { #dativ Verzierten Schlüsseln | { #bestimmt #akkusativ Verzierten | Verzierte } Schlüssel }
+    | { #dativ #akkusativ Verzierten | #bestimmt Verzierte | Verzierter } Schlüssel
+    }
+  </name>
+
+  <name id="CopperKey" tags="m">
+    { #plural { #dativ Kupfer-Schlüsseln | Kupfer-Schlüssel } | Kupfer-Schlüssel }
+  </name>
+
+  <name id="ObsidianKey" tags="m">
+    { #plural { #dativ Obsidian-Schlüsseln | Obsidian-Schlüssel } | Obsidian-Schlüssel }
+  </name>
+
+  <name id="SteelKey" tags="m">
+    { #plural { #dativ Stahl-Schlüsseln | Stahl-Schlüssel } | Stahl-Schlüssel }
+  </name>
+
+  <name id="TwistedKey" tags="m">
+    { #plural { #dativ Verdrehten Schlüsseln | { #bestimmt Verdrehten | Verdrehte } Schlüssel }
+    | { #dativ #akkusativ Verdrehten | #bestimmt Verdrehte | Verdrehter } Schlüssel
+    }
+  </name>
+
+  <name id="SmallKey" tags="m">
+    { #plural { #dativ Kleinen Schlüsseln | { #bestimmt Kleinen | Kleine } Schlüssel }
+    | { #dativ #akkusativ Kleinen | #bestimmt Kleine | Kleiner } Schlüssel
+    }
+  </name>
+
+  <name id="HeavyKey" tags="m">
+    { #plural { #dativ Schweren Schlüsseln | { #bestimmt Schweren | Schwere } Schlüssel }
+    | { #dativ #akkusativ Schweren | #bestimmt Schwere | Schwerer } Schlüssel
+    }
+  </name>
+
+  <name id="MassiveKey" tags="m">
+    { #plural { #dativ Massiven Schlüsseln | { #bestimmt Massiven | Massive } Schlüssel }
+    | { #dativ #akkusativ Massiven | #bestimmt Massive | Massiver } Schlüssel
+    }
+  </name>
+
+  <name id="WoodKey" tags="m">
+    { #plural { #dativ Holz-Schlüsseln | Holz-Schlüssel } | Holz-Schlüssel }
+  </name>
+
+  <name id="StoneKey" tags="m">
+    { #plural { #dativ Stein-Schlüsseln | Stein-Schlüssel } | Stein-Schlüssel }
+  </name>
+
+  <name id="TinyKey" tags="m">
+    { #plural { #dativ Winzigen Schlüsseln | { #bestimmt Winzigen | Winzige } Schlüssel }
+    | { #dativ #akkusativ Winzigen | #bestimmt Winzige | Winziger } Schlüssel
+    }
+  </name>
+
+  <name id="DelicateKey" tags="m">
+    { #plural { #dativ Filigranen Schlüsseln | { #bestimmt Filigranen | Filigrane } Schlüssel }
+    | { #dativ #akkusativ Filigranen | #bestimmt Filigrane | Filigraner } Schlüssel
+    }
+  </name>
+
+  <name id="ItemTreasure" tags="m">
+    { #plural { #dativ Schätzen von @ | Schätze von @ } | Schatz von @ }
+  </name>
+
+  <name id="ItemTreasureStatue" tags="f">
+    { #plural @-Statuen | @-Statue }
+  </name>
+
+  <name id="ItemTreasureJewel" tags="n">
+    { #plural Juwelen von @ | Juwel von @ }
+  </name>
+
+  <name id="ItemTreasureVase" tags="f">
+    { #plural @-Vasen | @-Vase }
+  </name>
+  
+  <name id="DemonIdol" tags="m">
+    { #plural #dativ #akkusativ Dämonengötzen | Dämonengötze }
+  </name>
+
+  <name id="BloodaxeClanBanner" tags="n">
+    { #plural { #dativ Blutaxt-Klan-Bannern | Blutaxt-Klan-Banner } | Blutaxt-Klan-Banner }
+  </name>
+
+  <name id="Herb" tags="n">
+    { #plural { #dativ @-Kräutern | @-Kräuter } | @-Kraut }
+  </name>
+
+  <name id="Flower" tags="n">
+    { #plural { #dativ @-Blumen | @-Blumen } | @-Blume }
+  </name>
+
+  <name id="Treasure" tags="m">
+    { #plural { #dativ Schätzen | Schätze } | Schatz }
+  </name>
+
+  <name id="TreasureStatue" tags="f">
+    { #plural Statuen | Statue }
+  </name>
+
+  <name id="TreasureJewel" tags="n">
+    { #plural Juwelen | Juwel }
+  </name>
+
+  <name id="TreasureVase" tags="f">
+    { #plural Vasen | Vase }
+  </name>
+
+  <name id="Medicine" tags="f">
+    { #plural Medizinen | Medizin }
+  </name>
+
+  <name id="Antivenom" tags="n">
+    { #plural { #dativ Gegengiften | Gegengifte } | Gegengift }
+  </name>
+
+  <name id="Painkiller" tags="n">
+    { #plural { #dativ Schmerzmitteln | Schmerzmittel } | Schmerzmittel }
+  </name>
+  
+  <name id="StaminaPotion" tags="m">
+    { #plural { #dativ Ausdauertränken | Ausdauertränke } | Ausdauertrank }
+  </name>
+  
+  <name id="BandAid" tags="n">
+    { #plural { #dativ Pflastern | Pflaster } | Pflaster }
+  </name>  
+
+  <name id="Crutch" tags="f">
+    { #plural Krücken | Krücke }
+  </name>
+
+  <name id="Bandage" tags="m">
+    { #plural { #dativ Verbänden | Verbände } | Verband }
+  </name>
+
+  <name id="Salve" tags="f">
+    { #plural Salben | Salbe }
+  </name>
+
+  <name id="DragonDrool" tags="m">
+    { #plural { #dativ Drachensabbern | Drachensabber } | Drachensabber }
+  </name>
+
+  <name id="FrogSlime" tags="m">
+    { #plural { #dativ Frosch-Schleimen | Frosch-Schleime } | Frosch-Schleim }
+  </name>
+
+  <name id="GargoyleTooth" tags="m">
+    { #plural { #dativ Gargoyle-Zähnen | Gargoyle-Zähne } | Gargoyle-Zahn }
+  </name>
+
+  <name id="SlimyEye" tags="f">
+    { #plural { #dativ #bestimmt Schleimigen | Schleimige } Augen
+    | { #dativ alten | #bestimmt Schleimige | Schleimiges } Auge
+    }
+  </name>
+
+  <name id="Broom" tags="m">
+    Besen
+  </name>
+
+  <name id="Anchor" tags="m">
+    Anker
+  </name>
+
+  <name id="WalkingStick" tags="m">
+    { #plural { #dativ Gehstöcken | Gehstöcke } | Gehstock }
+  </name>
+
+  <name id="TrollFingernail" tags="m">
+    { #plural { #dativ Troll-Fingernägeln | Troll-Fingernägel } | Troll-Fingernagel }
+  </name>
+
+  <name id="Spoon" tags="m">
+    Löffel
+  </name>
+
+  <name id="Socks" tags="m p">
+    Socken
+  </name>
+
+  <name id="PicnicBasket" tags="m">
+    { #plural { #dativ Picknick-Körben | Picknick-Körbe } | Picknick-Korb }
+  </name>
+
+  <name id="Pan" tags="f">
+    { #plural Pfannen | Pfanne }
+  </name>
+
+  <name id="LunchBox" tags="f">
+    { #plural Brotdosen | Brotdose }
+  </name>
+
+  <name id="LuckyCharm" tags="m">
+    { #plural { #dativ Talismanen | Talismane } | Talisman }
+  </name>
+
+  <name id="Belt" tags="m">
+    Gürtel
+  </name>
+
+  <name id="RareCrystal" tags="m">
+    { #plural { #dativ Seltenen @-Kristallen | { #bestimmt Seltenen | Seltene } @-Kristalle }
+    | { #dativ Seltenen | #bestimmt Seltene | Seltener } @-Kristall
+    }
+  </name>
+
+  <name id="FabricScrap" tags="m">
+    @-Stofffetzen
+  </name>
+
+  <name id="Button" tags="m">
+    { #plural { #dativ Knöpfen | Knöpfe } | Knopf }
+  </name>
+
+  <name id="Fruit" tags="f">
+    { #plural { #dativ Früchten | Früchte } | Frucht }
+  </name>
+
+  <name id="Nut" tags="f">
+    { #plural { #dativ @-Nüssen | @-Nüsse } | @-Nuss }
+  </name>
+
+  <name id="RareFiber" tags="f">
+    { #plural { #dativ #bestimmt Seltenen | Seltene } @-Fasern
+    | { #dativ Seltenen | Seltene } @-Faser
+    }
+  </name>
+
+  <name id="RareBlossom" tags="f">
+    { #plural { #dativ #bestimmt Seltenen | Seltene } @-Blüten
+    | { #dativ Seltenen | Seltene } @-Blüte
+    }
+  </name>
+
+  <name id="MagicBook" tags="n">
+    { #plural { #dativ Magischen Büchern von @ | { #bestimmt Magischen | Magische } Bücher von @ }
+    | {  #bestimmt { #dativ Magischen | Magische } | Magisches } Buch von @
+    }
+  </name>
+
+  <name id="QuestItemSpellBook" tags="n">
+    { #plural { #dativ @-Zauberbüchern | @-Zauberbücher } | @-Zauberbuch }
+  </name>
+
+  <name id="MagicallyLockedBook" tags="n">
+    { #plural { #dativ Magisch Versiegelten Büchern von @ | { #bestimmt Magisch Versiegelten | Magisch Versiegelte } Bücher von @ }
+    | { #dativ  Magisch Versiegelten | #akkusativ #bestimmt Magisch Versiegelte | Magisch Versiegeltes } Buch von @
+    }
+  </name>
+
+  <name id="BrokenWeapon" tags="f">
+    { #plural { #dativ #bestimmt Zerbrochenen | Zerbrochene } Waffen
+    | { #dativ Zerbrochenen | Zerbrochene } Waffe
+    }
+  </name>
+
+  <name id="EnchantedTimber" tags="n">
+    { #plural { #dativ Verzauberten @-Hölzern | { #bestimmt Verzauberten | Verzauberte } @-Hölzer }
+    | { #dativ Verzauberten | #bestimmt Verzauberte | Verzaubertes } @-Holz
+    }
+  </name>
+
+  <name id="GhostRemains" tags="m p">
+    { #dativ Geister-Überresten | Geister-Überreste }
+  </name>
+
+  <name id="Leftovers" tags="m p">
+    { #plural Überresten | Überreste }
+  </name>
+
+  <name id="Painting" tags="n">
+    { #plural { #dativ Gemälden | Gemälde } | Gemälde }
+  </name>
+
+  <name id="MaterialIron">
+    { #item Eisen-@ | Eisen }
+  </name>
+  <name id="MaterialWood">
+    { #item Holz-@ | Holz }
+  </name>
+  <name id="MaterialGold">
+    { #item Gold-@ | Gold }
+  </name>
+  <name id="MaterialIce">
+    { #item Eis-@ | Eis }
+  </name>
+  <name id="MaterialLight">
+    { #item Licht-@ | Licht }
+  </name>
+  <name id="MaterialGlass">
+    { #item Glas-@ | Glas }
+  </name>
+  <name id="MaterialSatin">
+    { #item Satin-@ | Satin }
+  </name>
+  <name id="MaterialSilk">
+    { #item Seiden-@ | Seide }
+  </name>
+  <name id="MaterialLinen">
+    { #item Leinen-@ | Leinen }
+  </name>
+  <name id="MaterialCotton">
+    { #item Baumwoll-@ | Baumwolle }
+  </name>
+  <name id="MaterialSilver">
+    { #item Silber-@ | Silber }
+  </name>
+  <name id="MaterialCopper">
+    { #item Kupfer-@ | Kupfer }
+  </name>
+  <name id="MaterialSandstone">
+    { #item Sandstein-@ | Sandstein }
+  </name>
+  <name id="MaterialEmerald">
+    { #item Smaragd-@ | Smaragd }
+  </name>
+  <name id="MaterialSapphire">
+    { #item Saphir-@ | Saphir }
+  </name>
+  <name id="MaterialRuby">
+    { #item Rubin-@ | Rubin }
+  </name>
+  <name id="MaterialDiamond">
+    { #item Diamant-@ | Diamant }
+  </name>
+  <name id="MaterialObsidian">
+    { #item Obsidian-@ | Obsidian }
+  </name>
+  <name id="MaterialSaurian">
+    { #item Saurier-@ | Saurier }
+  </name>
+  <name id="MaterialParrot">
+    { #item Papageien-@ | Papagei }
+  </name>
+  <name id="MaterialMammoth">
+    { #item Mammuth-@ | Mammuth }
+  </name>
+  <name id="MaterialPlant">
+    { #item Pflanzen-@ | Pflanze }
+  </name>
+  <name id="MaterialBone">
+    { #item Knochen-@ | Knochen }
+  </name>
+  <name id="MaterialUnholy">
+    { #item Unheilig-@ | Unheilig }
+  </name>
+  <name id="MaterialWind">
+    { #item Wind-@ | Wind }
+  </name>
+  <name id="MaterialBronze">
+    { #item Bronze-@ | Bronze }
+  </name>
+  <name id="MaterialWool">
+    { #item Woll-@ | Wolle }
+  </name>
+  <name id="MaterialFelt">
+    { #item Filz-@ | Filz }
+  </name>
+  <name id="MaterialFlannell">
+    { #item Flanell-@ | Flanell }
+  </name>
+  <name id="MaterialSteel">
+    { #item Stahl-@ | Stahl }
+  </name>
+  <name id="MaterialMail">
+    { #item Ketten-@ | Kette }
+  </name>
+  <name id="MaterialRivet">
+    { #item Nieten-@ | Niete }
+  </name>
+  <name id="MaterialFilament">
+    { #item Draht-@ | Draht }
+  </name>
+  <name id="MaterialSpike">
+    { #item Stachel-@ | Stachel }
+  </name>
+  <name id="MaterialFiber">
+    { #item Faser-@ | Faser }
+  </name>
+  <name id="MaterialScale">
+    { #item Schuppen-@ | Schuppe }
+  </name>
+  <name id="MaterialWeb">
+    { #item Gewebe-@ | Gewebe }
+  </name>
+  <name id="MaterialShadow">
+    { #item Schatten-@ | Schatten }
+  </name>
+  <name id="MaterialDark">
+    { #item Dunkel-@ | Dunkel }
+  </name>
+  <name id="MaterialDemon">
+    { #item Dämonen-@ | Dämon }
+  </name>
+  <name id="MaterialFire">
+    { #item Feuer-@ | Feuer }
+  </name>
+  <name id="MaterialDruid">
+    { #item Druiden-@ | Druide }
+  </name>
+  <name id="MaterialClothing">
+    { #item Stoff-@ | Stoff }
+  </name>
+
+  <name id="OrderOfTheLight">
+    Orden des Lichts
+  </name>
+  
+  <name id="BloodaxeClan">
+    Blutaxt-Klan
+  </name>
+  <name id="CultOfDoom">
+    Kult der Verdammnis
+  </name>
+  
+  <name id="UnholyPact">
+    Der Unheilige Pakt
+  </name>
+
+  <name id="SteelEmpire">
+    Stahl-Imperium
+  </name>
+
+  <name id="ExplorersGuild">
+    Forschergilde
+  </name>
+
+  <name id="DruidsOfMana">
+    Druiden des Mana
+  </name>
+
+  <name id="MonsterHunters">
+    Monsterjäger
+  </name>  
+  
+  <name id="Trade Quarter" tags="n in">
+    Handelsviertel
+  </name>
+  
+  <name id="Crafting Quarter" tags="n in">
+    Handwerksviertel
+  </name>
+
+  <name id="Class Quarter" tags="n in">
+    Abenteurerviertel
+  </name>
+  
+  <name id="Pet Quarter" tags="n in">
+    Haustierviertel
+  </name>
+
+  <name id="Mountain" tags="on">
+    @-Berg
+  </name>
+
+  <name id="Mountains" tags="in">
+    @-Gebirge
+  </name>
+
+  <name id="Valley" tags="n in">
+    @-Tal
+  </name>
+
+  <name id="Forest" tags="m in">
+    Wald von @
+  </name>
+
+  <name id="Wood" tags="m in the">
+    @-Forst
+  </name>
+
+  <name id="GiantForest" tags="m in">
+    Riesenwald von @
+  </name>
+
+  <name id="DarkForest" tags="m in">
+    { #dativ Dunklen | #bestimmt Dunkle | Dunkler } Wald von @
+  </name>
+
+  <name id="EnchantedForest" tags="m in">
+    { #dativ Verzauberten | #bestimmt Verzauberte | Verzauberter } Wald von @
+  </name>
+
+  <name id="Wetlands" tags="m in the p">
+    @-Auen
+  </name>
+
+  <name id="Glade" tags="m auf">
+    @-Lichtung
+  </name> 
+
+
+  <name id="Airship" tags="n auf">
+    @-Luftschiff
+  </name>
+
+  <name id="Jungle" tags="m in">
+    @-Dschungel
+  </name>
+
+  <name id="Lake" tags="m am">
+    @-See
+  </name>
+
+  <name id="Ruins" tags="p in">
+    Ruinen von @
+  </name>
+
+  <name id="Graveyard" tags="m auf">
+    Friedhof von @
+  </name>
+
+  <name id="AncientRuins" tags="p in">
+    { #dativ #bestimmt Alten | Alte } Ruinen von @
+  </name>
+
+  <name id="DesertRuins" tags="p in">
+    { #dativ #bestimmt Alten | Alte } Ruinen von @
+  </name>
+
+  <name id="JungleRuins" tags="p in">
+    { #dativ #bestimmt Alten | Alte } Ruinen von @
+  </name>
+
+  <name id="ForgottenRuins" tags="p in">
+    { #dativ #bestimmt Vergessenen | Vergessene } Ruinen von @
+  </name>
+
+  <name id="DarkSanctuary" tags="p in">
+    { #dativ #bestimmt Dunkle | Dunkles } Heiligtum von @
+  </name>
+
+  <name id="Cemetery" tags="n auf">
+    @-Friedhof
+  </name>
+
+  <name id="Barrows" tags="p in the">
+    { #dativ @-Hügelgräbern | @-Hügelgräber }
+  </name>
+
+  <name id="BloodaxeBase" tags="p in the">
+    Blutaxt-Posten von @
+  </name>
+
+  <name id="Canyon" tags="f in">
+    @-Schlucht
+  </name>
+
+  <name id="Mount" tags="m auf">
+    @-Berg
+  </name>
+
+  <name id="Rock" tags="m auf">
+    Felsen von @
+  </name>
+
+  <name id="Rocks" tags="m bei p">
+    @-Felsen
+  </name>
+
+  <name id="FrameworkVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="FrameworkHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="FrameworkInn" tags="n im">
+    @-Gasthaus
+  </name>
+
+  <name id="FrameworkFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="WoodVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="WoodHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="WoodInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="WoodFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="WhiteWoodVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="WhiteWoodHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="WhiteWoodInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="WhiteWoodFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="StoneVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="StoneHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="StoneInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="StoneFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="ClayVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="ClayHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="ClayInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="ClayFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="WhiteClayVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="WhiteClayHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="WhiteClayInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="WhiteClayFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="OrcVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="OrcHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="OrcInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="OrcFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="UndeadVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="UndeadHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="UndeadInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="UndeadFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="LavaVillage" tags="n in u">
+    Dorf @
+  </name>
+
+  <name id="LavaHouse" tags="m in u">
+    @=s Haus
+  </name>
+
+  <name id="LavaInn" tags="n in">
+    @-Gasthaus
+  </name>
+
+  <name id="LavaFarm" tags="m in u">
+    @=s Farm
+  </name>
+
+  <name id="Hut" tags="m in">
+    @=s Hütte
+  </name> 
+
+  <name id="Crypt" tags="f in">
+    @-Gruft
+  </name>
+
+  <name id="Tomb" tags="f in">
+    Grab von @
+  </name>
+
+  <name id="Shrine" tags="m am">
+    Schrein von @
+  </name>
+
+  <name id="Chapel" tags="f in">
+    @-Kapelle
+  </name>
+
+  <name id="Vault" tags="n in">
+    @-Gewölbe
+  </name>
+
+  <name id="Altar" tags="m am">
+    Altar von @
+  </name>
+
+  <name id="Ship" tags="n auf">
+    @-Schiff
+  </name>
+
+  <name id="Mine" tags="f in">
+    @-Mine
+  </name>
+
+  <name id="Tree" tags="m am">
+    @-Baum
+  </name>
+
+  <name id="Peak" tags="m auf">
+    @-Gipfel
+  </name>
+
+  <name id="Island" tags="f auf">
+    @-Insel
+  </name>
+
+  <name id="Crater" tags="m in">
+    @-Krater
+  </name>
+
+  <name id="Cave" tags="f in">
+    @-Höhle
+  </name>
+
+  <name id="Portal" tags="n">
+    Portal von @
+  </name>
+
+  <name id="Fortress" tags="f in">
+    @-Festung
+  </name>
+
+  <name id="Castle" tags="n in u">
+    Schloss @
+  </name>
+
+  <name id="Catacombs" tags="p in">
+    Katakomben von @
+  </name>
+
+  <name id="Palace" tags="m in">
+    Palast von @
+  </name>
+
+  <name id="Temple" tags="m in">
+    Tempel von @
+  </name>
+
+  <name id="Pyramid" tags="f in">
+    @-Pyramide
+  </name>
+
+  <name id="Fort" tags="n in u">
+    Fort @
+  </name>
+
+  <name id="Citadel" tags="f in">
+    @-Zitadelle
+  </name>
+
+  <name id="Stronghold" tags="f in">
+    @-Feste
+  </name>
+
+  <name id="Tower" tags="m in u">
+    @'s Turm
+  </name>
+
+  <name id="Bastion" tags="f in">
+    Bastion von @
+  </name>
+
+  <name id="Outpost" tags="m am">
+    @-Aussenposten
+  </name>
+
+  <name id="Grove" tags="m in">
+    @-Hain
+  </name>
+
+  <name id="Arena" tags="f in">
+    @-Arena
+  </name>
+
+  <name id="Camp" tags="n in u">
+    @'s Lager
+  </name>
+
+  <name id="Spire" tags="f auf">
+    Spitze von @
+  </name>
+
+  <name id="Riverside" tags="n am">
+    @-Ufer
+  </name>
+
+  <name id="Plains" tags="n p in">
+    @-Ebenen
+  </name>
+
+  <name id="Heights" tags="n p in">
+    @-Höhen
+  </name>
+
+  <name id="Hills" tags="n p auf">
+    { #dativ @-Hügeln | @-Hügel }
+  </name>
+
+  <name id="Lands" tags="n in">
+    { #dativ Ländern von @ | Länder von @ }
+  </name>
+
+  <name id="Firelands" tags="n in">
+    { #dativ Feuerländern von @ | Feuerländer von @ }
+  </name>
+
+  <name id="Deadlands" tags="n in">
+    { #dativ Totenländern von @ | Totenländer von @ }
+  </name>
+
+  <name id="Ocean" tags="n in">
+    @-Ozean
+  </name>
+
+  <name id="City" tags="f in">
+    @ City
+  </name>  
+
+  <name id="Wilderness" tags="n in">
+    @-Wildnis
+  </name>
+
+  <name id="Reef" tags="n in">
+    @-Riff
+  </name>
+
+  <name id="Shallows" tags="f p in">
+    @-Untiefen
+  </name>
+
+  <name id="Waters" tags="n in">
+    @-Gewässer
+  </name>
+
+  <name id="Beach" tags="m am">
+    @-Strand
+  </name>
+
+  <name id="Savannah" tags="f in">
+    @-Savanne
+  </name>
+
+  <name id="Desert" tags="f on the">
+    @-Wüste
+  </name>
+
+  <name id="Wasteland" tags="f in the">
+    @-Ödnis
+  </name>
+  
+  
+
+  <!--Rarity 0-->
+  
+  <name id="item:shabby">
+    { #f #p schäbige | #m schäbiger | #n schäbiges } @item
+  </name>
+
+  <name id="item:plain">
+    { #f #p schlichte | #m schlichter | #n schlichtes } @item
+  </name>
+
+  <name id="item:battered">
+    { #f #p abgenutzte | #m abgenutzter | #n abgenutztes } @item
+  </name>
+
+  <name id="item:artless">
+    { #f #p einfache | #m einfacher | #n einfaches } @item
+  </name>
+
+  <name id="item:unwieldy">
+    { #f #p unhandliche | #m unhandlicher | #n unhandliches } @item
+  </name>
+
+  <name id="item:used">
+    { #f #p gebrauchte | #m gebrauchter | #n gebrauchtes } @item
+  </name>
+
+  <name id="item:dusty">
+    { #f #p verstaubte | #m verstaubter | #n verstaubtes } @item
+  </name>
+
+  <name id="item:scratched">
+    { #f #p zerkratzte | #m zerkratzter | #n zerkratztes } @item
+  </name>
+
+  <name id="item:worn">
+    { #f #p verschlissene | #m verschlissener | #n verschlissenes } @item
+  </name>
+
+  <name id="item:common">
+    { #f #p gewöhnliche | #m gewöhnlicher | #n gewöhnliches } @item
+  </name>
+
+  <!--Rarity 1-->
+  
+  <name id="item:adjusted">
+    { #f #p angepasste | #m angepasster | #n angepasstes } @item
+  </name>
+
+  <name id="item:balanced">
+    { #f #p ausbalancierte | #m ausbalancierter | #n ausbalanciertes } @item
+  </name>
+
+  <name id="item:battletested">
+    { #f #p kampferprobte | #m kampferprobter | #n kampferprobtes } @item
+  </name>
+
+  <name id="item:good">
+    { #f #p gute | #m guter | #n gutes } @item
+  </name>
+
+  <name id="item:handmade">
+    { #f #p handgefertigte | #m handgefertigter | #n handgefertigtes } @item
+  </name>
+
+  <name id="item:fair">
+    { #f #p ordentliche | #m ordentlicher | #n ordentliches } @item
+  </name>
+
+  <name id="item:neat">
+    { #f #p gepflegte | #m gepflegter | #n gepflegtes } @item
+  </name>
+
+  <name id="item:clean">
+    { #f #p saubere | #m sauberer | #n sauberes } @item
+  </name>
+
+  <name id="item:undamaged">
+    { #f #p unversehrte | #m unversehrter | #n unversehrtes } @item
+  </name>
+
+  <name id="item:flawless">
+    { #f #p makellose | #m makelloser | #n makelloses } @item
+  </name>
+
+  <!--Rarity 2-->
+
+  <name id="item:exceptional">
+    { #f #p außergewöhnliche | #m außergewöhnlicher | #n außergewöhnliche } @item
+  </name>
+
+  <name id="item:polished">
+    { #f #p polierte | #m polierter | #n poliertes } @item
+  </name>
+
+  <name id="item:extraordinary">
+    { #f #p ungewöhnliche | #m ungewöhnlicher | #n ungewöhnliches } @item
+  </name>
+
+  <name id="item:exquisite">
+    { #f #p exquisite | #m exquisiter | #n exquisites } @item
+  </name>
+
+  <name id="item:superb">
+    { #f #p ausgezeichnete | #m ausgezeichneter | #n ausgezeichnetes } @item
+  </name>
+
+  <name id="item:unique">
+    { #f #p einzigartige | #m einzigartiger | #n einzigartiges} @item
+  </name>
+
+  <name id="item:handsome">
+    { #f #p stattliche | #m stattlicher | #n stattliches } @item
+  </name>
+
+  <name id="item:grand">
+    { #f #p prachtvolle | #m prachtvoller | #n prachtvolles } @item
+  </name>
+
+  <name id="item:magic">
+    { #f #p magische | #m magischer | #n magisches } @item
+  </name>
+
+  <name id="item:decorated">
+    { #f #p verzierte | #m verzierter | #n verziertes } @item
+  </name>
+
+
+  <!--Rarity 3-->
+
+  <name id="item:exceptional2">
+    @name's { #f #p außergewöhnliche | #m außergewöhnlicher | #n außergewöhnliches } @item
+  </name>
+
+  <name id="item:polished2">
+    { #f #p polierte | #m polierter | #n poliertes } @item des @name
+  </name>
+
+  <name id="item:extraordinary2">
+    { #f #p ungewöhnliche | #m ungewöhnlicher | #n ungewöhnliches } @item des @name
+  </name>
+
+  <name id="item:exquisite2">
+    { #f #p exquisite | #m exquisiter | #n exquisites } @item von @name
+  </name>
+
+  <name id="item:superb2">
+    @name's { #f #p ausgezeichnete | #m ausgezeichneter | #n ausgezeichnetes } @item
+  </name>
+
+  <name id="item:unique2">
+    { #f #p einzigartige | #m einzigartiger | #n einzigartiges } @item des @name
+  </name>
+
+  <name id="item:handsome2">
+    @name's { #f #p stattliche | #m stattlicher | #n stattliches } @item
+  </name>
+
+  <name id="item:grand2">
+    { #f #p prachtvolle | #m prachtvoller | #n prachtvolles }  @item des @name
+  </name>
+
+  <name id="item:magic2">
+    { #f #p magische | #m magischer | #n magisches } @item von @name
+  </name>
+
+  <name id="item:decorated2">
+    { #f #p verzierte | #m verzierter | #n verziertes } @item von @name
+  </name>
+
+
+  <!--Rarity 4-->
+
+  <name id="item:brilliant">
+    @name's { #f #p glänzende | #m glänzender | #n glänzendes } @item
+  </name>
+
+  <name id="item:shining">
+    { #f #p strahlende | #m strahlender | #n strahlendes }  @item des @name
+  </name>
+
+  <name id="item:magnificent">
+    { #f #p prächtige | #m prächtiger | #n prächtiges } @item von @name
+  </name>
+
+  <name id="item:sublime">
+    { #f #p erhabene | #m erhabener | #n erhabenes } @item von @name
+  </name>
+
+  <name id="item:pompous">
+    @name's { #f #p prunkvolle | #m prunkvoller | #n prunkvolles } @item
+  </name>
+
+  <name id="item:glorious">
+    { #m glorreicher | #f #p glorreiche | #n glorreiches }  @item des @name
+  </name>
+
+  <name id="item:splendid">
+    @name's { #f #p großartige | #m großartiger | #n großartiges } @item
+  </name>
+
+  <name id="item:famous">
+    { #f #p namhafte | #m namhafter | #n namhaftes }  @item des @name
+  </name>
+
+  <name id="item:legendary">
+    { #f #p legendäre | #m legendärer | #n legendäres } @item von @name
+  </name>
+
+  <name id="item:fabulous">
+    { #f #p sagenhafte | #m sagenhafter | #n sagenhaftes } @item von @name
+  </name>
+ 
+  
+  <!-- Specializations -->
+
+  <speech id="specialization:warrior:berserker">
+    {Berserker $stress}
+    %
+    Berserker stürzen sich furchtlos in jeden Kampf um ihre Gegner mit schnellen Attacken niederzustrecken.
+    %
+    {Berserkerwut $stress}: Mit jedem Treffer erhöht sich deine Angriffsgeschwindigkeit.
+  </speech>
+
+  <speech id="specialization:warrior:guardian">
+    {Beschützer $stress}
+    %
+    Beschützer halten den härtesten Attacken und größten Gegnermassen stand. Sie eignen sich hervorragend um Schaden von befreundeten Gruppenmitgliedern abzuwenden.
+    %
+    {Zähigkeit $stress}: Deine Gesundheit ist um {25% $number} erhöht.
+    %
+    {Barrikade $stress}: Dein Schild-Block hält doppelt so lang an wie normal. Zusätzlich kannst du nun mit allen Waffen Schaden parieren.
+  </speech>
+
+  <speech id="specialization:ranger:scout">
+    {Pfadfinder $stress}
+    %
+    Padfinder sind flinke Fernkämpfer die ihre Gegner mit schnellen Attacken bekämpfen.
+    %
+    {Intuition $stress}: Deine Angriffe haben eine Chance, dass du deine nächste Spezialattacke sofort aufladen kannst. 
+  </speech>
+
+  <speech id="specialization:ranger:sniper">
+    {Scharfschütze $stress}
+    %
+    Scharfschützen halten sich am liebsten im Verborgenen, um ihre Gegner mit gezielten Schüssen auszuschalten.
+    %
+    {Trefferserie $stress}: Mit jedem Treffer erhöht sich deine Angriffsgeschwindigkeit.
+  </speech>
+
+  <speech id="specialization:mage:fire">
+    {Feuermagier $stress}
+    %
+    Feuermagier nutzen die Macht des Feuers, um ihre Gegner mit gefährlichen Feuerzaubern zu verbrennen.
+    %
+    {Zündender Funke $stress}: Deine Angriffe haben eine Chance, deine nächste Spezialattacke zu einem kostenlosen Spontanzauber werden zu lassen.
+  </speech>
+
+  <speech id="specialization:mage:water">
+    {Wassermagier $stress}
+    %
+    Wassermagier wirken mächtige Wasserzauber, um Gegner zu bekämpfen und Freunde zu heilen.
+    %
+    {Reissender Fluss $stress}: Mit jedem Treffer erhöht sich deine Angriffsgeschwindigkeit.
+  </speech>
+
+  <speech id="specialization:rogue:assassin">
+    {Assassine $stress}
+    %
+    Assassinen sind darauf spezialisiert, ihre Gegner heimlich aus dem Verborgenen heraus zu attackieren.
+    %
+    {Der Weg des Schattens $stress}: Durch jede gewirkte Spezialattacke wird deine Tarnung erhöht. {Tarnung $stress} erhöht Schaden, kritische Trefferchance und regeneriert MP.
+  </speech>
+
+  <speech id="specialization:rogue:ninja">
+    {Ninja $stress}
+    %
+    Ninjas sind blitzschnelle Kämpfer, die auf geschickte Ausweichmanöver und Konterattacken spezialisiert sind.
+    %
+    {Gegenschlag $stress}: Du weichst allen Attacken aus, während du eine Spezialattacke ausführst.
+    %
+    {Flüchtigkeit $stress}: Immer, wenn du einer Attacke ausweichst, erhältst du {25 MP $number} und deine nächste Spezialattacke trifft auf jeden Fall kritisch.
+  </speech>
+
+  <!--Skills-->
+
+  <speech id="skill:level">
+    % {Level @level $number} %    
+  </speech>
+
+  <speech id="skill:nextlevel">
+    % {Nächste Stufe $stress} %
+  </speech>
+
+  <speech id="description:SkillArmor1">
+    {Aussergewönliche Rüstungen $stress}
+    %
+    Ermöglicht das Tragen von {aussergewöhnlichen Rüstungen $green}.
+  </speech>
+  <speech id="details:SkillArmor1">
+    Deine maximale Gesundheit wird um {@bonushealth $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillArmor2">
+    {Seltene Rüstungen $stress}
+    %
+    Ermöglicht das Tragen von {seltenen Rüstungen $blue}.
+  </speech>
+  <speech id="details:SkillArmor2">
+    Dein Rüstungswert wird um {@bonusarmor $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillArmor3">
+    {Epische Rüstungen $stress}
+    %
+    Ermöglicht das Tragen von {epischen Rüstungen $purple}.
+  </speech>
+  <speech id="details:SkillArmor3">
+    Deine Resistenz wird um {@bonusresistance $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillArmor4">
+    {Legendäre Rüstungen $stress}
+    %
+    Ermöglicht das Tragen von {legendären Rüstungen $yellow}.
+  </speech>
+  <speech id="details:SkillArmor4">
+    Deine Ausdauer-Regeneration wird um {@bonusregeneration $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillWeapon1">
+    {Aussergewönliche Waffen $stress}
+    %
+    Ermöglicht das Tragen von {aussergewöhnlichen Waffen $green}.
+  </speech>
+  <speech id="details:SkillWeapon1">
+    Dein Schaden wird um {@bonusdamage $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillWeapon2">
+    {Seltene Waffen $stress}
+    %
+    Ermöglicht das Tragen von {seltenen Waffen $blue}.
+  </speech>
+  <speech id="details:SkillWeapon2">
+    Dein Angriffstempo wird um {@bonushaste $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillWeapon3">
+    {Epische Waffen $stress}
+    %
+    Ermöglicht das Tragen von {epischen Waffen $purple}.
+  </speech>
+  <speech id="details:SkillWeapon3">
+    Deine kritische Trefferchance wird um {@bonuscritical $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillWeapon4">
+    {Aussergewönliche Waffen $stress}
+    %
+    Ermöglicht das Tragen von {legendären Waffen $yellow}.
+  </speech>
+  <speech id="details:SkillWeapon4">
+    Deine Mana-Gewinn wird um {@bonusmanagain $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillPetTaming">
+    {Tierzähmer $stress}
+    %
+    Ermöglicht das Zähmen von Haustieren, die dir im Kampf zur Seite stehen.   
+  </speech>
+
+  <speech id="details:SkillPetTaming">
+    Die Gesundheit deiner Haustiere wird um {@health $number} erhöht.
+  </speech>
+
+  <speech id="description:SkillPetRiding">
+    {Reiten $stress}
+    %
+    Ermöglicht das Reiten von Haustieren, um schneller zu reisen.
+  </speech>
+
+  <speech id="details:SkillPetRiding">
+    Die Reitgeschwindigkeit beträgt {@ridingspeed $number}.
+  </speech>
+
+  <speech id="description:SkillClimbing">
+    {Klettern $stress}
+    %
+    Ermöglicht das Klettern an steilen Wänden.
+  </speech>
+
+  <speech id="details:SkillClimbing">
+    Du verbrauchst beim Klettern {@climbingpower $number} weniger Ausdauer.
+  </speech>
+
+  <speech id="description:SkillHangGliding">
+    {Drachenfliegen $stress}
+    %
+    Ermöglicht die Benutzung von Drachenfliegern, um durch die Luft zu segeln.
+  </speech>
+
+  <speech id="details:SkillHangGliding">
+    Die Fuggeschwindigkeit beträgt {@flyingspeed $number}.
+  </speech>
+
+  <speech id="description:SkillSwimming">
+    {Swimming $stress}
+    %
+    Ermöglicht schnelleres Schwimmen im Wasser.
+  </speech>
+
+  <speech id="details:SkillSwimming">
+    Deine Geschwindigkeit beim Schwimmen beträgt {@swimmingspeed $number}.
+  </speech>
+
+  <speech id="description:SkillBoatDriving">
+    {Bootfahren $stress}
+    %
+    Ermöglicht die Benutzung von Booten, um schnell über das Wasser zu fahren.
+  </speech>
+
+  <speech id="details:SkillBoatDriving">
+    Deine Geschwindigkeit beim Bootfahren beträgt {@boatspeed $number}.
+  </speech>
+
+  <speech id="description:AbilitySmash">
+    {Zerschmettern $stress}
+    %
+    Du springst an die ausgewählte Stelle und zerschmetterst deine Gegner.
+  </speech>
+
+  <speech id="details:AbilitySmash">
+    Die Abklingzeit beträgt {@smashcooldown $number} Sekunden.
+  </speech>
+
+  <speech id="description:AbilityCyclone">
+    {Wirbelsturm $stress}
+    %
+    Du wirbelst {@cycloneduration $number} Sekunden lang im Kreis umher und attackierst alle Gegner um dich herum.
+  </speech>
+
+  <speech id="details:AbilityCyclone">
+    Die Abklingzeit beträgt {@cyclonecooldown $number} Sekunden.
+  </speech>
+
+  <speech id="description:AbilityBulwark">
+    {Bollwerk $stress}
+    %
+    Du mobilierst deine Kräfte und wirst immun gegen Betäubungen und erleidest weniger Schaden.
+    %
+    Kann gewirkt werden, während du betäubt bist.
+    %
+    Hält {@bulwarkduration $number} Sekunden lang an.
+  </speech>
+
+  <speech id="details:AbilityBulwark">
+    Die Abklingzeit beträgt {@bulwarkcooldown $number} Sekunden und du erleidest {@bulwarkamount $number} weniger Schaden.
+  </speech>
+
+  <speech id="description:AbilityWarFrenzy">
+    {Kampfrausch $stress}
+    %
+    Du gerätst in einen Kampfrausch und kannst deine Spezialattacken schneller aufladen.   
+    %
+    Hält {@warfrenzyduration $number} Sekunden lang an.
+  </speech>
+
+  <speech id="details:AbilityWarFrenzy">
+    Die Abklingzeit beträgt {@warfrenzycooldown $number} Sekunden und du kannst deine Spezialattacken {@warfrenzyamount $number} schneller aufladen.
+  </speech>
+
+
+  <speech id="description:AbilityRangerKick">
+    {Tritt $stress}
+    %
+    Du stößt alle Gegner im Nahkampfbereich mit einem schwungvollen Tritt zurück. Gegner können dabei betäubt werden.
+  </speech>
+
+  <speech id="details:AbilityRangerKick">
+    Die Abklingzeit beträgt {@rangerkickcooldown $number} Sekunden und der Rückstoß wird um {@rangerkickknockback $number} erhöht.
+  </speech>
+
+  <speech id="description:AbilityRetreat">
+    {Zurückweichen $stress}
+    %
+    Du springst zurück, um dich in Sicherheit zu bringen.
+  </speech>
+
+  <speech id="details:AbilityRetreat">
+    Die Abklingzeit beträgt {@retreatcooldown $number} Sekunden und die Sprungweite wird um {@retreatdistance $number} erhöht.
+  </speech>
+
+
+  <speech id="description:AbilityAim">
+    {Zielen $stress}
+    %
+    Du legst dich zu Boden tarnst du dich. {Tarnung $stress} erhöht Schaden, kritische Trefferchance und regeneriert MP.
+    %
+    Wird durch Bewegung abgebrochen.
+  </speech>
+
+  <speech id="details:AbilityAim">
+    Die Abklingzeit beträgt {@aimcooldown $number} Sekunden und du tarnst dich {@aimstealth $number} schneller.
+  </speech>
+
+  <speech id="description:AbilitySwiftness">
+    {Schnelligkeit des Spähers $stress}
+    %
+    Dank deiner Geschicklichkeit kannst du dich schneller bewegen und schneller angreifen.
+    %    
+    Hält {@swiftnessduration $number} Sekunden lang an.
+  </speech>
+
+  <speech id="details:AbilitySwiftness">
+    Dein Bewegungs- und Angriffstempo wird um {@swiftnessamount $number} erhöht. Die Abklingzeit beträgt {@swiftnesscooldown $number} Sekunden.
+  </speech>
+
+  
+
+  <speech id="description:AbilityFireExplosion">
+    {Feuerexplosion $stress}
+    %
+    Du wirkst eine mächtige Feuerexplosion, die nahen Gegnern Schaden zufügt und sie zurückstößt. Sie können dabei betäubt werden.
+  </speech>
+
+  <speech id="details:AbilityFireExplosion">
+    Die Abklingzeit beträgt {@fireexplosioncooldown $number} Sekunden und der Rückstoß wird um {@fireexplosionknockback $number} erhöht.
+  </speech>
+
+
+  <speech id="description:AbilityManaShield">
+    {Manaschild $stress}
+    %
+    Du wirst durch einen magischen Schild geschützt, der {@manashieldduration $number} Sekunden lang Schaden absorbiert.
+  </speech>
+
+  <speech id="details:AbilityManaShield">
+    Die Abklingzeit beträgt {@manashieldcooldown $number} Sekunden und du absorbierst {@manashieldpower $number} mehr Schaden.
+  </speech>
+
+
+  <speech id="description:AbilityTeleport">
+    {Teleportieren $stress}
+    %
+    Du teleportierst dich zum ausgewählten Ort.
+  </speech>
+
+  <speech id="details:AbilityTeleport">
+    Die Abklingzeit beträgt {@teleportcooldown $number} Sekunden.
+  </speech>
+
+
+  <speech id="description:AbilityHealingStream">
+    {Heilender Fluss $stress}
+    %
+    Du wirkst einen Fluss aus heilendem Wasser auf das ausgewählte Ziel um es zu heilen.
+  </speech>
+
+  <speech id="details:AbilityHealingStream">
+    Die Manakosten betragen {@healingstreamcost $number} MP.
+  </speech>
+
+
+  <speech id="description:AbilityIntercept">
+    {Abfangen $stress}
+    %
+    Du bewegst dich blitzschnell an die ausgewählte Stelle und attackierst nahe Gegner mit deiner Spezialfähigkeit.
+  </speech>
+
+  <speech id="details:AbilityIntercept">
+    Die Abklingzeit beträgt {@interceptcooldown $number} Sekunden.
+  </speech>
+
+  <speech id="description:AbilityShuriken">
+    {Shuriken-Attacke $stress}
+    %
+    Du bringst dich mit einem Rückwärtssalto in Sicherheit und wirfst mehrere Shuriken auf deine Gegner.
+  </speech>
+
+  <speech id="details:AbilityShuriken">
+    Die Abklingzeit beträgt {@shurikencooldown $number} Sekunden.
+  </speech>
+
+  <speech id="description:AbilityCamouflage">
+    {Camouflage $stress}
+    %
+    Du tarnst dich vor deinen Gegnern und deine Tarnung bleibt selbst im Kampf bestehen. {Tarnung $stress} erhöht Schaden, kritische Trefferchance und regeneriert MP.
+  </speech>
+
+  <speech id="details:AbilityCamouflage">
+    Die Abklingzeit beträgt {@camouflagecooldown $number} Sekunden und die Dauer {@camouflageduration $number} Sekunden.
+  </speech>
+
+  <speech id="description:AbilitySneak">
+    {Schleichen $stress}
+    %
+    Du verbirgst dich in der Dunkelheit um dich zu tarnen. {Tarnung $stress} erhöht Schaden, kritische Trefferchance und regeneriert MP.
+  </speech>
+
+  <speech id="details:AbilitySneak">
+    Die Schleichgeschwindigkeit wird um {@sneakspeed $number} und die Tarnfähigkeit um {@sneakstealth $number} erhöht.
+  </speech>
+
+  <speech id="the_object_is_locked">
+    *der_mob ist verschlossen. Du brauchst *ein_item_akkusativ.
+  </speech>
+
+  <macro id="richtung_von_hier">
+    { östlich #east | nördlich #north | westlich #west | südlich #south |
+    nordöstlich #northeast | nordwestlich #northwest | südöstlich #southeast | südwestlich #southwest | in der Nähe }  von hier
+  </macro>
+
+  <macro id="mob">
+    {@mob() $creature}
+  </macro>
+  
+  <macro id="mob_dativ">
+    {@mob(dativ) $creature}
+  </macro>
+  
+  <macro id="der_mob">
+    { #mob_m #mob_m2 der | #mob_f die | das } {@mob() $creature}
+  </macro>
+
+  <macro id="ein_mob">
+    { #mob_m #mob_m2 ein | #mob_f eine | ein } {@mob() $creature}
+  </macro>
+
+  <macro id="einen_mob">
+    { #mob_m #mob_m2 einen | #mob_f eine | ein } {@mob(akkusativ) $creature}
+  </macro>
+
+  <macro id="einem_mob">
+    { #mob_m #mob_m2 #mob_m einem | einer } {@mob(dativ) $creature}
+  </macro>
+
+  <macro id="den_mob">
+    { #mob_m #mob_m2 den | #mob_f die | das } {@mob(akkusativ) $creature}
+  </macro>
+
+  <macro id="dem_mob">
+    { #mob_m #mob_m2 dem | #mob_f der | dem } {@mob(dativ) $creature}
+  </macro>
+
+  <macro id="diesem_mob">
+    { #mob_f dieser | diesem } {@mob(dativ) $creature}
+  </macro>
+
+  <macro id="mobs">
+    {@mob(plural) $creature}
+  </macro>
+
+  <macro id="mobs_dativ">
+    {@mob(plural,dativ) $creature}
+  </macro>
+ 
+  <macro id="die_mobs">
+    die {@mob(plural, bestimmt) $creature}
+  </macro>
+
+  <macro id="der_mobs">
+    der {@mob(plural, bestimmt) $creature}
+  </macro>
+
+  <macro id="meinem_mob">
+    { #mob_f meiner | meinem } {@mob(dativ) $creature}
+  </macro>
+
+  <macro id="mob_er">
+    { #mob_f sie | #mob_m er | es }
+  </macro>
+
+  <macro id="mob_ihm">
+    { #mob_f ihr | ihm }
+  </macro>
+
+  <macro id="mob_ihn">
+    { #mob_f sie | #mob_m ihn | es }
+  </macro>
+
+  <macro id="mob_dieser">
+    { #mob_f diese | #mob_m dieser | dieses }
+  </macro>
+
+  <macro id="mob_seiner">
+    { #mob_f ihrer | seiner }
+  </macro>
+
+  <macro id="mob_seinem">
+    { #mob_f ihrem | seinem }
+  </macro>
+
+  <macro id="mob_seinen">
+    { #mob_f ihren | seinen }
+  </macro>
+
+  <macro id="mob_seine">
+    { #mob_f ihre | seine }
+  </macro>
+
+  <macro id="mob_sein">
+    { #mob_f ihr | sein }
+  </macro> 
+ 
+  <macro id="mob_name">
+    {@mob_name $name}
+  </macro>
+
+  <macro id="mob_names">
+    {@mob_name=s $name}
+  </macro>
+
+
+  <macro id="mob2">
+    {@mob2() $creature}
+  </macro>
+  
+  <macro id="mob2_dativ">
+    {@mob2(dativ) $creature}
+  </macro>
+  
+  <macro id="der_mob2">
+    { #mob2_m #mob2_m2 der | #mob2_f die | das } {@mob2() $creature}
+  </macro>
+
+  <macro id="ein_mob2">
+    { #mob2_m #mob2_m2 ein | #mob2_f eine | ein } {@mob2() $creature}
+  </macro>
+
+  <macro id="einen_mob2">
+    { #mob2_m #mob2_m2 einen | #mob2_f eine | ein } {@mob2(akkusativ) $creature}
+  </macro>
+
+  <macro id="einem_mob2">
+    { #mob2_m #mob2_m2 #mob2_m einem | einer } {@mob2(dativ) $creature}
+  </macro>
+  
+  <macro id="den_mob2">
+    { #mob2_m #mob2_m2 den | #mob2_f die | das } {@mob2(akkusativ) $creature}
+  </macro>
+
+  <macro id="dem_mob2">
+    { #mob2_m #mob2_m2 dem | #mob2_f der | dem } {@mob2(dativ) $creature}
+  </macro>
+
+  <macro id="diesem_mob2">
+    { #mob2_f dieser | diesem } {@mob2(dativ) $creature}
+  </macro>
+
+  <macro id="mobs2">
+    {@mob2(plural) $creature}
+  </macro>
+
+  <macro id="mobs2_dativ">
+    {@mob2(plural,dativ) $creature}
+  </macro>
+
+  <macro id="die_mobs2">
+    die {@mob2(plural, bestimmt) $creature}
+  </macro>
+
+   <macro id="den_mobs2">
+    den {@mob2(plural, dativ) $creature}
+  </macro>
+
+  <macro id="der_mobs2">
+    der {@mob2(plural, bestimmt) $creature}
+  </macro>
+
+  <macro id="meinem_mob2">
+    { #mob2_f meiner | meinem } {@mob2(dativ) $creature}
+  </macro>
+
+  <macro id="mob2_er">
+    { #mob2_f sie | #mob2_m er | es }
+  </macro>
+
+  <macro id="mob2_ihm">
+    { #mob2_f ihr | ihm }
+  </macro>
+
+  <macro id="mob2_ihn">
+    { #mob2_f sie | #mob2_m ihn | es }
+  </macro>
+
+  <macro id="mob2_dieser">
+    { #mob2_f diese | #mob2_m dieser | dieses }
+  </macro>
+
+  <macro id="mob2_seiner">
+    { #mob2_f ihrer | seiner }
+  </macro>
+
+  <macro id="mob2_seinem">
+    { #mob2_f ihrem | seinem }
+  </macro>
+
+  <macro id="mob2_seinen">
+    { #mob2_f ihren | seinen }
+  </macro>
+
+  <macro id="mob2_seine">
+    { #mob2_f ihre | seine }
+  </macro>
+
+  <macro id="mob2_sein">
+    { #mob2_f ihr | sein }
+  </macro>
+
+  <macro id="mob2_name">
+    {@mob2_name $name}
+  </macro>
+
+  <macro id="mob2_names">
+    {@mob2_name=s $name}
+  </macro>
+
+  <macro id="mob3">
+    {@mob3() $creature}
+  </macro>
+
+  <macro id="mob3_dativ">
+    {@mob3_dativ() $creature}
+  </macro>
+
+  <macro id="der_mob3">
+    { #mob3_m #mob3_m2 der | #mob3_f die | das } {@mob3() $creature}
+  </macro>
+
+  <macro id="ein_mob3">
+    { #mob3_m #mob3_m2 ein | #mob3_f eine | ein } {@mob3() $creature}
+  </macro>
+
+  <macro id="einen_mob3">
+    { #mob3_m #mob3_m2 einen | #mob3_f eine | ein } {@mob3(akkusativ) $creature}
+  </macro>
+
+  <macro id="einem_mob3">
+    { #mob3_m #mob3_m2 #mob3_m einem | einer } {@mob3(dativ) $creature}
+  </macro>
+
+  <macro id="den_mob3_akkusativ">
+    { #mob3_m #mob3_m2 den | #mob3_f die | das } {@mob3(akkusativ) $creature}
+  </macro>
+
+  <macro id="dem_mob3">
+    { #mob3_m #mob3_m2 dem | #mob3_f der | dem } {@mob3(dativ) $creature}
+  </macro>
+
+  <macro id="diesem_mob3">
+    { #mob3_f dieser | diesem } {@mob3(dativ) $creature}
+  </macro>
+
+  <macro id="mobs3">
+    {@mob3(plural) $creature}
+  </macro>
+
+  <macro id="mobs3_dativ">
+    {@mob3(plural,dativ) $creature}
+  </macro>
+
+  <macro id="die_mobs3">
+    die {@mob3(plural, bestimmt) $creature}
+  </macro>
+
+  <macro id="den_mobs3">
+    den {@mob3(plural, dativ) $creature}
+  </macro>
+
+  <macro id="der_mobs3">
+    der {@mob3(plural, bestimmt) $creature}
+  </macro>
+
+  <macro id="meinem_mob3">
+    { #mob3_f meiner | meinem } {@mob3(dativ) $creature}
+  </macro>
+
+  <macro id="mob3_er">
+    { #mob3_f sie | #mob3_m er | es }
+  </macro>
+
+  <macro id="mob3_ihm">
+    { #mob3_f ihr | ihm }
+  </macro>
+
+  <macro id="mob3_ihn">
+    { #mob3_f sie | #mob3_m ihn | es }
+  </macro>
+
+  <macro id="mob3_dieser">
+    { #mob3_f diese | #mob3_m dieser | dieses }
+  </macro>
+
+  <macro id="mob3_seiner">
+    { #mob3_f ihrer | seiner }
+  </macro>
+
+  <macro id="mob3_seinem">
+    { #mob3_f ihrem | seinem }
+  </macro>
+
+  <macro id="mob3_seinen">
+    { #mob3_f ihren | seinen }
+  </macro>
+
+  <macro id="mob3_seine">
+    { #mob3_f ihre | seine }
+  </macro>
+
+  <macro id="mob3_sein">
+    { #mob3_f ihr | sein }
+  </macro>
+
+  <macro id="mob3_name">
+    {@mob3_name $name}
+  </macro>
+
+  <macro id="mob3_names">
+    {@mob3_name=s $name}
+  </macro>
+  
+
+  <macro id="mob_seinem_mob2">
+    { #mob2_f *mob_seiner | *mob_seinem } {@mob2(dativ) $creature}
+  </macro>
+  
+  <macro id="der_anführer">
+    { #mob_f die Anführerin | der Anführer }
+  </macro>
+
+  <macro id="ihr_anführer">
+    { #mob2_f ihre Anführerin | ihr Anführer }
+  </macro>
+
+  <macro id="item">
+    {@item() $item}
+  </macro>
+
+  <macro id="item_dativ">
+    {@item(dativ) $item}
+  </macro>
+
+  <macro id="item_akkusativ">
+    {@item(akkusativ) $item}
+  </macro>
+
+  <macro id="items">
+    {@item(plural) $item}
+  </macro>
+
+  <macro id="items_dativ">
+    {@item(plural, dativ) $item}
+  </macro>
+
+  <macro id="das_item">
+    { #item_m der | #item_f #item_p die | das } {@item(bestimmt) $item}
+  </macro>
+
+  <macro id="das_item_akkusativ">
+    { #item_f #item_p die | #item_m den | das } {@item(akkusativ,bestimmt) $item}
+  </macro>
+
+  <macro id="dem_item">
+    { #item_p den | #item_f der | dem } {@item(dativ,bestimmt) $item}
+  </macro>
+
+  <macro id="dieses_item_akkusativ">
+    { #item_m diesen | #item_f #item_p diese | dieses } {@item(akkusativ,bestimmt) $item}
+  </macro>
+
+  <macro id="die_items">
+    die {@item(plural) $item}
+  </macro>
+
+  <macro id="die_items_akkusativ">
+    die {@item(akkusativ, plural) $item}
+  </macro>
+
+  <macro id="ein_item">
+    { #item_f eine | #item_p | ein } {@item() $item}
+  </macro>
+
+  <macro id="ein_item_akkusativ">
+    { #item_p | #item_m einen | #item_f eine | ein } {@item(akkusativ) $item}
+  </macro>
+
+  <macro id="einem_item">
+    { #item_p | #item_f einer | einem } {@item(dativ) $item}
+  </macro>
+
+  <macro id="mein_item">
+    { #item_f #item_p meine | mein } {@item() $item}
+  </macro>
+
+  <macro id="mein_item_akkusativ">
+    { #item_f #item_p meine | #item_m meinen | mein } {@item(akkusativ) $item}
+  </macro>
+
+  <macro id="item_es">
+    { #item_m er | #item_f #item_p sie | es }
+  </macro>
+
+  <macro id="item_es_akkusativ">
+    { #item_f #item_p sie | #item_m ihn | es }
+  </macro>
+
+  <macro id="item_ihm">
+    { #item_f ihr | ihm }
+  </macro>
+
+  <macro id="item_das_akkusativ">
+    { #item_m den | #item_f die | das }
+  </macro>
+
+  <macro id="item_dem">
+    { #item_p denen | #item_f der | dem }
+  </macro>
+
+  <macro id="npcs_item">
+    *mob_names {@item() $item}
+  </macro>
+
+  <macro id="item_es_akkusativ">
+    { #item_f #item_p sie | #item_m ihn | es }
+  </macro>
+
+  <macro id="mobs_item">
+    *mob_names {@item() $item}
+  </macro>
+
+  <macro id="mob2s_item">
+    *mob2_names {@item() $item}
+  </macro>
+
+
+  <macro id="mob_sein_item">
+    { #mob_f { #item_f #item_p ihre | ihr } | { #item_f #item_p seine | sein } } {@item() $item}
+  </macro>
+
+  <macro id="mob_sein_item_akkusativ">
+    { #mob_f { #item_f #item_p ihre | #item_m ihren | ihr } | { #item_f #item_p seine | #item_m seinen | sein } } {@item(akkusativ) $item}
+  </macro>
+
+  <macro id="mob2_sein_item">
+    { #mob2_f { #item_f ihre | ihr } | { #item_f seine | sein } } {@item() $item}
+  </macro>
+
+  <macro id="mob2_sein_item_akkusativ">
+    { #mob2_f { #item_m ihren | ihr } | { #item_m seinen | sein } } {@item(akkusativ) $item}
+  </macro>
+
+
+  <macro id="item2">
+    {@item2() $item}
+  </macro>
+
+  <macro id="item2_dativ">
+    {@item2(dativ) $item}
+  </macro>
+
+  <macro id="item2_akkusativ">
+    {@item2(dativ) $item}
+  </macro>
+
+  <macro id="items2">
+    {@item2(plural) $item}
+  </macro>
+
+  <macro id="items2_dativ">
+    {@item2(plural, dativ) $item}
+  </macro>
+
+  <macro id="das_item2">
+    { #item2_m der | #item2_f die | das } {@item2() $item}
+  </macro>
+
+  <macro id="das_item2_akkusativ">
+    {  #item2_f #item2_p die | #item2_m den |das } {@item2(akkusativ) $item}
+  </macro>
+
+  <macro id="dem_item2">
+    { #item2_f der | dem } {@item2(dativ) $item}
+  </macro>
+
+  <macro id="dieses_item2_akkusativ">
+    { #item2_m diesen | #item2_f diese | dieses } {@item2(akkusativ) $item}
+  </macro>
+
+  <macro id="die_items2">
+    die {@item2(plural) $item}
+  </macro>
+
+  <macro id="die_items2_akkusativ">
+    die {@item2(akkusativ, plural) $item}
+  </macro>
+
+  <macro id="ein_item2">
+    { #item2_f eine | ein } {@item2() $item}
+  </macro>
+
+  <macro id="ein_item2_akkusativ">
+    { #item2_m einen | #item2_f eine | ein } {@item2(akkusativ) $item}
+  </macro>
+
+  <macro id="mein_item2">
+    { #item2_f meine #item2_p | mein } {@item2() $item}
+  </macro>
+
+  <macro id="mein_item2_akkusativ">
+    { #item2_f #item2_p meine | #item2_m meinen | mein } {@item2(akkusativ) $item}
+  </macro>
+
+  <macro id="item2_er">
+    { #item2_m er | #item2_f sie | es }
+  </macro>
+
+  <macro id="item2_ihn">
+    { #item2_f #item_p sie | #item2_m ihn | es }
+  </macro>
+
+  <macro id="item2_ihm">
+    { #item2_f ihr | ihm }
+  </macro>
+
+  <macro id="item2_den">
+    { #item2_m den | #item2_f die | das }
+  </macro>
+
+  <macro id="item2_dem">
+    { #item2_f der | dem }
+  </macro>  
+
+  <macro id="item2_ihn">
+    { #item2_f sie | #item2_m ihn | es }
+  </macro>
+
+  <macro id="mob_sein_item2">
+    { #mob_f { #item2_f ihre | ihr } | { #item2_f seine | sein } } {@item2() $item}
+  </macro>
+
+  <macro id="mob_sein_item2_akkusativ">
+    { #mob_f { #item2_m ihren | ihr } | { #item2_m seinen | sein } } {@item2(akkusativ) $item}
+  </macro>
+
+  <macro id="mob2_sein_item2">
+    { #mob2_f { #item2_f ihre | ihr } | { #item2_f seine | sein } } {@item2() $item}
+  </macro>
+
+  <macro id="mob2_sein_item2_akkusativ">
+    { #mob2_f { #item2_m ihren | ihr } | { #item2_m seinen | sein } } {@item2(akkusativ) $item}
+  </macro>  
+
+
+  <macro id="zone">
+    {@zone() $zone}
+  </macro>
+
+  <macro id="in_der_zone">
+    { auf { #zone_f der | dem } #zone_auf | am #zone_am | in #zone_u | { #zone_p bei den | #zone_f bei der | #zone_u beim | bei dem } #zone_bei | { #zone_p in den | #zone_f in der | im } } {@zone(dativ) $zone}
+  </macro>
+
+  <macro id="die_zone">
+    { #zone_u | { #zone_p #zone_f die | #zone_m den | das } } {@zone(bestimmt) $zone}
+  </macro>
+
+  <macro id="die_zone_akkusativ">
+    { #zone_u | { #zone_p #zone_f die | #zone_m den | das } } {@zone(akkusativ) $zone}
+  </macro>
+
+  <macro id="von_der_zone">
+    { von #zone_u | { #zone_p von den | #zone_f von der | vom } } {@zone(dativ) $zone}
+  </macro>
+
+  <speech id="objective_find_creature">
+    Finde *den_mob.
+  </speech>
+
+  <speech id="solved_find_creature">
+    Du hast *den_mob gefunden.
+  </speech>
+
+  <speech id="objective_cure_npc_with_item">
+    Behandle @mob_name mit *dem_item.
+  </speech>
+
+  <speech id="solved_cure_npc_with_item">
+    Du hast @mob_name mit *dem_item behandelt.
+  </speech> 
+
+  <speech id="objective_free_npc">
+    Befreie @mob_name.
+  </speech>
+
+  <speech id="solved_free_npc">
+    Du hast @mob_name befreit.
+  </speech>
+
+  <speech id="objective_free_creature">
+    Befreie *den_mob.
+  </speech>
+
+  <speech id="solved_free_creature">
+    Du hast *den_mob befreit.
+  </speech>
+  
+  <speech id="objective_free_npcs">
+    Befreie *die_mobs.
+  </speech>
+
+  <speech id="solved_free_npcs">
+    Du hast *die_mobs befreit.
+  </speech>
+
+  <speech id="objective_find_object">
+    Finde *den_mob.
+  </speech>
+
+  <speech id="solved_find_object">
+    Du hast *den_mob gefunden.
+  </speech>
+
+  <speech id="objective_wait_until_object_is_activated">
+    Warte, bis *der_mob aktiviert wurde.
+  </speech>
+  
+  <speech id="solved_wait_until_object_is_activated">
+    *der_mob wurde aktiviert.
+  </speech>
+
+  <speech id="objective_eavesdrop_on_npc">
+    Belausche @mob_name.
+  </speech>
+
+  <speech id="solved_eavesdrop_on_npc">
+    Du hast @mob_name belauscht.
+  </speech>
+  
+  <speech id="objective_eavesdrop_on_npc_and_npc2">
+    Belausche @mob_name und @mob2_name.
+  </speech>
+
+  <speech id="solved_eavesdrop_on_npc_and_npc2">
+    Du hast @mob_name und @mob2_name belauscht.
+  </speech>
+
+  <speech id="objective_open_object">
+    Öffne *den_mob.
+  </speech>
+
+  <speech id="solved_open_object">
+    Du hast *den_mob geöffnet.
+  </speech>
+
+  <speech id="objective_find_item">
+    Finde *das_item_akkusativ.
+  </speech>
+
+  <speech id="solved_find_item">
+    Du hast *das_item_akkusativ gefunden.
+  </speech>
+
+  <speech id="objective_take_item">
+    Nimm *das_item_akkusativ an dich.
+  </speech>
+
+  <speech id="solved_take_item">
+    Du hast *das_item_akkusativ an dich genommen.
+  </speech>
+
+  <speech id="objective_take_item2">
+    Nimm *das_item2_akkusativ an dich.
+  </speech>
+
+  <speech id="solved_take_item2">
+    Du hast *das_item2_akkusativ an dich genommen.
+  </speech>
+
+  <speech id="objective_gather_items">
+    Sammle *die_items_akkusativ.
+  </speech>
+
+  <speech id="solved_gather_items">
+    Du hast *die_items_akkusativ gefunden.
+  </speech>
+
+  <speech id="objective_bring_item_to_npc">
+    Bringe *mob_name *das_item_akkusativ.
+  </speech>
+
+  <speech id="solved_bring_item_to_npc">
+    Du hast *mob_name *das_item_akkusativ gebracht.
+  </speech>
+
+  <speech id="objective_bring_items_to_npc">
+    Bringe *mob_name *die_items.
+  </speech>
+
+  <speech id="solved_bring_items_to_npc">
+    Du hast *mob_name *die_items gebracht.
+  </speech>  
+
+  <speech id="objective_bring_npc_the_object">
+    Bringe *mob_name *den_mob2.
+  </speech>
+
+  <speech id="solved_bring_npc_the_object">
+    Du hast *mob_name *den_mob2 gebracht.
+  </speech>
+
+  <speech id="objective_bring_npc_the_objects">
+    Bringe *mob_name *die_mobs2.
+  </speech>
+
+  <speech id="solved_bring_npc_the_objects">
+    Du hast *mob_name *die_mobs2 gebracht.
+  </speech>
+
+  <speech id="objective_bring_npc_the_stolen_goods">
+    Bringe *mob_name gestohlene Ware.
+  </speech>
+
+  <speech id="solved_bring_npc_the_stolen_goods">
+    Du hast *mob_name die gestohlene Ware gebracht.
+  </speech>
+
+  <speech id="objective_carry_npc_to_npc2">
+    Trage *mob_name zu *mob2_name.
+  </speech>
+
+  <speech id="solved_carry_npc_to_npc2">
+    Du hast *mob_name zu *mob2_name getragen.
+  </speech>
+
+  <speech id="objective_carry_npc_to_object">
+    Trage *mob_name zu *dem_mob2.
+  </speech>
+
+  <speech id="solved_carry_npc_to_object">
+    Du hast *mob_name zu *dem_mob2 getragen.
+  </speech> 
+
+  <speech id="objective_speak_npc">
+    Sprich mit *mob_name.
+  </speech>
+
+  <speech id="solved_speak_npc">
+    Du hast mit *mob_name gesprochen.
+  </speech>
+
+  <speech id="objective_speak_npcs">
+    Sprich mit *den_mobs.
+  </speech>
+
+  <speech id="solved_speak_npcs">
+    Du hast mit *den_mobs gesprochen.
+  </speech>
+
+
+  <speech id="objective_speak_npcs">
+    Sprich mit *den_mobs.
+  </speech>
+
+  <speech id="solved_speak_npcs">
+    Du hast mit *den_mobs gesprochen.
+  </speech>
+
+  <speech id="objective_examine_object">
+    Untersuche *den_mob.
+  </speech>
+
+  <speech id="solved_examine_object">
+    Du hast *den_mob untersucht.
+  </speech>
+
+  <speech id="objective_destroy_object">
+    Zerstöre *den_mob.
+  </speech>
+
+  <speech id="solved_destroy_object">
+    Du hast *den_mob zerstört.
+  </speech>
+
+  <speech id="objective_defeat_enemy">
+    Besiege *den_mob.
+  </speech>
+
+  <speech id="solved_defeat_enemy">
+    Du hast *den_mob besiegt.
+  </speech>
+
+  <speech id="objective_defeat_boss">
+    Besiege *mob_name.
+  </speech>
+
+  <speech id="solved_defeat_boss">
+    Du hast *mob_name besiegt.
+  </speech>
+
+  <speech id="objective:defeat-dungeon-boss">
+    Besiege *mob_name, { #mob_f die Herrscherin | den Herrscher } *von_der_zone.
+  </speech>
+
+  <speech id="solved:defeat-dungeon-boss">
+    Du hast *mob_name, { #mob_f die Herrscherin | den Herrscher } *von_der_zone, besiegt.
+  </speech>
+
+  <speech id="objective_defeat_monster">
+    Besiege *den_mob.
+  </speech>
+
+  <speech id="solved_defeat_monster">
+    Du hast *den_mob besiegt.
+  </speech>
+
+  <speech id="objective_defeat_enemies">
+    Besiege *die_mobs.
+  </speech>
+
+  <speech id="solved_defeat_enemies">
+    Du hast *die_mobs besiegt.
+  </speech>
+
+  <speech id="objective_destroy_objects">
+    Zerstöre *die_mobs.
+  </speech>
+
+  <speech id="solved_destroy_objects">
+    Du hast *die_mobs zerstört.
+  </speech>
+
+  <speech id="objective_defeat_boss-and-his-gang">
+    Besiege *mob_name und *mob_seine Bande.
+  </speech>
+
+  <speech id="solved_defeat_boss-and-his-gang">
+    Du hast *mob_name und *mob_seine Bande besiegt.
+  </speech> 
+
+  <speech id="sign-east">
+     *zone: @distance km östlich
+  </speech>
+
+  <speech id="sign-west">
+     *zone: @distance km westlich
+  </speech>
+
+  <speech id="sign-north">
+     *zone: @distance km nördlich
+  </speech>
+
+  <speech id="sign-south">
+     *zone: @distance km südlich
+  </speech>
+
+  <speech id="sign-northeast">
+     *zone: @distance km nordöstlich
+  </speech>
+
+  <speech id="sign-southeast">
+     *zone: @distance km südöstlich
+  </speech>
+
+  <speech id="sign-northwest">
+     *zone: @distance km nordwestlich
+  </speech>
+
+  <speech id="sign-southwest">
+     *zone: @distance km südwestlich
+  </speech>
+
+  <speech id="hello">
+    { Hallo! | Oh, hallo! | Guten Tag! | Sei gegrüßt! | Grüße! }
+  </speech>
+
+  <speech id="attention">
+    { Achtung! | Pass auf! | Oh, sie nur! | Was zum... }
+  </speech>
+
+  <speech id="hey_you">
+    { Hey! | He du da! | Hey, du da drüben! | Ähem! }
+  </speech>
+
+  <speech id="help">
+    { Hilfe! | Bitte hilf mir! | Kannst du mir helfen? | Ich brauche Hilfe! | Ich brauche deine Hilfe.
+    | Vielleicht kannst du mir weiterhelfen. | Ich benötige Hilfe! | Kannst du mir helfen? | Kannst du mir vielleicht helfen? }
+  </speech>
+
+  <speech id="hahaha">
+    { Hah! | Hahaha! | Hehe! | Muahaha! }
+  </speech>
+
+  <speech id="are_you_looking_for_the_item">
+    { Suchst du nach *dem_item? | Willst du *das_item_akkusativ? | Du suchst wohl *das_item_akkusativ! }
+  </speech>
+
+  <speech id="come_and_get_it">
+    { Komm und hol *item_es_akkusativ dir! | Freiwillig gebe ich *item_es_akkusativ dir nicht! | Dann musst du *item_es_akkusativ mir erst mal abnehmen! }
+  </speech>
+  
+  <speech id="that-was-a-trap">
+    { Das war eine Falle! | Reingefallen! | Du sitzt in der Falle! | Die Falle hat funktioniert! }
+  </speech>
+
+  <speech id="the_enemies_are_attacking">
+     *die_mobs greifen an!
+  </speech>
+
+
+  <speech id="i-lost-my-item">
+    { Ich habe *mein_item_akkusativ verloren! | Ich vermisse *mein_item_akkusativ. | *mein_item ist verschwunden! }
+  </speech>
+
+  <speech id="npc-lost-his-item">
+     *mob_name hat *mob_sein_item_akkusativ verloren!
+  </speech>
+
+  <speech id="you-must-find-it">
+     Du musst { #item_m ihn | #item_f sie | es } finden!
+  </speech>
+
+  <speech id="you_found_the_item">
+     Du hast *das_item_akkusativ gefunden.
+  </speech>
+
+  <speech id="you_should_bring_it_to_npc">
+     Du solltest *item_es_akkusativ *mob_name bringen.
+  </speech>
+
+  <speech id="you_should_bring_them_to_npc">
+    { Du solltest sie *mob_name bringen. | Bringe sie *mob_name. | Bringe sie schnell zu *mob_name. }
+  </speech>
+
+  <speech id="you-should-bring-them2-to-npc">
+    { Du solltest sie *mob_name bringen. | Bringe sie *mob_name. | Bringe sie schnell zu *mob_name. }
+  </speech>
+
+  <speech id="he-is-in-zone">
+     *mob_er befindet sich *inzone.
+  </speech>
+
+  <speech id="good_work">
+    { Gut gemacht! | Das hast du gut gemacht! | Gute Arbeit! | Das war gute Arbeit! | Sehr schön! | Klasse! | Das war klasse! | Toll gemacht! }
+  </speech>
+
+  <speech id="thank_you">
+    { Ich danke dir! | Danke! | Ich bin dir sehr dankbar. | Danke, danke! | Vielen Dank! | Tausend Dank! | Dankesehr! | Dankeschön! }
+  </speech>
+
+  <speech id="npc_needs_your_help">
+    { *mob_name *der_mob benötigt deine Hilfe.
+    | Es scheint als würde *mob_name *der_mob deine Hilfe benötigen.
+    | *ein_mob namens *mob_name braucht deine Hilfe.
+    | *mob_name scheint etwas von dir zu wollen.
+    | Anscheinend will *mob_name etwas von dir!
+    | *mob_name will etwas von dir!
+    | *mob_name hat ein Problem!
+    | *ein_mob namens *mob_name hat ein Problem!
+    | Anscheinend hat *mob_name ein Problem!
+    | *mob_name scheint ein Problem zu haben.
+    | *mob_name scheint ein Anliegen zu haben!
+    }
+  </speech>
+
+  <speech id="you-should-look-for-npc">
+    { Du solltest nach *mob_name suchen. | Du solltest dich auf die Suche nach *mob_name machen. | Am besten suchst du *mob_name! }
+  </speech>
+
+  <speech id="you_should_look_for_the_object">
+    { Du solltest nach *dem_mob suchen. | Du solltest dich auf die Suche nach *dem_mob machen. | Am besten suchst du *den_mob! }
+  </speech>
+
+  <speech id="you-should-look-for-him">
+    { Du solltest nach *mob_ihm suchen. | Du solltest dich auf die Suche nach *mob_ihm machen. | Am besten suchst du *mob_ihn! }
+  </speech>
+
+  <speech id="you_should_talk_to_npc">
+    { Du solltest mit *mob_name sprechen. | Vielleicht solltest du mit *mob_name reden. | Am besten redest du mit *mob_name! }
+  </speech>
+
+  <speech id="you_should_talk_to_him">
+    { Du solltest mit *mob_ihm sprechen. | Vielleicht solltest du mit *mob_ihm reden. | Am besten redest du mit *mob_ihm! }
+  </speech>
+
+  <speech id="a-gang-made-a-camp-direction-of-here">
+    *richtung_von_hier hat eine {Bande von @mob(plural, dativ) $creature} ein Lager aufgeschlagen!
+  </speech>
+
+  <speech id="a-gang-made-a-camp">
+    eine {Bande von @mob(plural, dativ) $creature} hat ein Lager aufgeschlagen!
+  </speech>
+
+  <speech id="boss-and-his-gang-made-a-camp-direction-of-here">
+    *richtung_von_hier hat *ein_mob namens *mob_name mit {*mob_seiner Bande $creature} ein Lager aufgeschlagen!
+  </speech>
+
+  <speech id="boss-and-his-gang-made-a-camp">
+    *ein_mob namens *mob_name hat mit {*mob_seiner Bande $creature} ein Lager aufgeschlagen!
+  </speech>
+
+  <speech id="you_must_defeat_them">
+    { Du musst sie { besiegen | bekämpfen } !
+    | [Bitte] { besiege | bekämpfe } sie!
+    | { Kannst | Könntest } du sie [bitte] { besiegen | bekämpfen } ?
+    | { Denkst | Glaubst } du, du { kannst | könntest } sie { besiegen | bekämpfen } ?
+    }
+  </speech>
+
+  <speech id="you_must_defeat_the_enemies">
+    { Du musst *die_mobs { besiegen | bekämpfen } !
+    | [Bitte] { besiege | bekämpfe } *die_mobs!
+    | { Kannst | Könntest } du *die_mobs [bitte] { besiegen | bekämpfen } ?
+    | { Denkst | Glaubst } du, du { kannst | könntest } *die_mobs { besiegen | bekämpfen } ?
+    }
+  </speech>
+
+  <speech id="you_must_destroy_the_objects">
+    { Du musst *die_mobs zerstören !
+    | [Bitte] zerstöre *die_mobs!
+    | { Kannst | Könntest } du *die_mobs [bitte] zerstören ?
+    | { Denkst | Glaubst } du, du { kannst | könntest } *die_mobs zerstören ?
+    }
+  </speech>
+
+  <speech id="you_must_defeat_boss">
+    { Du musst *mob_name { besiegen | bekämpfen } !
+    | [Bitte] { besiege | bekämpfe } *mob_name!
+    | { Kannst | Könntest } du *mob_name [bitte] { besiegen | bekämpfen } ?
+    | { Denkst | Glaubst } du, du { kannst | könntest } *mob_name { besiegen | bekämpfen } ?
+    }
+  </speech>
+
+  <speech id="there_is_a_boss">
+    { Es gibt *einen_mob namens *mob_name.
+    | Du hast *einen_mob namens *mob_name { aufgefunden | entdeckt } .
+    | Du bist *einem_mob namens *mob_name über den Weg gelaufen.
+    }
+  </speech>
+
+  <speech id="there_is_a_creature">
+    { Es gibt *einen_mob.
+    | Du hast *einen_mob { aufgefunden | entdeckt } .
+    | Du bist *einem_mob über den Weg gelaufen.
+    }
+  </speech>
+
+  <speech id="you_must_defeat_him">
+    { Du musst *mob_ihn { besiegen | bekämpfen } !
+    | [Bitte] { besiege | bekämpfe } *mob_ihn!
+    | { Kannst | Könntest } du *mob_ihn [bitte] { besiegen | bekämpfen } ?
+    | { Denkst | Glaubst } du, du { kannst | könntest } *mob_ihn { besiegen | bekämpfen } ?
+    }
+  </speech>
+
+  <speech id="you_must_destroy_it">
+    { Du musst *mob_ihn zerstören!
+    | [Bitte] zerstöre *mob_ihn!
+    | { Kannst | Könntest } du *mob_ihn [bitte] zerstören?
+    | { Denkst | Glaubst } du, du { kannst | könntest } *mob_ihn zerstören?
+    }
+  </speech>
+
+  <speech id="npc_wants_you_to_defeat_them">  
+      *mob_name { möchte | will | verlangt}, dass du sie { besiegst | bekämpfst }.
+  </speech>
+
+  <speech id="they_have_stolen_my_item">
+    { Sie haben [mir] *mein_item_akkusativ { gestohlen | geklaut } !
+    | Sie haben mich { ausgeraubt | bestohlen } ! *mein_item ist { weg | fort } !
+    }
+  </speech>
+
+  <speech id="they_have_stolen_npcs_item">
+    Sie haben *mobs_item { gestohlen | geklaut } !
+  </speech>
+
+  <speech id="bring_it_back_to_me">
+    { Bitte bring *item_es_akkusativ mir zurück! | Du musst *item_es_akkusativ mir zurückbringen! }
+  </speech>
+
+  <speech id="npc_wants_you_to_bring_the_item_back">
+     *mob_name { will | möchte }, dass du *mob_ihm *das_item_akkusativ zurückbringst.
+  </speech>
+
+  <speech id="after_defeating_the_enemies_their_leader_appeared">
+    { Nachdem du *die_mobs besiegt hast, { ist [{ auf einmal | plötzlich }] *ihr_anführer *mob2_name { aufgetaucht | erschienen } !
+    | Du hast *die_mobs besiegt, jedoch ist [{ auf einmal | plötzlich }] *ihr_anführer *mob2_name { aufgetaucht | erschienen } !
+  </speech>
+
+  <speech id="boss_dropped_the_item">
+   { Nachdem du *den_mob *mob_name besiegt hast, ließ *mob_er *das_item_akkusativ fallen.
+   | Nach dem Kampf mit *mob_name ließ *mob_dieser *das_item_akkusativ fallen.
+   | Du hast *mob_name besiegt und *mob_er ließ *das_item_akkusativ fallen.
+   | Du hast *mob_name besiegt und *mob_er hatte *das_item_akkusativ bei sich.
+   }
+  </speech>
+
+  <speech id="take_it">
+    { Nimm *item_es_akkusativ [an dich]! | Du solltest *item_es_akkusativ [an dich] nehmen. | [Schnell,] hol *item_es_akkusativ dir! }    
+  </speech>
+  
+  <speech id="take_the_item">
+    { Nimm *das_item_akkusativ [an dich]! | Du solltest *das_item_akkusativ [an dich] nehmen. | [Schnell,] hol dir *das_item_akkusativ! }
+  </speech>
+
+  <speech id="with_the_found_item_you_can_open_the_object">
+    { Mit *item_dem { gefundenen | erhaltenen } *item_dativ kannst du *den_mob öffnen.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }, mit *item_dem du *den_mob öffnen kannst.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }! Damit kannst du *den_mob öffnen.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }, mit *item_dem sich *der_mob öffnen lässt!
+    }
+  </speech>
+
+  <speech id="with_the_found_item_you_can_deactivate_the_object">
+    { Mit *item_dem { gefundenen | erhaltenen } *item_dativ kannst du *den_mob deaktivieren.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }, mit *item_dem du *den_mob deaktivieren kannst.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }! Damit kannst du *den_mob deaktivieren.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }, mit *item_dem sich *der_mob deaktivieren lässt!
+    }
+  </speech>
+
+  <speech id="with_the_found_item_you_can_extinguish_the_object">
+    { Mit *item_dem { gefundenen | erhaltenen } *item_dativ kannst du *den_mob löschen.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }, mit *item_dem du *den_mob löschen kannst.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }! Damit kannst du *den_mob löschen.
+    | Du hast *ein_item_akkusativ { gefunden | erhalten }, mit *item_dem sich *der_mob löschen lässt!
+    }
+  </speech>
+
+  <speech id="you_need_an_item_to_open_it">
+    { { Man { braucht | benötigt } | Du { brauchst | benötigst } } *ein_item_akkusativ, um *mob_ihn zu öffnen.
+    | { Man kann | Du kannst } *mob_ihn nur mit *einem_item öffnen.
+    | *mob_er lässt sich nur mit *einem_item öffnen.
+    }
+  </speech>
+
+  <speech id="you_need_an_item_to_break_the_spell">
+    { { Man { braucht | benötigt } | Du { brauchst | benötigst } } *ein_item_akkusativ, um den Zauber zu brechen.
+    | { Man kann | Du kannst } den Zauber nur mit *einem_item brechen.
+    | Der Zauber lässt sich nur mit *einem_item brechen.
+    }
+  </speech>  
+
+  <speech id="there_was_an_item_in_the_object">
+    { Es befand sich *ein_item in *dem_mob. | In *dem_mob befand sich *ein_item. | *ein_item war in *dem_mob. }
+  </speech>
+
+  <speech id="the_searched_item_was_in_the_object">
+    { In *dem_mob befand sich *das_item, nach *item_dem du gesucht hast.
+    | { #item_m der | #item_f die | das } gesuchte *item war in *dem_mob.
+    | Du hast { #item_m den | #item_f die | das } gesuchte *item in *dem_mob gefunden.
+    }
+  </speech>
+
+  <speech id="the_object_is_empty">
+    *der_mob ist leer.
+  </speech>
+
+  <speech id="a_creature_has_stolen_my_item">
+    *ein_mob hat *mein_item_akkusativ { gestohlen | geklaut }!
+  </speech>
+
+  <speech id="a_creature_has_stolen_npcs_item">
+    *ein_mob hat *mob2s_item { gestohlen | geklaut }.
+  </speech>
+
+
+  <speech id="a_creature_has_stolen_my_item_and_locked_it_in_an_object">
+    *ein_mob hat *mein_item_akkusativ { gestohlen | geklaut } und *item_es_akkusativ in { *einem_mob2 { verstaut | eingeschlossen} | *einen_mob2 gesperrt }.
+  </speech>
+
+  <speech id="a_creature_has_stolen_npcs_item_and_locked_it_in_an_object">
+    *ein_mob hat *mob2s_item { gestohlen | geklaut } und *item_es_akkusativ in { *einem_mob3 { verstaut | eingeschlossen} | *einen_mob3 gesperrt }.
+  </speech> 
+
+  <speech id="the_enemy_camp_is_direction_of_here">
+    Das Lager *der_mobs befindet sich *richtung_von_hier.
+  </speech>
+
+  <speech id="he_is_direction_of_here">
+    *mob_er befindet sich *richtung_von_hier.
+  </speech>
+
+  <speech id="the_enemies_have_a_camp_somewhere">
+    { *die_mobs haben irgendwo ein Lager. | Es gibt irgendwo ein Lager *der_mobs. }
+  </speech>
+
+  <speech id="the_enemies_are_in_zone">
+    { *die_mobs treiben sich *in_der_zone herum. | *die_mobs halten sich *in_der_zone auf. | *in_der_zone müsstest du *die_mobs finden! }
+   </speech>
+
+  <speech id="the_enemies_are_in_zone_direction_of_here">
+    { *die_mobs treiben sich *in_der_zone *richtung_von_hier herum.
+    | *die_mobs halten sich *in_der_zone *richtung_von_hier auf.
+    | *in_der_zone *richtung_von_hier müsstest du *die_mobs finden!
+    }
+  </speech>
+
+  <speech id="there_are_enemies_in_zone_direction_of_here">
+    *in_der_zone *richtung_von_hier { treiben sich *mobs herum | halten sich *mobs auf} .
+  </speech>
+
+  <speech id="there_are_enemies_in_zone">
+    *in_der_zone { treiben sich *mobs herum | halten sich *mobs auf} .
+  </speech>
+
+  <speech id="the_object_is_locked">
+    *der_mob ist [fest] { verschlossen | zugeschlossen }.
+  </speech>
+
+  <speech id="maybe_npc_can_help_you">
+    { Vielleicht | Eventuell } { kann *mob_name dir [ja] weiterhelfen | hat *mob_name ja eine Idee | weiss *mob_name weiter } {.|!}
+  </speech>
+
+  <speech id="the_object_is_protected_by_enemies">
+     *der_mob wird von [{mehreren | einigen}] *mobs2_dativ { bewacht | beschützt}!
+  </speech>
+
+  <speech id="the_object_is_protected_by_boss">
+    *der_mob wird von *einem_mob2 namens *mob2_name { bewacht | beschützt}!
+  </speech>
+
+  <speech id="the_object_is_locked_and_is_protected_by_enemies">
+    *der_mob ist [fest] verschlossen und wird von [{mehreren | einigen}] *mobs2_dativ { bewacht | beschützt}!
+  </speech>
+
+  <speech id="the_object_is_locked_and_is_protected_by_boss">
+    *der_mob ist [fest] verschlossen und wird von *einem_mob2 namens *mob2_name { bewacht | beschützt}!
+  </speech>
+
+  <speech id="thats_our_object">
+    { Das ist { #mob_f unsere | unser } *mob! |  *der_mob gehört uns! | Was machst du dich an { #mob_f unserer | unserem } *mob zu schaffen? | Was hast du mit { #mob_f unserer | unserem } *mob vor? }    
+  </speech>
+
+  <speech id="thats_my_object">
+    { Das ist { #mob_f meine | mein } *mob! |  *der_mob gehört mir! | Was machst du dich an { #mob_f meiner | meinem } *mob zu schaffen? | Was hast du mit { #mob_f unserer | unserem } *mob vor? }
+  </speech>
+  
+  <speech id="you_will_pay">
+    { Dafür wirst du büßen! | Du wagst es! | Rache! | Das wirst du bereuen! | Nimm das! }
+  </speech>
+
+  <speech id="so_the_object_is_locked">
+    { [Was [sagst du]?]  *der_mob ist verschlossen?
+    | *der_mob ist also verschlossen.
+    | *der_mob ist verschlossen, sagst du?
+    }
+  </speech>
+
+  <speech id="so_you_cant_find_the_item">
+    [{Was? | Hä?}]
+    { Du kannst *das_item_akkusativ nicht finden?
+    | *das_item ist nicht da?
+    | Du hast *das_item_akkusativ [also] nicht gefunden?
+    | *das_item ist also nicht da...
+    }
+  </speech>
+
+  <speech id="you_cant_find_the_item">
+    <variation>
+      Du kannst *das_item_akkusativ nicht finden.
+    </variation>
+    <variation>
+      *das_item ist nicht da.
+    </variation>
+    <variation>
+      Du hast *das_item_akkusativ nicht gefunden.
+    </variation>
+  </speech>
+
+  <speech id="i_have_an_idea">
+    <variation>
+      Warte mal...
+    </variation>
+    <variation>
+      Ich hab's!
+    </variation>
+    <variation>
+      Ich habe da eine Idee!
+    </variation>
+    <variation>
+      Ich habe eine Idee!
+    </variation>
+  </speech>
+
+  <speech id="maybe_you_can_find_the_item_in_boss_object">
+    <variation>
+      Vielleicht kannst du *das_item_akkusativ in *mob_names *mob2_dativ finden!
+    </variation>
+    <variation>
+      Vielleicht befindet *das_item sich in *mob_names *mob2_dativ!
+    </variation>
+    <variation>
+      *das_item könnte sich in *mob_names *mob2_dativ befinden!
+    </variation>
+  </speech>
+
+  <speech id="maybe_you_can_find_the_item_in_it">
+    <variation>
+      Vielleicht kannst du *das_item_akkusativ darin finden!
+    </variation>
+    <variation>
+      Vielleicht befindet *das_item sich darin!
+    </variation>
+    <variation>
+      *das_item könnte sich darin befinden!
+    </variation>
+  </speech>
+
+  <speech id="probably_boss_has_the_item">
+    <variation>
+      Wahrscheinlich hat *mob_name, *der_anführer *der_mobs2, *das_item_akkusativ!
+    </variation>
+  </speech>
+
+  <speech id="probably_he_has_the_item">
+    <variation>
+      Wahrscheinlich hat *mob_er *das_item_akkusativ!
+    </variation>
+  </speech>
+
+  <speech id="he_should_be_close_to_the_camp">
+    <variation>
+      *mob_er sollte irgendwo {in der Nähe des Lagers $zone} sein.
+    </variation>
+    <variation>
+      *mob_er sollte sich {in der Nähe des Lagers $zone} herumtreiben.
+    </variation>
+    <variation>
+      *mob_er treibt sich wahrscheinlich {in der Nähe des Lagers $zone} herum.
+    </variation>
+    <variation>
+      *mob_er müsste {in der Nähe des Lagers $zone} zu finden sein!
+    </variation>
+  </speech>
+
+  <speech id="he_should_be_close_to_the-zone">
+    <variation>
+      *mob_er sollte irgendwo in der Nähe *von_der_zone sein.
+    </variation>
+    <variation>
+      *mob_er sollte sich in der Nähe *von_der_zone herumtreiben.
+    </variation>
+    <variation>
+      *mob_er treibt sich wahrscheinlich in der Nähe *von_der_zone herum.
+    </variation>
+    <variation>
+      *mob_er müsste in der Nähe *von_der_zone zu finden sein!
+    </variation>
+  </speech>
+
+
+  <speech id="you_discovered_a_monster">
+    <variation>
+      Du hast { #mob_m #mob_m2 einen gefährlichen | #mob_f eine gefährliche | ein gefährliches} *mob entdeckt!
+    </variation>
+    <variation>
+      Du bist auf { #mob_m #mob_m2 einen gefährlichen | #mob_f eine gefährliche | ein gefährliches} *mob gestoßen!
+    </variation>
+    <variation>
+      Es treibt sich { #mob_m #mob_m2 eine gefährlicher | #mob_f eine gefährliche | ein gefährliches} *mob herum!
+    </variation>
+    <variation>
+      { #mob_m #mob_m2 ein gefährlicher | #mob_f eine gefährliche | ein gefährliches} *mob treibt sich herum!
+    </variation>
+  </speech>
+
+  <speech id="you_discovered_a_boss">
+    <variation>
+      Du hast { #mob_m #mob_m2 einen gefährlichen | #mob_f eine gefährliche | ein gefährliches} *mob namens *mob_name entdeckt!
+    </variation>
+    <variation>
+      Du bist auf { #mob_m #mob_m2 einen gefährlichen | #mob_f eine gefährliche | ein gefährliches} *mob namens *mob_name entdeckt!
+    </variation>
+    <variation>
+      Es treibt sich { #mob_m #mob_m2 eine gefährlicher | #mob_f eine gefährliche | ein gefährliches} *mob namens *mob_name herum!
+    </variation>
+    <variation>
+      { #mob_m #mob_m2 eine gefährlicher | #mob_f eine gefährliche | ein gefährliches} *mob namens *mob_name treibt sich herum!
+    </variation>
+  </speech>
+
+  <speech id="you_discovered_dungeon_boss">
+    <variation>
+      Du hast *mob_name, { #mob_f die Herrscherin | den Herrscher } *von_der_zone aufgespürt.
+    </variation>
+    <variation>
+      Du hast *mob_name, { #mob_f die Herrscherin | den Herrscher } *von_der_zone gefunden.
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name herrscht über *die_zone_akkusativ.
+    </variation>
+    <variation>
+      *die_zone wird von *einem_mob namens *mob_name beherrscht.
+    </variation>
+    <variation>
+      { #mob_f die Herrscherin | der Herrscher } *von_der_zone hört auf den Namen *mob_name.
+    </variation>
+  </speech>
+
+  <speech id="you_discovered_an_object">
+    <variation>
+      Du hast *einen_mob entdeckt.
+    </variation>
+    <variation>
+      Du hast *einen_mob gefunden.
+    </variation>
+  </speech>
+
+  <speech id="you_found_the_object">
+    <variation>
+      Du hast *den_mob gefunden.
+    </variation>
+  </speech>
+
+  <speech id="you_should_examine_it">
+    <variation>
+      Du solltest *mob_ihn untersuchen!
+    </variation>
+    <variation>
+      Vielleicht solltest du *mob_ihn untersuchen!
+    </variation>
+    <variation>
+      Vielleicht solltest du *mob_ihn näher untersuchen!
+    </variation>
+  </speech>
+
+  <speech id="you-should-open-it">
+    <variation>
+      Du solltest *mob_ihn öffnen!
+    </variation>
+    <variation>
+      Vielleicht solltest du *mob_ihn öffnen!
+    </variation>
+    <variation>
+      Am besten öffnest du *mob_ihn!
+    </variation>
+  </speech>
+
+  <speech id="i_was_trapped_in_this_object">
+    <variation>
+      Man hat mich in *diesem_mob eingesperrt!
+    </variation>
+    <variation>
+      Ich wurde in *diesem_mob eingesperrt!
+    </variation>
+    <variation>
+      Ich bin *diesem_mob eingesperrt!
+    </variation>
+    <variation>
+      Ich bin *diesem_mob gefangen!
+    </variation>
+  </speech>
+  
+
+  <speech id="boss_trapped_me_in_this_object">
+    <variation>
+      *ein_mob hat mich in *diesem_mob2 eingesperrt! *mob_sein name ist *mob_name.
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name hat mich in *diesem_mob2 eingesperrt!
+    </variation>
+    <variation>
+      Ich wurde von *einem_mob namens *mob_name in *diesem_mob2 eingesperrt!
+    </variation>
+  </speech>  
+
+  <speech id="boss_banished_me_with_this_object">
+    <variation>
+      *ein_mob hat mich mit *diesem_mob2 gebannt! *mob_sein name ist *mob_name.
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name hat mich mit *diesem_mob2 gebannt!
+    </variation>
+    <variation>
+      Ich wurde von *einem_mob namens *mob_name mit *diesem_mob2 gebannt!
+    </variation>
+  </speech>
+
+  <speech id="boss_trapped_npc_in_an_object">
+    <variation>
+      *ein_mob hat *mob2_name in *einem_mob3 eingesperrt! *mob_sein name ist *mob_name.
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name hat *mob2_name in *einem_mob3 eingesperrt!
+    </variation>
+    <variation>
+      *mob2_name wurde von *einem_mob namens *mob_name in *einem_mob3 eingesperrt!
+    </variation>
+  </speech>  
+
+  <speech id="boss_banished_npc_with_an_object">
+    <variation>
+      *ein_mob hat *mob2_name mit *einem_mob3 gebannt! *mob_sein name ist *mob_name.
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name hat *mob2_name mit *einem_mob3 gebannt!
+    </variation>
+    <variation>
+      *mob2_name wurde von *einem_mob namens *mob_name mit *einem_mob3 gebannt!
+    </variation>
+  </speech>
+
+  <speech id="he-should-be-somewhere-nearby">
+    <variation>
+      *mob_er müsste sich ganz in der Nähe herumtreiben!
+    </variation>
+    <variation>
+      *mob_er müsste sich ganz in der Nähe aufhalten!
+    </variation>
+    <variation>
+      *mob_er müsste ganz in der Nähe sein!
+    </variation>
+    <variation>
+      *mob_er müsste hier irgendwo sein!
+    </variation>
+  </speech>
+
+  <speech id="npc-is-trapped-in-an-object">
+    <variation>
+      *ein_mob namens *mob_name wird in *einem_mob2 gefangen gehalten!
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name ist in *einem_mob2 gefangen!
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name ist in *einem_mob2 eingesperrt!
+    </variation>
+    <variation>
+      *ein_mob namens *mob_name wurde in *einem_mob2 eingesperrt!
+    </variation>
+  </speech>
+
+  <speech id="you-must-free-him">
+    <variation>
+      Du musst *mob_ihn befreien!
+    </variation>
+    <variation>
+      Du solltes *mob_ihn befreien!
+    </variation>
+    <variation>
+      Schnell! Befreie *mob_ihn!
+    </variation>
+    <variation>
+      Befreie *mob_ihn schnell!
+    </variation>
+    <variation>
+      Am besten befreist du *mob_ihn!
+    </variation>
+  </speech>
+
+  <speech id="you_have_freed_npc">
+    <variation>
+      Du hast *mob_name befreit.
+    </variation>
+    <variation>
+      Du konntest *mob_name befreien!
+    </variation>
+  </speech>
+
+  <speech id="im-looking-for-my-friend">
+    <variation>
+      Ich suche { #mob_f meine Freundin | meinen Freund } *mob_name.
+    </variation>
+    <variation>
+      Ich bin auf der Suche nach { #mob_f meiner Freundin | meinem Freund } *mob_name.
+    </variation>
+    <variation>
+      Ich vermisse { #mob_f meine Freundin | meinen Freund } *mob_name.
+    </variation>
+  </speech>
+
+  <speech id="i-havent-seend-him-for-a-while">
+    <variation>
+      Ich habe *mob_ihn schon länger nicht mehr gesehen!
+    </variation>
+    <variation>
+      Es ist schon eine Weile her, seit ich *mob_ihn gesehen habe.
+    </variation>
+    <variation>
+      Es ist schon etwas länger her, seit ich *mob_ihn gesehen habe.
+    </variation>
+  </speech>
+
+  <speech id="im-getting-worried">
+    <variation>
+      So langsam mache ich mir Sorgen...
+    </variation>
+    <variation>
+      Allmählich mache ich mir Sorgen...
+    </variation>
+    <variation>
+      Ich mache mir so langsam Sorgen...
+    </variation>
+  </speech>
+  
+  <speech id="he-wanted-to-explore-zone">
+    <variation>
+      *mob_er wollte *die_zone_akkusativ erforschen.
+    </variation>
+    <variation>
+      *mob_er wollte *die_zone_akkusativ erkunden.
+    </variation>
+    <variation>
+      *mob_er hatte vor, sich *die_zone_akkusativ anzusehen.
+    </variation>
+    <variation>
+      *mob_er hatte vor, *die_zone_akkusativ zu erforschen.
+    </variation>
+  </speech>
+
+  <speech id="he-wanted-to-explore-the-area-direction-of-here">
+    <variation>
+      *mob_er wollte das Gebiet *richtung_von_hier erforschen.
+    </variation>
+    <variation>
+      *mob_er hatte vor, das Gebiet *richtung_von_hier zu erforschen.
+    </variation>
+  </speech>
+
+  <speech id="you-must-find-him">
+    <variation>
+      Du musst *mob_ihn finden!
+    </variation>
+    <variation>
+      Bitte suche *mob_ihn!
+    </variation>
+    <variation>
+      Kannst du *mob_ihn suchen?
+    </variation>
+  </speech>
+
+  <speech id="so-npc-is-alright?">
+    <variation>
+      *mob_name geht es also gut?
+    </variation>
+    <variation>
+      Du sagst, es geht *mob_name gut?
+    </variation>
+    <variation>
+      *mob_name ist wohlauf?
+    </variation>
+  </speech>
+
+  <speech id="npc-is-missing-his-friend">
+    <variation>
+      *mob_name vermisst { #mob2_f *mob_seine Freundin | *mob_seinen Freund } *mob2_name.
+    </variation>
+  </speech>
+
+  <speech id="ouch">
+    <variation>
+      Aua!
+    </variation>
+    <variation>
+      Autsch!
+    </variation>
+    <variation>
+      Uh...
+    </variation>
+    <variation>
+      Urgh...
+    </variation>
+  </speech>
+
+  <speech id="i_have_sprained_my_ankle">
+    <variation>
+      Ich habe mir den Knöchel verstaucht!
+    </variation>
+    <variation>
+      Ich glaube ich habe mir den Knöchel verstaucht!
+    </variation>
+    <variation>
+      Mein Knöchel! Ich glaube er ist verstaucht!
+    </variation>
+  </speech>
+
+  <speech id="npc_has_sprained_his_ankle">
+    <variation>
+      *mob_name hat sich den Knöchel verstaucht.
+    </variation>
+    <variation>
+      *mob_name scheint sich den Knöchel verstaucht zu haben.
+    </variation>
+    <variation>
+      Anscheinend hat *mob_name sich den Knöchel verstaucht.
+    </variation>
+  </speech>
+
+  <speech id="i_was_poisoned">
+    <variation>
+      Ich wurde vergiftet!
+    </variation>
+    <variation>
+      Ich habe mich vergiftet!
+    </variation>
+    <variation>
+      Ich glaube ich habe mich vergiftet!
+    </variation>
+    <variation>
+      Anscheinend habe ich mich vergiftet!
+    </variation>
+  </speech>
+
+  <speech id="npc_was_poisoned">
+    <variation>
+      *mob_name wurde vergiftet!
+    </variation>
+    <variation>
+      *mob_name hat sich vergiftet!
+    </variation>
+    <variation>
+      Anscheinend hat sich *mob_name vergiftet!
+    </variation>
+  </speech>
+
+  <speech id="i_have_headache">
+    <variation>
+      Ich habe Kopfschmerzen!
+    </variation>
+    <variation>
+      Ich habe solche Kopfschmerzen!
+    </variation>
+    <variation>
+      Mein Kopf tut so weh!
+    </variation>
+    <variation>
+      Mein Kopf! Ich habe solche Schmerzen!
+    </variation>
+  </speech>
+
+  <speech id="npc_has_headache">
+    <variation>
+      *mob_name hat Kopfschmerzen.
+    </variation>
+    <variation>
+      *mob_names Kopf tut weh.
+    </variation>
+    <variation>
+      *mob_name hat starke Kopfschmerzen.
+    </variation>
+  </speech>
+
+
+  <speech id="i_have_bellyache">
+    <variation>
+      Ich habe Bauchschmerzen!
+    </variation>
+    <variation>
+      Ich habe solche Bauchschmerzen!
+    </variation>
+    <variation>
+      Mein Bauch tut so weh!
+    </variation>
+    <variation>
+      Mein Bauch! Ich habe solche Schmerzen!
+    </variation>
+  </speech>
+
+  <speech id="npc_has_bellyache">
+    <variation>
+      *mob_name hat Bauchschmerzen.
+    </variation>
+    <variation>
+      *mob_name Bauch tut weh.
+    </variation>
+    <variation>
+      *mob_name hat starke Bauchschmerzen.
+    </variation>
+  </speech>
+
+  <speech id="im_so_exhausted">
+    <variation>
+      Ich bin so erschöpft!
+    </variation>
+    <variation>
+      Bin ich erschöpft!
+    </variation>
+    <variation>
+      Ich bin am Ende!
+    </variation>
+    <variation>
+      Ich bin fix und fertig!
+    </variation>
+  </speech>
+
+  <speech id="npc_is_exhausted">
+    <variation>
+      *mob_name ist sehr erschöpft.
+    </variation>
+    <variation>
+      *mob_name ist erschöpft!
+    </variation>
+    <variation>
+      *mob_name ist am Ende!
+    </variation>
+    <variation>
+      *mob_name ist fix und fertig.
+    </variation>
+  </speech>
+
+  <speech id="i_need_an_item">
+    <variation>
+      Ich bräuchte dringend *ein_item_akkusativ.
+    </variation>
+    <variation>
+      Ich bräuchte *ein_item_akkusativ.
+    </variation>
+    <variation>
+      Ich brauche dringend *ein_item_akkusativ.
+    </variation>
+    <variation>
+      Ich brauche *ein_item_akkusativ.
+    </variation>
+    <variation>
+      Ich brauche unbedingt *ein_item_akkusativ.
+    </variation>
+  </speech> 
+
+  <speech id="npc_needs_an_item">
+    <variation>
+      *mob_name bräuchte dringend *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_name bräuchte *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_name braucht dringend *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_name braucht *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_name benötigt *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_name braucht unbedingt *ein_item_akkusativ.
+    </variation>
+  </speech>
+
+  <speech id="he_needs_an_item">
+    <variation>
+      *mob_er bräuchte dringend *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_er bräuchte *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_er braucht dringend *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_er braucht *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_er benötigt *ein_item_akkusativ.
+    </variation>
+    <variation>
+      *mob_er braucht unbedingt *ein_item_akkusativ.
+    </variation>
+  </speech>
+
+  <speech id="it_can_be_made_from_items">
+    <variation>
+      Man kann *item_es_akkusativ aus *items2_dativ herstellen.
+    </variation>
+    <variation>
+      *item_es lässt sich aus *items2_dativ herstellen.
+    </variation>
+    <variation>
+      Aus *items2_dativ kann man *item_es_akkusativ herstellen.
+    </variation>
+  </speech>
+
+  <speech id="there_should_be_an_item_in_my_object">
+    <variation>
+      In *meinem_mob { #item_p sollten | sollte } *ein_item sein.
+    </variation>
+    <variation>
+      In *meinem_mob { #item_p müssten | müsste } *ein_item sein.
+    </variation>
+    <variation>
+      In *meinem_mob solltest du *ein_item_akkusativ finden.
+    </variation>
+    <variation>
+      Es { #item_p müssten | müsste } *ein_item in *meinem_mob sein!
+    </variation>
+    <variation>
+      Es { #item_p sollten | sollte } *ein_item in *meinem_mob sein!
+    </variation>
+  </speech>
+
+  <speech id="there_should_be_an_item_in_his_object">
+    <variation>
+      In *mob_seinem_mob2 { #item_p sollten | sollte } *ein_item sein.
+    </variation>
+    <variation>
+      In *mob_seinem_mob2 { #item_p müssten | müsste } *ein_item sein.
+    </variation>
+    <variation>
+      In *mob_seinem_mob2 solltest du *ein_item_akkusativ finden.
+    </variation>
+    <variation>
+      Es { #item_p müssten | müsste } *ein_item in *mob_seinem_mob2 sein!
+    </variation>
+    <variation>
+      Es { #item_p sollten | sollte } *ein_item in *mob_seinem_mob2 sein!
+    </variation>
+  </speech>
+
+  <speech id="there_should_be_an_item_in_bosses_object">
+    <variation>
+      In *mob_seinem_mob2 { #item_p sollten | sollte } *ein_item sein.
+    </variation>
+    <variation>
+      In *mob_seinem_mob2 { #item_p müssten | müsste } *ein_item sein.
+    </variation>
+    <variation>
+      In *mob_seinem_mob2 solltest du *ein_item_akkusativ finden.
+    </variation>
+    <variation>
+      Es { #item_p müssten | müsste } *ein_item in *mob_seinem_mob2 sein!
+    </variation>
+    <variation>
+      Es { #item_p sollten | sollte } *ein_item in *mob_seinem_mob2 sein!
+    </variation>
+  </speech>
+
+  <speech id="items_can_be_found_direction_of_here">
+    <variation>
+      *richtung_von_hier gibt es ein paar *items.
+    </variation>
+    <variation>
+      Ich glaube, *richtung_von_hier gibt es ein paar *items.
+    </variation>
+    <variation>
+      *richtung_von_hier findet man einige *items.
+    </variation>
+    <variation>
+      *richtung_von_hier sollten einige *items zu finden sein!
+    </variation>
+  </speech>
+
+  <speech id="items_are_growing_direction_of_here">
+    <variation>
+      *richtung_von_hier wachsen ein paar *items.
+    </variation>
+    <variation>
+      Ich glaube, *richtung_von_hier wachsen ein paar *items.
+    </variation>
+    <variation>
+      *richtung_von_hier wachsen einige *items.
+    </variation>
+    <variation>
+      *richtung_von_hier sollten einige *items zu finden sein!
+    </variation>
+  </speech>
+
+  <speech id="you_should_gather_some_items">
+    <variation>
+      Du solltest ein paar *items sammeln.
+    </variation>
+    <variation>
+      Du musst ein paar *items sammeln.
+    </variation>
+  </speech>
+
+  <speech id="please_gather_some">
+    <variation>
+      Bitte sammle ein paar!
+    </variation>
+    <variation>
+      Könntest du welche sammeln?
+    </variation>
+    <variation>
+      Bitte sammle schnell ein paar!
+    </variation>
+    <variation>
+      Kannst du ein paar davon besorgen?
+    </variation>
+    <variation>
+      Könntest du ein paar davon besorgen?
+    </variation>
+  </speech>
+
+  <speech id="i_need_them_to_make_an_item">
+    <variation>
+      Ich brauche sie, um *ein_item2_akkusativ herzustellen.
+    </variation>
+    <variation>
+      Ich benötige sie, um *ein_item2_akkusativ herzustellen.
+    </variation>
+    <variation>
+      Daraus kann ich *ein_item2_akkusativ herstellen.
+    </variation>
+  </speech>
+
+  <speech id="so_you_gathered_enough_items">
+    <variation>
+      Du hast genug *items gesammelt?
+    </variation>
+    <variation>
+      Du hast also genug *items gesammelt?
+    </variation>
+    <variation>
+      Das sind genug *items!
+    </variation>
+    <variation>
+      Die *items sollten genügen!
+    </variation>
+  </speech>
+
+  <speech id="you_gathered_enough_items">
+    <variation>
+      Du hast genug *items gesammelt.
+    </variation>
+    <variation>
+      Die *items sollten genügen!
+    </variation>
+  </speech>
+
+  <speech id="wait">
+    <variation>
+      Moment!
+    </variation>
+    <variation>
+      Warte kurz!
+    </variation>
+    <variation>
+      Moment, bitte!
+    </variation>
+    <variation>
+      Sekunde, bitte!
+    </variation>
+  </speech>
+
+  <speech id="let_me_make_the_item">
+    <variation>
+      Lass mich schnell *das_item_akkusativ herstellen...
+    </variation>
+    <variation>
+      Ich stelle schnell *das_item_akkusativ her...
+    </variation>
+    <variation>
+      *das_item! Ich stelle *item_es_akkusativ schnell her!
+    </variation>
+  </speech>
+
+  <speech id="take_this_item">
+    <variation>
+      Hier! Nimm *dieses_item_akkusativ!
+    </variation>
+    <variation>
+      Nimm *dieses_item_akkusativ!
+    </variation>
+    <variation>
+      Hier! *das_item!
+    </variation>
+    <variation>
+      Nimm! *das_item!
+    </variation>
+    <variation>
+      Hier hast du *das_item_akkusativ!
+    </variation>
+  </speech>
+
+
+  <speech id="npc_has_made_the_item">
+    <variation>
+      *mob_name hat *das_item_akkusativ hergestellt.
+    </variation>    
+  </speech>
+
+
+  <speech id="you_obtained_the_item">
+    <variation>
+      Du hast *das_item_akkusativ erhalten.
+    </variation>
+    <variation>
+      Du hast *das_item_akkusativ bekommen.
+    </variation>
+  </speech>
+
+  <speech id="you_should_cure_npc_with_it">
+    <variation>
+      Du solltest *mob_name damit behandeln.
+    </variation>
+  </speech>
+
+  <speech id="lets_see_if_the_item_is_working">
+    <variation>
+      Mal sehen, ob *das_item wirkt...
+    </variation>
+    <variation>
+      Ich hoffe, *das_item wirkt...
+    </variation>
+    <variation>
+      Hoffentlich wirkt *das_item...
+    </variation>
+  </speech>
+
+  <speech id="get_out_of_my_sight">
+    Get out of my sight!
+  </speech>
+
+  <speech id="may_the_light_illuminate_your_path">
+    Möge das Licht deinen Weg erleuchten.
+  </speech>
+</root>
