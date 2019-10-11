@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <root>
 
   <name id="Wizard" tags="m">
-    { #plural Bruxos | Bruxo }
+    { #plural Magos | Mago }
   </name>
 
   <name id="Sorcerer" tags="m">
-    { #plural Feiticeiros | Feiticeiro }
+    { #plural feiticeiros | feiticeiro }
   </name>
 
   <name id="Necromancer" tags="m">
-    { #plural Magos | Necromancer }
+    { #plural necromantes | necromante }
   </name>
 
   <name id="OldMan" tags="m an">
-    { #plural Idosos | Old Man }
+    { #plural idosos | idoso }
   </name>
 
   <name id="LizardmanMale" tags="m">
-    { #plural Homem Lagarto | Lizardman }
+    { #plural Homem lagarto | Homem lagarto }
   </name>
 
   <name id="LizardmanFemale" tags="f">
-    { #plural Mulher Lagarto | Lizardman }
+    { #plural Mulher lagarto | Mulher lagarto }
   </name>
 
   <name id="GoblinMale" tags="m">
@@ -35,27 +35,27 @@
   </name>
 
   <name id="Crow" tags="n">
-    { #plural Corvos | Crow }
+    { #plural Corvos | Corvo }
   </name>
 
   <name id="Parrot" tags="n">
-    { #plural Araras | Parrot }
+    { #plural Papagaios | Papagaio }
   </name>
 
   <name id="Peacock" tags="n">
-    { #plural Pavões | Peacock }
+    { #plural Pavões | Pavão }
   </name>
 
   <name id="Seagull" tags="n">
-    { #plural Gaivotas | Seagull }
+    { #plural Gaivotas | Gaivota }
   </name>
 
   <name id="Bat" tags="n">
-    { #plural Morcegos | Bat }
+    { #plural Morcegos | Morcego }
   </name>
 
   <name id="Toucan" tags="n">
-    { #plural Tucanos | Toucan }
+    { #plural Tucanos | Tucano }
   </name>
 
   <name id="Flamingo" tags="n">
@@ -63,27 +63,27 @@
   </name>
   
   <name id="Hornet" tags="n">
-    { #plural Vespas | Hornet }
+    { #plural Vespas | Vespa }
   </name>
 
   <name id="Bumblebee" tags="n">
-    { #plural Abelhas | Bumblebee }
+    { #plural Abelhas | Abelha }
   </name>
 
   <name id="Koala" tags="n">
-    { #plural Coalas | Koala }
+    { #plural Coalas | Coala }
   </name>
 
   <name id="Beaver" tags="n">
-    { #plural Castores | Beaver }
+    { #plural Castores | Castor }
   </name>
 
   <name id="Moose" tags="n">
-    { #plural Alces | Moose }
+    { #plural alces | alce }
   </name>
 
   <name id="ManaDeer" tags="m">
-    { #plural Cervos de Mana | Mana Deer }
+    { #plural veados | veado }
   </name>
 
   <name id="Zebra" tags="n">
@@ -91,180 +91,180 @@
   </name>
 
   <name id="Elephant" tags="n an">
-    { #plural Elefantes | Elephant }
+    { #plural Elefantes | Elefante }
   </name>
 
   <name id="Iceling" tags="n an">
-    { #plural Criaturas Gélidas | Criatura Gélida }
+    { #plural Icelings | Iceling }
   </name>
 
   <name id="Rhino" tags="n">
-    { #plural Rhinocerontes | Rhino }
+    { #plural rinocerontes | rinoceronte }
   </name>
 
   <name id="LionMale" tags="n">
-    { #plural Leões | Lion }
+    { #plural Leões | Leão }
   </name>
 
   <name id="LionFemale" tags="n">
-    { #plural Leõas | Lion }
+    { #plural Leoas | Leoa }
   </name>
 
   <name id="SnowLionMale" tags="n">
-    { #plural Leões da Neve | Snow Lion }
+    { #plural Leões da Neve | Leão da Neve }
   </name>
 
   <name id="SnowLionFemale" tags="n">
-    { #plural Leõas da Neve | Snow Lion }
+    { #plural Leoas da Neve | Leoa da Neve }
   </name>
 
   <name id="SnowLeopard" tags="n">
-    { #plural Leopardos da Neve | Snow Leopard }
+    { #plural Leopardos da Neve | Leopardo da Neve }
   </name>
 
   <name id="SilverLion" tags="n">
-    { #plural Leões de Prata | Silver Lion }
+    { #plural Leopardos de prata | Leopardo de prata }
   </name>
 
   <name id="Ostrich" tags="n">
-    { #plural Avestruzes | Ostrich }
+    { #plural avestruzes | avestruz }
   </name>
 
   <name id="InsectGuard" tags="m an">
-    { #plural Insetos Guardiões | Insect Guard }
+    { #plural Guardas insetos | Guarda inseto }
   </name>
 
   <name id="Mantis" tags="m">
-    { #plural Louva-Deuses | Mantis }
+    { #plural louva-a-deus | louva-a-deus }
   </name>
 
 
   <name id="PlainRunner" tags="n">
-    { #plural Corredores das Planicies | Corredor de Planicie }
+    { #plural Corredores | Corredor }
   </name>
 
   <name id="LeafRunner" tags="n">
-    { #plural Corredores das Folhas | Corredor da Folha }
+    { #plural Corredores da Folha | Corredor da Folha }
   </name>
 
   <name id="SnowRunner" tags="n">
-    { #plural Corredores das Neves | Corredor da Neve }
+    { #plural Corredores da Neve | Corredor da Neve }
   </name>
 
   <name id="DesertRunner" tags="n">
-    { #plural Corredores dos Desertos | Corredor do Deserto }
+    { #plural Corredores do deserto | Corredor do deserto }
   </name>
 
   <name id="Frog" tags="n">
-    { #plural Sapos | Frog }
+    { #plural Sapos | Sapo }
   </name>
 
   <name id="DwarfMale" tags="m">
-    { #plural Anões | Dwarf }
+    { #plural Anões | Anão }
   </name>
 
   <name id="DwarfFemale" tags="f">
-    { #plural Anões | Dwarf }
+    { #plural Anãs | Anã }
   </name>
 
   <name id="FrogmanMale" tags="m">
-    { #plural Homens Sapos | Homem Sapo }
+    { #plural Homem Sapo | Homem Sapo }
   </name>
 
   <name id="FrogmanFemale" tags="f">
-    { #plural Mulheres Sapos | Frogman }
+    { #plural Mulher Sapo | Mulher Sapo }
   </name>
 
   <name id="Mole" tags="n">
-    { #plural Toupeiras | Mole }
+    { #plural toupeiras | toupeira }
   </name>
 
   <name id="Horus" tags="m">
-    { #plural Guardiões Anciãos | Guardião Ancião }
+    { #plural Guardiões Antigos | Guardião Antigo }
   </name>
 
   <name id="Anubis" tags="m">
-    { #plural Guardiões Anciãos | Guardião Ancião }
+    { #plural Guardiões Antigos | Guardião Antigo }
   </name>
 
   <name id="Biter" tags="n">
-    { #plural Bocudos | Bocudo }
+    { #plural Mordedores | Mordedor }
   </name>
 
   <name id="Squirrel" tags="n">
-    { #plural Esquilos | Squirrel }
+    { #plural Esquilos | Esquilo }
   </name>
 
   <name id="Raccoon" tags="n">
-    { #plural Guaxinins | Raccoon }
+    { #plural Guaxinins | Guaxinin }
   </name>
 
   <name id="Duckbill" tags="n">
-    { #plural Ornintorrincos | Duckbill }
+    { #plural patos | pato }
   </name>
 
   <name id="Crocodile" tags="n">
-    { #plural Jacarés | Crocodile }
+    { #plural Crocodilos | Crocodilo }
   </name>
 
   <name id="Owl" tags="n an">
-    { #plural Corujas | Owl }
+    { #plural corujas | coruja }
   </name>
 
   <name id="Crab" tags="n">
-    { #plural Carangueijos | Crab }
+    { #plural Caranguejos | Caranguejo }
   </name>
 
   <name id="Crawler" tags="n">
-    { #plural Aterrorizadores | Aterrorizador }
+    { #plural Rastreadores | Rastreador }
   </name>
 
   <name id="BarkBeetle" tags="n">
-    { #plural Besouros de Couro Negro | Besouro do Couro Negro }
+    { #plural Besouros | Besouro }
   </name>
 
   <name id="Caterpillar" tags="n">
-    { #plural Lagartas | Caterpillar }
+    { #plural lagartas | lagarta }
   </name>
 
   <name id="EarthCaterpillar" tags="n">
-    { #plural Lagartas da Terra | Lagarta da Terra }
+    { #plural lagartas da terra | lagarta da terra }
   </name>
 
   <name id="Snail" tags="n">
-    { #plural Caramujos | Snail }
+    { #plural cobras | cobra }
   </name>
   
   <name id="SnoutBeetle" tags="n">
-    { #plural Besouros Bicudos | Besouro Bicudo }
+    { #plural Besouros | Besouro }
   </name>
 
   <name id="LemonBeetle" tags="n">
-    { #plural Besouros de Limão | Lemon Beetle }
+    { #plural Besouros de Limão | Besouro de Limao }
   </name>
 
   <name id="FireBeetle" tags="n">
-    { #plural Besouros de Fogo | Fire Beetle }
+    { #plural Besouros de Fogo | Besouro de Fogo }
   </name>
 
   <name id="LemonFish" tags="n">
-    { #plural Peixes-Limões | Lemon Fish }
+    { #plural Peixes de limão | Peixe Limão }
   </name>
 
   <name id="SapphireFish" tags="n">
-    { #plural Peixes-Safira | Sapphire Fish }
+    { #plural Peixes de safira | Peixe de safira }
   </name>
 
   <name id="Shark" tags="n">
-    { #plural Tubarões | Shark }
+    { #plural Tubarões | Tubarão }
   </name>
 
   <name id="LanternFish" tags="n">
-    { #plural Peixes-Lanterna | Lantern Fish }
+    { #plural Peixes-lanterna | Peixe-lanterna }
   </name>
 
   <name id="MawFish" tags="n">
-    { #plural Peixes das Mandíbula | Peixe da Mandíbula }
+    { #plural Peixes Mandibula | Peixe Mandibula }
   </name>
 
   <name id="Piranha" tags="n">
@@ -273,15 +273,15 @@
 
 
   <name id="Blowfish" tags="n">
-    { #plural Baiacús | Baiacú }
+    { #plural Peixes de sopro | Peixe de sopro }
   </name>
 
   <name id="Seahorse" tags="n">
-    { #plural Cavalos Marinhos | Seahorse }
+    { #plural Cavalos-marinhos | Cavalo-marinho }
   </name>
   
   <name id="ArtifactVase" tags="n">
-      @ Vaso
+      @ vaso
   </name>
   
   <name id="ArtifactAmulet" tags="n">
@@ -289,7 +289,7 @@
   </name>
   
   <name id="ArtifactRing" tags="n">
-    Anél de @
+    Anel de @
   </name>
   
   <name id="ArtifactStone" tags="n">
@@ -297,11 +297,11 @@
   </name>
 
   <name id="ArtifactGem" tags="n">
-    @ de Pedra Preciosa
+    @ gema
   </name>
 
   <name id="ArtifactCrown" tags="n">
-    Corôa de @
+    Coroa de @
   </name>
 
   <name id="ArtifactScepter" tags="n">
@@ -309,11 +309,11 @@
   </name>
 
    <name id="SeaCrab" tags="n">
-    { #plural Carangueijos do mar | Carangueijo do mar }
+    { #plural Caranguejos do mar | Caranguejo do mar }
   </name>
 
   <name id="Penguin" tags="n">
-    { #plural Penguins | Penguin }
+    { #plural Pinguins | Pinguin }
   </name>
 
   <name id="OrcMale" tags="m an">
@@ -325,127 +325,127 @@
   </name>
 
   <name id="UndeadMale" tags="m an">
-    { #plural Mortos-Vivos | Undead }
+    { #plural Mortos-vivos | Morto-vivo }
   </name>
 
   <name id="UndeadFemale" tags="f an">
-    { #plural Mortas-Vivas | Undead }
+    { #plural Mortos-vivos | Morto-vivo }
   </name>
 
   <name id="Skeleton" tags="n">
-    { #plural Esqueletos | Skeleton }
+    { #plural Esqueletos | Esqueleto }
   </name>
 
   <name id="SkeletonKnight" tags="m">
-    { #plural Cavaleiros-Esqueleto | Skeleton Knight }
+    { #plural Cavaleiros esqueleto | Cavaleiro esqueleto }
   </name>
 
   <name id="SkeletonHorse" tags="n">
-    { #plural Cavalos de Esqueleto | Skeleton Horse }
+    { #plural Cavalos esqueletos | Cavalo esqueleto }
   </name>
 
   <name id="GoldKnightHorse" tags="n">
-    { #plural Cavalos | Horse }
+    { #plural Cavalos | Cavalo }
   </name>
 
   <name id="Dragon" tags="n">
-    { #plural Dragões | Dragon }
+    { #plural Dragões | Dragão }
   </name>
 
   <name id="IronDeposit" tags="n">
-    { #plural Depósitos de Ferro | Iron Deposit }
+    { #plural Depósitos de Ferro | Depósito de Ferro }
   </name>
 
   <name id="GoldDeposit" tags="n">
-    { #plural Depósitos de Ouro | Gold Deposit }
+    { #plural Depósitos em ouro | Depósito de ouro }
   </name>
 
   <name id="SilverDeposit" tags="n">
-    { #plural Depósitos de Prata | Silver Deposit }
+    { #plural Depósitos de Prata | Depósito Prata }
   </name>
 
   <name id="SandstoneDeposit" tags="n">
-    { #plural Depósitos de Arenito | Sandstone Deposit }
+    { #plural Depósitos de arenito | Depósito de arenito }
   </name>
 
   <name id="IceCrystalDeposit" tags="n">
-    { #plural Depósitos de Cristais de Gelo | Ice Crystal Deposit }
+    { #plural Depósitos de Cristal de Gelo | Depósito de Cristal de Gelo }
   </name>
 
   <name id="EmeraldDeposit" tags="n">
-    { #plural Depósitos de Esmeralda | Emerald Deposit }
+    { #plural Depósitos de Esmeralda | Depósito Esmeralda }
   </name>
 
   <name id="DiamondDeposit" tags="n">
-    { #plural Depósitos de Diamante | Diamond Deposit }
+    { #plural Depósitos de diamante | Depósito de diamante }
   </name>
 
   <name id="RubyDeposit" tags="n">
-    { #plural Depósitos de Ruby | Ruby Deposit }
+    { #plural Depósitos de Ruby | Depósito de Ruby }
   </name>
 
   <name id="SapphireDeposit" tags="n">
-    { #plural Depósitos de Safira | Sapphire Deposit }
+    { #plural Depósitos de Safira | Depósito de Safira }
   </name>
 
   <name id="Emerald" tags="n">
-    { #plural Esmeraldas | Emerald }
+    { #plural Esmeraldas | Esmeralda }
   </name>
 
   <name id="Sapphire" tags="n">
-    { #plural Safiras | Sapphire }
+    { #plural Safiras | Safira }
   </name>
 
   <name id="Ruby" tags="n">
-    { #plural Rubis | Ruby }
+    { #plural Rubis | Rubi }
   </name>
 
   <name id="Diamond" tags="n">
-    { #plural Diamantes | Diamond }
+    { #plural Diamantes | Diamante }
   </name>
 
   <name id="HumanMale" tags="m">
-    { #plural Homens | Human }
+    { #plural Humanos | Humano }
   </name>
 
   <name id="HumanFemale" tags="f">
-    { #plural Mulheres | Human }
+    { #plural Humanas | Humana }
   </name>
 
   <name id="ElfMale" tags="m an">
-    { #plural Elfas | Elf }
+    { #plural Elfos | Elfo }
   </name>
 
   <name id="ElfFemale" tags="f an">
-    { #plural Elfos | Elf }
+    { #plural Elfos | Elfo }
   </name>
 
   <name id="Bunny" tags="n">
-    { #plural Coelhos | Bunny }
+    { #plural Coelhos | Coelho }
   </name>
 
   <name id="Porcupine" tags="n">
-    { #plural Porcos-espinhos | Porcupine }
+    { #plural Porcos-espinhos | Porco-espinho }
   </name>
 
   <name id="Collie" tags="n">
-    { #plural Collies | Collie }
+    { #plural Cachorros | Cachorro }
   </name>
 
   <name id="SavageDog" tags="n">
-    { #plural Cachorros Selvagens | Savage Dog }
+    { #plural Cães Selvagens | Cão Selvagem }
   </name>
 
   <name id="AlphaDog" tags="n">
-    { #plural Cachorro Alfa | Alpha Dog }
+    { #plural Cães Alpha | Cão alfa }
   </name>
 
   <name id="ShepherdDog" tags="n">
-    { #plural Cães Pastores | Shepherd Dog }
+    { #plural Pastores alemães | Pastor alemão }
   </name>
 
   <name id="Cow" tags="n">
-    { #plural Vacas | Cow }
+    { #plural Vacas | Vaca }
   </name>
 
   <name id="Alpaca" tags="n">
@@ -457,23 +457,23 @@
   </name>
 
   <name id="SkullBull" tags="n">
-    { #plural Bois Caveiras | Skull Bull }
+    { #plural Touros | Touro }
   </name>
 
   <name id="Egg" tags="n">
-    { #plural Ovos | Egg }
+    { #plural Ovos | ovo }
   </name>
 
   <name id="Turtle" tags="n">
-    { #plural Tartarugas | Turtle }
+    { #plural Tartarugas | Tartaruga }
   </name>
 
   <name id="BlueTurtle" tags="n">
-    { #plural Tartarugas | Turtle }
+    { #plural Tartarugas azuis | Tartaruga azul }
   </name>
   
   <name id="LavaTurtle" tags="n">
-    { #plural Tartarugas das Chamas | Lava Turtle }
+    { #plural Tartarugas de lava | Tartaruga de lava }
   </name>
 
   <name id="Terrier" tags="n">
@@ -481,87 +481,87 @@
   </name>
 
   <name id="ScottishTerrier" tags="n">
-    { #plural Terriers Escocêsses | Scottish Terrier }
+    { #plural Scottish Terriers | Scottish Terrier }
   </name>
 
   <name id="Panther" tags="n">
-    { #plural Panteras | Panther }
+    { #plural Panteras | Pantera }
   </name>
 
   <name id="Cat" tags="n">
-    { #plural Gatos | Cat }
+    { #plural Gatos | Gato }
   </name>
 
   <name id="BrownCat" tags="n">
-    { #plural Gato | Cat }
+    { #plural Gatos Marrões | Gato marrom }
   </name>
 
   <name id="WhiteCat" tags="n">
-    { #plural Gato | Cat }
+    { #plural Gatos brancos | Gato branco }
   </name>
 
   <name id="Pig" tags="n">
-    { #plural Porcos | Pig }
+    { #plural Porcos | Porco }
   </name>
 
   <name id="Sheep" tags="n">
-    { #plural Ovelhas | Sheep }
+    { #plural Ovelhas | Ovelha }
   </name>
 
   <name id="Horse" tags="n">
-    { #plural Cavalos | Horse }
+    { #plural Cavalos | Cavalo }
   </name>
 
   <name id="Camel" tags="n">
-    { #plural Camelos | Camel }
+    { #plural Camelos | Camelo }
   </name>
 
   <name id="Monkey" tags="n">
-    { #plural Macacos | Monkey }
+    { #plural macacos | macaco }
   </name>
 
   <name id="Makake" tags="n">
-    { #plural Babuínos | Makake }
+    { #plural Makakes | Makake }
   </name>
 
   <name id="SkeletonDog" tags="n">
-    { #plural Cachorros Esqueletos | Skeleton Dog }
+    { #plural Cães esqueletos | Cão esqueleto }
   </name>
 
   <name id="Chicken" tags="n">
-    { #plural Galinhas | Chicken }
+    { #plural Galinhas | Galinha }
   </name>
 
   <name id="Wolf" tags="n">
-    { #plural Alcatéia | Wolf }
+    { #plural lobos | lobo }
   </name>
 
   <name id="Hyena" tags="n">
-    { #plural Hyenas | Hyena }
+    { #plural Hienas | Hiena }
   </name>
 
   <name id="Giraffe" tags="n">
-    { #plural Girafas | Giraffe }
+    { #plural girafas | girafa }
   </name>
 
   <name id="Warthog" tags="n">
-    { #plural Javalis | Warthog }
+    { #plural javalis | javali }
   </name>
 
   <name id="Antelope" tags="n">
-    { #plural Antilopes | Antelope }
+    { #plural Antílopes | Antílope }
   </name>
 
   <name id="Devourer" tags="n">
-    { #plural Devoradores | Devourer }
+    { #plural Devoradores | Devorador }
   </name>
 
   <name id="Fly" tags="n">
-    { #plural Moscas | Fly }
+    { #plural Moscas | Mosca }
   </name>
 
   <name id="Midge" tags="n">
-    { #plural Pernilongos | Midge }
+    { #plural Mosquitos | Mosquito }
   </name>
 
   <name id="Mosquito" tags="n">
@@ -585,7 +585,7 @@
   </name>
 
   <name id="Witch" tags="f">
-    { #plural Bruxas | Witch }
+    { #plural Bruxas | Bruxa }
   </name>
 
   <name id="Gnobold" tags="m">
@@ -593,23 +593,23 @@
   </name>
 
   <name id="SnowGnobold" tags="m">
-    { #plural Gnobolds das Neves | Snow Gnobold }
+    { #plural Snow Gnobolds | Snow Gnobold }
   </name>
 
   <name id="Gnome" tags="m">
-    { #plural Gnomos | Gnome }
+    { #plural gnomos | gnomo }
   </name>
 
   <name id="Insectoid" tags="m an">
-    { #plural Insetóides | Insectoid }
+    { #plural Insectoides | Insectoide }
   </name>
 
   <name id="Jester" tags="m">
-    { #plural Bobos da Corte | Bobo da corte }
+    { #plural Jesters | Jester }
   </name>
 
   <name id="DarkJester" tags="m">
-    { #plural Bobos da Corte das Sombras | Bobo da Corte Sombrio }
+    { #plural Dark Jesters | Dark Jester }
   </name>
   
   <name id="Gnoll" tags="m">
@@ -617,92 +617,92 @@
   </name>
 
   <name id="PolarGnoll" tags="m">
-    { #plural Gnolls dos Campos Polares | Gnoll do Campo Polar }
+    { #plural Polar Gnolls | Polar Gnoll }
   </name>
 
   <name id="Mermaid" tags="f">
-    { #plural Sereias | Mermaid }
+    { #plural sereias | sereia }
   </name>
 
   <name id="Merman" tags="m">
-    { #plural Homens-Sereias | Merman }
+    { #plural tritões | tritão }
   </name>
 
   <name id="EmpireSoldierMale" tags="m">
-    { #plural Soldados | Soldier }
+    { #plural Soldados | Soldado }
   </name>
 
   <name id="EmpireSoldierFemale" tags="f">
-    { #plural Soldados | Soldier }
+    { #plural Soldados | Soldado }
   </name>
 
   <name id="Empress" tags="f">
-    { #plural Imperatrises | Empress }
+    { #plural Imperatrizes | Imperatriz }
   </name>
 
   <name id="HalfDemon" tags="m">
-    { #plural Half-Demon | Half-Demon }
+    { #plural Meio Demônio | Meio Demônio }
   </name>
 
   <name id="Archdruid" tags="m">
-    { #plural Arque-Druídas | Archdruid }
+    { #plural Archdruids | Archdruid }
   </name>
 
   <name id="GhostPreacher" tags="m">
-    { #plural Pastores-Fantasma | GhostPreacher }
+    { #plural Pregadores Fantasmas | Pregador Fantasma }
   </name>
 
   <name id="LegendaryPaladin" tags="m">
-    { #plural Paladinos Lendários | Legendary Paladin }
+    { #plural Paladinos Lendários | Paladino Lendário }
   </name>
 
   <name id="Angel" tags="f">
-    { #plural Anjos | Angel }
+    { #plural anjos | anjo }
   </name>
 
   <name id="ManaMech" tags="m">
-    { #plural Robos de Mana | Mana Mech }
+    { #plural Mana Mechs | Mana Mech }
   </name>
 
   <name id="Treant" tags="m">
-    { #plural Arvoredos-Vivos | Treant }
+    { #plural Arvores Viva | Arvore Viva }
   </name>
 
   <name id="FireRunestone" tags="m">
-    { #plural Pedras Rúnicas de Fogo | Fire Runestone }
+    { #plural Pedras Rúnicas de Fogo | Pedra Rúnica de Fogo }
   </name>
   <name id="WaterRunestone" tags="m">
-    { #plural Pedras Rúnicas das Águas | Water Runestone }
+    { #plural Pedras Rúnicas de água | Pedra Rúnica de Agua }
   </name>
   <name id="IceRunestone" tags="m">
-    { #plural Pedras Rúnicas de Gelo | Ice Runestone }
+    { #plural Pedras Rúnicas de Gelo | Pedra Rúnica de Gelo }
   </name>
   <name id="WindRunestone" tags="m">
-    { #plural Pedras Rúnicas dos Ventos | Wind Runestone }
+    { #plural Pedras Rúnicas de Vento | Pedra Rúnica de Vento }
   </name>
 
   <name id="RunePortal" tags="n">
-    { #plural Portais das Runas | Rune Portal }
+    { #plural Portais Rúnicos | Portal Rúnico }
   </name>
 
   <name id="Monstrosity" tags="n">
-    { #plural Monstruosidades | Monstrosity }
+    { #plural Monstruosidades | Monstruosidade }
   </name>
 
   <name id="SkullSlater" tags="n">
-    { #plural Encravadores de Caveiras | Encravador de Caveira }
+    { #plural Skull Slaters | Skull Slater }
   </name>
 
   <name id="TortureRack" tags="n">
-    { #plural Aparelhos de Torturas | Aparelho de Tortura }
+    { #plural Mesas de Tortura | Mesa de Tortura }
   </name>
 
   <name id="LegIrons" tags="n p">
-    { #plural Grilhões | Grilhão }
+    Perna de Ferro
   </name>
 
   <name id="Pole" tags="n">
-    { #plural Estacas | Estaca }
+    { #plural Polos | Pólo }
   </name>
 
   <name id="CeilingChain" tags="n">
@@ -710,15 +710,15 @@
   </name>
 
   <name id="Mammoth" tags="n">
-    { #plural Mamutes | Mammoth }
+    { #plural Mamutes | Mamute }
   </name>
 
   <name id="Cyclops" tags="m">
-    { #plural Ciclopes | Cyclops }
+    { #plural Cyclopses | Cyclops }
   </name>
 
   <name id="RuneGiant" tags="m">
-    { #plural Giantes Rúnicos | Rune Giant }
+    { #plural Gigantes Rúnicos | Gigante Rúnico }
   </name>
 
   <name id="Yeti" tags="m">
@@ -726,103 +726,103 @@
   </name>
 
   <name id="Golem" tags="m">
-    { #plural Golens | Golem }
+    { #plural Golems | Golem }
   </name>
 
   <name id="EmberGolem" tags="m an">
-    { #plural Golens das Chamas | Ember Golem }
+    { #plural Golens de Brasa | Golem de Brasa }
   </name>
 
   <name id="SnowGolem" tags="m">
-    { #plural Golens das Neves | Snow Golem }
+    { #plural Golens de neve | Golem de neve }
   </name>
 
   <name id="HellDemon" tags="m">
-    { #plural Hell Demons | Hell Demon }
+    { #plural Demônios do Inferno | Demônio do Inferno }
   </name>
 
   <name id="Ogre" tags="m an">
-    { #plural Ogros | Ogre }
+    { #plural Ogros | Ogro }
   </name>
 
   <name id="Rockling" tags="n">
-    { #plural Criaturas de Pedra | Rockling }
+    { #plural Rocklings | Rockling }
   </name>
 
   <name id="SpikeCreature" tags="n">
-    { #plural Criaturas Espinhentas | Spike Creature }
+    { #plural Criaturas Espinhosa | Criatura Espinhosa }
   </name>
 
   <name id="Spectrino" tags="m">
-    { #plural Espectrinos | Spectrino }
+    { #plural Spectrinos | Spectrino }
   </name>
 
   <name id="Djinn" tags="m">
-    { #plural Gênios | Djinn }
+    { #plural Gênios | Gênio }
   </name>
 
   <name id="Minotaur" tags="m">
-    { #plural Minotauros | Minotaur }
+    { #plural Minotauros | Minotauro }
   </name>
 
   <name id="Frightener" tags="n">
-    { #plural Assombrações | Frightener }
+    { #plural Assustadores | Assustador }
   </name>
 
   <name id="Wraith" tags="n">
-    { #plural Fúrias | Wraith }
+    { #plural Fantasmas | Fantasma }
   </name>
 
   <name id="SandHorror" tags="n">
-    { #plural Horrores de Areia | Sand Horror }
+    { #plural Terrores da Areia | Terror da Areia }
   </name>
 
   <name id="Imp" tags="an n">
-    { #plural Diabretes | Imp }
+    { #plural Imps | Imp }
   </name>
 
   <name id="Vampire" tags="m">
-    { #plural Vampiros | Vampire }
+    { #plural Vampiros | Vampiro }
   </name>
 
   <name id="Spitter" tags="n">
-    { #plural Pogos | Spitter }
+    { #plural Spitters | Spitter }
   </name>
 
   <name id="PlantCreature" tags="m">
-    { #plural Plantas-Vivas | Cormling }
+    { #plural Cormlings | Cormling }
   </name>
 
   <name id="BabyElephant" tags="n">
-    { #plural Bebês Elefantes | Baby Elephant }
+    { #plural Elefantes bebê | Elefante bébé }
   </name>
 
   <name id="BabyMammoth" tags="n">
-    { #plural Bebês Mamutes | Baby Mammoth }
+    { #plural Mamutes do bebê | Mamute bebê }
   </name>
 
   <name id="PlantCreatureSprout" tags="n">
-    { #plural Viveiros de Plantas-Vivas | Cormling Sprout }
+    { #plural Brotos de Cormling | Broto de Cormling }
   </name>
 
   <name id="RadishCreature" tags="m">
-    { #plural Rabanetes | Radishling }
+    { #plural Rabanetes | Rabanete }
   </name>
 
   <name id="RadishCreatureSprout" tags="n">
-    { #plural Viveiros de Rabanetes | Radishling Sprout }
+    { #plural Brotos de Rabanetes | Broto de Rabanete }
   </name>
 
   <name id="Onionling" tags="m an">
-    { #plural Cebolas | Onionling }
+    { #plural Onionlings | Onionling }
   </name>
 
   <name id="Chiling" tags="m">
-    { #plural Pimentas | Chiling }
+    { #plural Chilings | Chiling }
   </name>
 
   <name id="ChilingSprout" tags="m">
-    { #plural Viveiros de Pimentas | Chiling Sprout }
+    { #plural Chiling Sprouts | Chiling Sprout }
   </name>
 
   <name id="Habanero" tags="m">
@@ -830,55 +830,55 @@
   </name>
 
   <name id="Bloomling" tags="m">
-    { #plural Planteixos | Bloomling }
+    { #plural Bloomlings | Bloomling }
   </name>
 
   <name id="DesertOnionling" tags="m">
-    { #plural Cebolas dos Desertos | Desert Onionling }
+    { #plural Desert Onionlings | Desert Onionling }
   </name>
 
   <name id="Ginseng" tags="n">
-    { #plural Gengibres | Ginseng }
+    { #plural Ginseng | Ginseng }
   </name>
 
   <name id="Bush" tags="n">
-    { #plural Moitas | Bush }
+    { #plural arbustos | arbusto }
   </name>
 
   <name id="SnowBush" tags="n">
-    { #plural Moitas | Bush }
+    { #plural arbustos | arbusto }
   </name>
 
   <name id="SnowBerryBush" tags="n">
-    { #plural Moitas das Frutas de Neve | Snowberry Bush }
+    { #plural arbustos de Snowberrys | arbusto de Snowberry }
   </name>
 
   <name id="SnowBerry" tags="n">
-    { #plural Frutas da Neve | Snowberry }
+    { #plural Snowberries | Snowberry }
   </name>
 
   <name id="SnowBerryMash" tags="n">
-    { #plural Mix de Frutas da Neve | Snowberry Mash }
+    { #plural Snowberry Mashes | Snowberry Mash }
   </name>
 
   <name id="ThornTree" tags="n">
-    { #plural Thorn Trees | Thorn Tree }
+    { #plural Árvores de espinho | Árvore de espinho }
   </name>
 
   <name id="Cactus" tags="n">
-    { #plural Cactus | Cactus }
+    { #plural Cactos | Cacto }
   </name>
 
   <name id="Dummy" tags="n">
-    { #plural Dummies | Dummy }
+    { #plural Manequins | Manequim }
   </name>
 
   <name id="Aim" tags="n">
-    { #plural Aims | Aim }
+    { #plural Alvos | Alvo }
   </name>
 
   <name id="DemonPortal" tags="at the n">
-    { #plural Demon Portals | Demon Portal }
+    { #plural Portais Demoníacos | Portal do Demônio }
   </name>
 
   <name id="SlimeWell" tags="n">
@@ -886,79 +886,79 @@
   </name>
 
   <name id="HornetsNest" tags="n">
-    { #plural Hornets' Nests | Hornets' Nest }
+    { #plural Ninhos de vespas | Ninho de vespas }
   </name>
 
   <name id="UnholyTomb" tags="n an">
-    { #plural Unholy Tombs | Unholy Tomb }
+    { #plural Túmulos Profanos | Túmulo Profano }
   </name>  
   
   <name id="BonePile" tags="n">
-    { #plural Bone Piles | Bone Pile }
+    { #plural Pilhas de ossos | Pilha de osso }
   </name>
 
   <name id="Molehill" tags="n">
-    { #plural Molehills | Molehill }
+    { #plural Montículos | Montículo }
   </name>
 
   <name id="EarthPile" tags="n an">
-    { #plural Earth Piles | Earth Pile }
+    { #plural Pilhas de terra | Pilha da terra }
   </name>
 
   <name id="CottonPlant" tags="n">
-    { #plural Cotton Plants | Cotton Plant }
+    { #plural Plantas de algodão | Planta de algodão }
   </name>
 
   <name id="Capsule" tags="n">
-    { #plural Capsules | Capsule }
+    { #plural Cápsulas | Cápsula }
   </name>
 
   <name id="Scrub" tags="n">
-    { #plural Scrubs | Scrub }
+    { #plural moitas | moita }
   </name>
 
   <name id="CobwebScrub" tags="n">
-    { #plural Scrubs | Scrub }
+    { #plural moitas | moita }
   </name>
 
   <name id="FireScrub" tags="n">
-    { #plural Fire Scrubs | Fire Scrub }
+    { #plural moitas de fogo | moita de fogo }
   </name>
 
   <name id="Scarecrow" tags="n">
-    { #plural Scarecrows | Scarecrow }
+    { #plural Espantalhos | Espantalho }
   </name>
 
   <name id="NomadMale" tags="m">
-    { #plural Nomads | Nomad }
+    { #plural Nômades | Nômade }
   </name>
 
   <name id="NomadFemale" tags="f">
-    { #plural Nomads | Nomad }
+    { #plural Nômades | Nômade }
   </name>
 
   <name id="DarkCultistMale" tags="m">
-    { #plural Dark Cultists | Dark Cultist }
+    { #plural Cultistas | Cultista }
   </name>
 
   <name id="DarkCultistFemale" tags="f">
-    { #plural Dark Cultists | Dark Cultist }
+    { #plural Cultistas | Cultista }
   </name>
 
   <name id="PirateMale" tags="m">
-    { #plural Pirates | Pirate }
+    { #plural Piratas | Pirata }
   </name>
 
   <name id="PirateFemale" tags="f">
-    { #plural Pirates | Pirate }
+    { #plural Piratas | Pirata }
   </name>
 
   <name id="Saurian" tags="n">
-    { #plural Saurians | Saurian }
+    { #plural Sauriano | Sauriano }
   </name>
 
   <name id="Zombie" tags="n">
-    { #plural Zombies | Zombie }
+    { #plural Zumbis | Zumbi }
   </name>
 
   <name id="Lich" tags="m">
@@ -970,457 +970,457 @@
   </name>
 
   <name id="Werewolf" tags="m">
-    { #plural Werewolves | Werewolf }
+    { #plural Lobisomens | Lobisomem }
   </name>
 
   <name id="DemonMarauder" tags="m">
-    { #plural Demon Marauders | Demon Marauder }
+    { #plural Saqueadores de Demônios | Saqueador de Demônio }
   </name>
 
   <name id="FlyingEye" tags="n">
-    { #plural Flying Eyes | Flying Eye }
+    { #plural Olhos Voadores | Olho Voador }
   </name>
 
   <name id="DarkTroll" tags="m">
-    { #plural Dark Trolls | Dark Troll }
+    { #plural Trolls Sombrios | Troll Sombrio }
   </name>
 
   <name id="StoneTablet" tags="n">
-    { #plural Stone Tablets | Stone Tablet }
+    { #plural Tabuas de Pedra | Tabua de Pedra }
   </name>
 
   <name id="Artifact" tags="n">
-    { #plural Artifacts | Artifact }
+    { #plural Artefatos | Artefato }
   </name>
 
   <name id="Amulet" tags="n an">
-    { #plural Amulets | Amulet }
+    { #plural Amuletos | Amuleto }
   </name>
 
   <name id="Ring" tags="m">
-    { #plural Rings | Ring }
+    { #plural argolas | Anel }
   </name>
 
   <name id="Amulet1" tags="n an">
-    { #plural Amulets | Amulet }
+    { #plural Amuletos | Amuleto }
   </name>
 
   <name id="Amulet2" tags="n an">
-    { #plural Amulets | Amulet }
+    { #plural Amuletos | Amuleto }
   </name>
 
   <name id="Statue" tags="n">
-    { #plural Statues | Statue }
+    { #plural Estátuas | Estátua }
   </name>
   
   <name id="Door" tags="n">
-    { #plural Doors | Door }
+    { #plural Portas | Porta }
   </name>
   
   <name id="Hatch" tags="n">
-    { #plural Hatches | Hatch }
+    { #plural escotilhas | escotilha }
   </name>
   
   <name id="BigDoor" tags="n">
-    { #plural Doors | Door }
+    { #plural Portas | Porta }
   </name>
   
   <name id="Window" tags="n">
-    { #plural Windows | Window }
+    { #plural Janelas | Janela }
   </name>
  
   <name id="CastleWindow" tags="n">
-    { #plural Windows | Window }
+    { #plural Janelas | Janela }
   </name>
 
   <name id="Gate" tags="n">
-    { #plural Gates | Gate }
+    { #plural Portões | Portão }
   </name>
 
   <name id="Spiderweb" tags="n">
-    { #plural Spiderwebs | Spiderweb }
+    { #plural Teias de aranha | Teia de aranha }
   </name>
 
   <name id="Wall" tags="n">
-    { #plural Walls | Wall }
+    { #plural paredes | parede }
   </name>
 
   <name id="MagicBarrier" tags="n">
-    { #plural Magic Barriers | Magic Barrier }
+    { #plural Barreiras Mágica | Barreira Mágica }
   </name>
 
   <name id="MagicCrystal" tags="n">
-    { #plural Magic Crystals | Magic Crystal }
+    { #plural Cristais Mágicos | Cristal Mágico }
   </name>
 
   <name id="FireTrap" tags="n">
-    { #plural Fire Traps | Fire Trap }
+    { #plural Armadilhas de fogo | Armadilha de fogo }
   </name>
 
   <name id="SpikeTrap" tags="n">
-    { #plural Spike Traps | Spike Trap }
+    { #plural Armadilhas de espigões | Armadilha de espigões }
   </name>
 
   <name id="StompTrap" tags="n">
-    { #plural Stomp Traps | Stomp Trap }
+    { #plural Armadilhas de Pisar | Armadilha de Pisar }
   </name>
 
   <name id="Lever" tags="n">
-    { #plural Levers | Lever }
+    { #plural Alavancas | Alavanca }
   </name>
 
   <name id="LockedLever" tags="n">
-    { #plural Levers | Lever }
+    { #plural Alavancas | Alavanca }
   </name>
 
   <name id="Tombstone" tags="n">
-    { #plural Tombstones | Tombstone }
+    { #plural Lápides | Lápide }
   </name>
 
   <name id="ManaPump" tags="at the n">
-    { #plural Mana Pumps | Mana Pump }
+    { #plural Bombas Mana | Bomba Mana }
   </name>
 
   <name id="ManaInductor" tags="at the n">
-    { #plural Mana Inductors | Mana Inductor }
+    { #plural Indutores de Mana | Indutor de Mana }
   </name>
 
   <name id="ManaGenerator" tags="at the n">
-    { #plural Mana Generators | Mana Generator }
+    { #plural Geradores de Mana | Gerador Mana }
   </name>
 
 
   <name id="Chest" tags="n">
-    { #plural Chests | Chest }
+    { #plural Baus | Bau }
   </name>
 
   <name id="WoodChest" tags="n">
-    { #plural Wood Chests | Wood Chest }
+    { #plural Baús de madeira | Baú de madeira }
   </name>
 
   <name id="SkullChest" tags="n">
-    { #plural Skull Chests | Skull Chest }
+    { #plural Baús de Caveira | Caixa de caveira }
   </name>
 
   <name id="ObsidianChest" tags="an n">
-    { #plural Obsidian Chests | Obsidian Chest }
+    { #plural Baús de Obsidiana | Baú de Obsidiana }
   </name>
 
   <name id="BoneChest" tags="n">
-    { #plural Bone Chests | Bone Chest }
+    { #plural Baús de Osso | Baú de Osso }
   </name>
   
   <name id="Table" tags="n">
-    { #plural Tables | Table }
+    { #plural Mesas | Mesa }
   </name>
 
   <name id="Stool" tags="n">
-    { #plural Stools | Stool }
+    { #plural banquinhos | banquinho }
   </name>
 
   <name id="Bench" tags="n">
-    { #plural Benches | Bench }
+    { #plural Bancos | Banco }
   </name>
 
   <name id="Bed" tags="n">
-    { #plural Beds | Bed }
+    { #plural Camas | Cama }
   </name>
 
   <name id="BedTable" tags="n">
-    { #plural Bed Tables | Bed Table }
+    { #plural criado-mudo | criado-mudo }
   </name>
 
   <name id="MarketStand1" tags="n">
-    { #plural Market Stands | Market Stand }
+    { #plural Tendas de mercado | Tendas de mercado }
   </name>
 
   <name id="MarketStand2" tags="n">
-    { #plural Market Stands | Market Stand }
+    { #plural Tendas de mercado | Tendas de mercado }
   </name>
 
   <name id="MarketStand3" tags="n">
-    { #plural Market Stands | Market Stand }
+    { #plural Tendas de mercado | Tendas de mercado }
   </name>
 
   <name id="Barrel" tags="n">
-    { #plural Barrels | Barrel }
+    { #plural Barris | Barril }
   </name>
 
   <name id="Crate" tags="n">
-    { #plural Crates | Crate }
+    { #plural Caixas | Caixa }
   </name>
 
   <name id="OpenCrate" tags="n">
-    { #plural Crates | Crate }
+    { #plural Caixas | Caixa }
   </name>
 
   <name id="Sack" tags="n">
-    { #plural Sacks | Sack }
+    { #plural Sacos | Saco }
   </name>
 
   <name id="Shelter" tags="n">
-    { #plural Shelters | Shelter }
+    { #plural Abrigos | Abrigo }
   </name>
 
   <name id="Cupboard" tags="n">
-    { #plural Cupboards | Cupboard }
+    { #plural Armários | Armário }
   </name>
 
   <name id="Desktop" tags="n">
-    { #plural Desktops | Desktop }
+    { #plural Área de Trabalho | Área de Trabalho }
   </name>
 
   <name id="Counter" tags="n">
-    { #plural Counters | Counter }
+    { #plural Contadores | Contador }
   </name>
 
   <name id="Shelf1" tags="n">
-    { #plural Shelves | Shelf }
+    { #plural Prateleiras | Prateleira }
   </name>
 
   <name id="Shelf2" tags="n">
-    { #plural Shelves | Shelf }
+    { #plural estantes | estante }
   </name>
 
   <name id="Shelf3" tags="n">
-    { #plural Shelves | Shelf }
+    { #plural Prateleiras | estante }
   </name>
 
   <name id="Corpse" tags="n">
-    { #plural Corpses | Corpse }
+    { #plural Cadáveres | Cadáver }
   </name>
 
 
   <name id="RuneStone" tags="n">
-    { #plural Rune Stones | Rune Stone }
+    { #plural Pedras Rúnicas | Pedra Rúnica }
   </name>
 
   <name id="Artifact" tags="n">
-    { #plural Artifacts | Artifact }
+    { #plural Artefatos | Artefato }
   </name>
 
   <name id="FlowerBox1" tags="n">
-    { #plural Flower Boxes | Flower Box }
+    { #plural Caixas de flores | Caixa de flores }
   </name>
 
   <name id="FlowerBox2" tags="n">
-    { #plural Flower Boxes | Flower Box }
+    { #plural Caixas de flores | Caixa de flores }
   </name>
 
   <name id="FlowerBox3" tags="n">
-    { #plural Flower Boxes | Flower Box }
+    { #plural Caixas de flores | Caixa de flores }
   </name>
 
   <name id="StreetLight" tags="n">
-    { #plural Street Lights | Street Light }
+    { #plural Iluminação pública | Iluminação pública }
   </name>
 
   <name id="FireStreetLight" tags="n">
-    { #plural Street Lights | Street Light }
+    { #plural Iluminação pública | Iluminação pública }
   </name>
 
   <name id="Fence1" tags="n">
-    { #plural Fences | Fence }
+    { #plural Cercas | Cerca }
   </name>
 
   <name id="Fence2" tags="n">
-    { #plural Fences | Fence }
+    { #plural Cercas | Cerca }
   </name>
 
   <name id="Fence3" tags="n">
-    { #plural Fences | Fence }
+    { #plural Cercas | Cerca }
   </name>
 
   <name id="Fence4" tags="n">
-    { #plural Fences | Fence }
+    { #plural Cercas | Cerca }
   </name>
 
   <name id="Furnace" tags="n">
-    { #plural Furnaces | Furnace }
+    { #plural Fornos | Forno }
   </name>
 
   <name id="Anvil" tags="n">
-    { #plural Anvils | Anvil }
+    { #plural Bigornas | Bigorna }
   </name>
 
   <name id="SpinningWheel" tags="n">
-    { #plural Spinning Wheels | Spinning Wheel }
+    { #plural roda de fiar | roda de fiar }
   </name>
 
   <name id="Loom" tags="n">
-    { #plural Looms | Loom }
+    { #plural Tear | Tear }
   </name>
 
   <name id="SawBench" tags="n">
-    { #plural Saws | Saw }
+    { #plural Serras | Serra }
   </name>
 
   <name id="Workbench" tags="n">
-    { #plural Workbenches | Workbench }
+    { #plural Bancadas | Bancada }
   </name>
 
   <name id="CustomizationBench" tags="n">
-    { #plural Customization Benches | Customization Bench }
+    { #plural Bancada de personalização | Bancada de personalização }
   </name>
 
   <name id="Vase1" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Vase2" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
   
   <name id="Vase3" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Vase4" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Vase5" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Vase6" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
   
   <name id="Vase7" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Vase8" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Vase9" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Campfire" tags="n">
-    { #plural Campfires | Campfire }
+    { #plural Fogueiras | Fogueira }
   </name>
 
   <name id="Tent" tags="n">
-    { #plural Tents | Tent }
+    { #plural Barracas | Barraca }
   </name>
 
   <name id="Sunshade" tags="n">
-    { #plural Sunshades | Sunshade }
+    { #plural Pára-sol | Pára-sol }
   </name>
 
   <name id="Sign" tags="n">
-    { #plural Signs | Sign }
+    { #plural Placas | Placa }
   </name>
 
   <name id="BeachTowel" tags="n">
-    { #plural Beach Towels | Beach Towel }
+    { #plural Toalhas de praia | Toalha de praia }
   </name>
 
   <name id="SleepingMat" tags="n">
-    { #plural Sleeping Mats | Sleeping Mat }
+    { #plural Esteiras de dormir | Esteira de dormir }
   </name>
 
   <name id="Cage1" tags="n">
-    { #plural Cages | Cage }
+    { #plural celas | cela }
   </name>
 
   <name id="Cage2" tags="n">
-    { #plural Cages | Cage }
+    { #plural celas | cela }
   </name>
 
   <name id="Cage3" tags="n">
-    { #plural Cages | Cage }
+    { #plural celas | cela }
   </name>
 
   <name id="Cage4" tags="n">
-    { #plural Cages | Cage }
+    { #plural celas | cela }
   </name>
   
   <name id="Cauldron" tags="n">
-    { #plural Cauldrons | Cauldron }
+    { #plural Caldeirões | Caldeirão }
   </name>
 
   <name id="Seeker" tags="m">
-    { #plural Seekers | Seeker }
+    { #plural Buscadores | Buscador }
   </name>
 
   <name id="Brazier" tags="n">
-    { #plural Braziers | Brazier }
+    { #plural Braseiros | Braseiro }
   </name>
 
   <name id="GhostBrazier" tags="n">
-    { #plural Spirit Fires | Spirit Fire }
+    { #plural Espíritos de fogo | Espírito de fogo }
   </name>
   
   <name id="UnholyBonfire" tags="n an">
-    { #plural Unholy Bonfires | Unholy Bonfire }
+    { #plural Fogueira Profana | Fogueira Profana }
   </name>
 
   <name id="Wagon" tags="n">
-    { #plural Wagons | Wagon }
+    { #plural Vagões | Vagão }
   </name>
 
   <name id="RuneCube" tags="n">
-    { #plural Rune Cubes | Rune Cube }
+    { #plural Cubo Rúnico | Cubo Rúnico }
   </name>
 
   <name id="ShrineOfTheLight" tags="n">
-    { #plural Shrines of the Light | Shrine of the light }
+    { #plural Santuários da luz | Santuário da luz }
   </name>
 
   <name id="Footprints" tags="n p">
-    Footprints
+    Pegadas
   </name>
 
   <name id="HorseFootprints" tags="n p">
-    Horse Footprints
+    Pegadas de cavalo
   </name>
 
   <name id="MonsterFootprints" tags="n p">
-    Monster Footprints
+    Pegadas de Monstro
   </name>
 
   <name id="Sarcophagus" tags="n">
-    { #plural Sarcophaguses | Sarcophagus }
+    { #plural Sarcófagos | Sarcófago }
   </name>
 
   <name id="Pedestal" tags="n">
-    { #plural Specials | Pedestal }
+    { #plural Especiais | Pedestal }
   </name>
 
   <name id="Socket" tags="n">
-    { #plural Sockets | Socket }
+    { #plural Soquetes | Soquete }
   </name>
   
   <name id="BirdStatue" tags="n">
-    { #plural Bird Statues | Bird Statue }
+    { #plural Estátuas de pássaro | Estátua de pássaro }
   </name>
   
   <name id="MourningStatue" tags="n">
-    { #plural Mourning Statues |  Mourning Statue }
+    { #plural Estátuas de luto |  Estátua de luto }
   </name>
 
   <name id="Eagle" tags="n">
-    { #plural Eagles | Eagle }
+    { #plural Águias | Águia }
   </name>
 
   <name id="CreatorMale" tags="m">
-    { #plural Creators | Creator }
+    { #plural Criador | Criador }
   </name>
 
   <name id="CreatorFemale" tags="m">
-    { #plural Creators | Creator }
+    { #plural Criadora | Criadora }
   </name>
 
   <name id="Ghost" tags="n">
-    { #plural Ghosts | Ghost }
+    { #plural Fantasmas | Fantasma }
   </name>
 
   <name id="Knight" tags="n">
-    { #plural Knights | Knight }
+    { #plural Cavaleiros | Cavaleiro }
   </name>
 
   <name id="Druid" tags="n">
@@ -1428,163 +1428,163 @@
   </name>
   
    <name id="Demon" tags="n">
-    { #plural Demons | Demon }
+    { #plural Demônios | Demônio }
   </name>
   
   <name id="SteelEmpireForce" tags="n">
-    { #plural Steel Empire Forces | Steel Empire Force }
+    { #plural Força do Império de Aço | Força do Império de Aço }
   </name>
   
   <name id="CultOfDoomAdherer" tags="n">
-    { #plural Cult of Doom Adherers | Cult of Doom Adherer }
+    { #plural Aderente do Culto da Perdição | Aderente do Culto da Perdição }
   </name>
   
    <name id="UnholyPactFollower" tags="n an">
-    { #plural Unholy Pact Followers | Unholy Pact Follower }
+    { #plural Seguidor do Pacto Profano | Seguidor do Pacto Profano }
   </name>
 
   <name id="Bandit" tags="n">
-    { #plural Bandits | Bandit }
+    { #plural Bandidos | Bandido }
   </name>
 
   <name id="Assassin" tags="an">
-    { #plural Assassins | Assassin }
+    { #plural Assassinos | Assassino }
   </name>
 
 
   <name id="Goods" tags="n p">
-    Goods
+    Mercadorias
   </name>
   
   
 
 
   <name id="Boots" tags="p n">
-    Boots
+    botas
   </name>
 
   <name id="Gloves" tags="p n">
-    Gloves
+    Luvas
   </name>
 
   <name id="ChestArmor" tags="n">
-    { #plural Chest Armors | Chest Armor }
+    { #plural Armaduras de peito | Armadura de peito }
   </name>
 
   <name id="ShoulderArmor" tags="n">
-    { #plural Shoulder Armors | Shoulder Armor }
+    { #plural Armaduras de Ombro | Armadura de Ombro }
   </name>
 
   <name id="Sword" tags="n">
-    { #plural Swords | Sword }
+    { #plural Espadas | Espada }
   </name>
 
   <name id="Dagger" tags="n">
-    { #plural Daggers | Dagger }
+    { #plural Adagas | Adaga }
   </name>
 
   <name id="Fist" tags="n">
-    { #plural Fists | Fist }
+    { #plural Punhos | Punho }
   </name>
 
   <name id="Mace" tags="n">
-    { #plural Maces | Mace }
+    { #plural Bastões | Bastão }
   </name>
 
   <name id="Axe" tags="n">
-    { #plural Axes | Axe }
+    { #plural Machados | Machado }
   </name>
 
   <name id="Bow" tags="n">
-    { #plural Bows | Bow }
+    { #plural Arcos | Arco }
   </name>
 
   <name id="Crossbow" tags="n">
-    { #plural Crossbows | Crossbow }
+    { #plural Besta | Besta }
   </name>
 
   <name id="Boomerang" tags="n">
-    { #plural Boomerangs | Boomerang }
+    { #plural Bumerangues | Bumerangue }
   </name>
 
   <name id="Arrows" tags="p n">
-    Arrows
+    flechas
   </name>
 
   <name id="Arrow" tags="n">
-    { #plural Arrows | Arrow }
+    { #plural flechas | flecha }
   </name>
 
   <name id="Torch" tags="n">
-    { #plural Torches | Torch }
+    { #plural Tochas | Tocha }
   </name>
 
   <name id="Staff" tags="n">
-    { #plural Staves | Staff }
+    { #plural varas | vara }
   </name>
 
   <name id="Wand" tags="n">
-    { #plural Wands | Wand }
+    { #plural Varinhas | Varinha }
   </name>
 
   <name id="Bracelet" tags="n">
-    { #plural Bracelets | Bracelet }
+    { #plural bracelete | bracelete }
   </name>
 
   <name id="Shield" tags="n">
-    { #default Shield | #plural Shields }
+    { #default escudos | #plural escudo }
   </name>
 
   <name id="Greatsword" tags="n">
-    { #plural Greatswords | Greatsword }
+    { #plural Espadas Longa | Espada Longa }
   </name>
 
   <name id="Greataxe" tags="n">
-    { #plural Greataxes | Greataxe }
+    { #plural Grande machado | Grande machado }
   </name>
 
   <name id="Greatmace" tags="n">
-    { #plural Greatmaces | Greatmace}
+    { #plural Grande bastão | Grande bastão}
   </name>
 
   <name id="Longsword" tags="n">
-    { #plural Longswords | Longsword }
+    { #plural Espada longa | Espada longa }
   </name>
 
   <name id="Coin" tags="n">
-    { #plural Coins | Coin }
+    { #plural Moedas | Moeda }
   </name>
 
   <name id="Candle" tags="n">
-    { #plural Candles | Candle }
+    { #plural Velas | Vela }
   </name>
 
   <name id="HangGlider" tags="n">
-    {#the the} { #plural Hang Gliders | Hang Glider }
+    {#the the} { #plural Asa Delta | Asa Delta }
   </name>
 
   <name id="Boat" tags="n">
-    {#the the} { #plural Boats | Boat }
+    {#the the} { #plural Barcos | Barco }
   </name>
   
   <name id="MagicCraftingBook" tags="n">
-    {#the the} { #plural Magic Books of Crafting | Magic Book of Crafting }
+    {#the the} { #plural Livro Mágico de Artesanato | Livro Mágico de Artesanato }
   </name>
   
   <name id="RareCraftingBook" tags="n">
-    {#the the} { #plural Rare Books of Crafting | Rare Book of Crafting }
+    {#the the} { #plural Livro Raro de Artesanato | Livro Raro de Artesanato }
   </name>
   
   <name id="EpicCraftingBook" tags="n an">
-    {#the the} { #plural Epic Books of Crafting | Epic Book of Crafting }
+    {#the the} { #plural Livro Épico de Artesanato | Livro Épico de Artesanato }
   </name>
   
   <name id="LegendaryCraftingBook" tags="n">
-    {#the the} { #plural Legendary Books of Crafting | Legendary Book of Crafting }
+    {#the the} { #plural Livros Lendários de Artesanato | Livro de Artesanato Lendário }
   </name>
   
   <name id="ClimbingSpikes" tags="n p">
-    {#the the} Climbing Spikes
+    {#the the} Espinho de Escalada
   </name>
 
   <name id="Reins" tags="n p">
@@ -1592,27 +1592,27 @@
   </name>
 
   <name id="TamersWhistle" tags="n p">
-    {#the the} Tamer's Whistle
+    {#the the} Apito do Tamer
   </name>
 
   <name id="Lamp" tags="n">
-    { #plural Lamps | Lamp }
+    { #plural Lanternas | Lanterna }
   </name>
 
   <name id="ManaCube" tags="n">
-    { #plural Mana Cubes | Mana Cube }
+    { #plural Cubos de Mana | Cubo de Mana }
   </name>
 
   <name id="ManaSpirit" tags="n">
-    { #plural Mana Spirits | Mana Spirit }
+    { #plural Espírito de Mana | Espírito de Mana }
   </name>
   
   <name id="GoldBag" tags="n">
-    { #plural Bags of Gold | Bag of Gold }
+    { #plural Sacos de ouro | Saco de ouro }
   </name>
   
   <name id="PlatinumBag" tags="n">
-    { #plural Bags of Platinum | Bag of Platinum }
+    { #plural Sacos de Platina | Saco de Platina }
   </name>
   
   <name id="Dewdrop" tags="n">
@@ -1620,15 +1620,15 @@
   </name>
 
   <name id="SugarCube" tags="n">
-    { #plural Sugar Cubes | Sugar Cube }
+    { #plural Cubos de açúcar | Cubo de açúcar }
   </name>
 
   <name id="IceCube" tags="n">
-    { #plural Ice Cubes | Ice Cube }
+    { #plural Cubos de gelo | Cubo de gelo }
   </name>
 
   <name id="Lemon" tags="n">
-    { #plural Lemons | Lemon }
+    { #plural Limões | Limão }
   </name>
 
   <name id="Banana" tags="n">
@@ -1636,27 +1636,27 @@
   </name>
 
   <name id="Kale" tags="n">
-    { #plural Kales | Kale }
+    { #plural Couves | Couve }
   </name>
 
   <name id="CocoaBean" tags="n">
-    { #plural Cocoa Beans | Cocoa Bean }
+    { #plural Sementes de cacau | Semente de cacau }
   </name>
 
   <name id="Apple" tags="n">
-    { #plural Apples | Apple }
+    { #plural maçãs | maçã }
   </name>
 
   <name id="Meteorite" tags="n">
-    { #plural Meteorites | Meteorite }
+    { #plural Meteoritos | Meteorito }
   </name>
 
   <name id="VoidStone" tags="n">
-    { #plural Void Stones | Void Stone }
+    { #plural Pedras do Vazio | Pedra do Vazio }
   </name>
 
   <name id="Mushroom" tags="n">
-    { #plural Mushrooms | Mushroom }
+    { #plural Cogumelos | Cogumelo }
   </name>
 
   <name id="ShimmerMushroom" tags="n">
@@ -1664,51 +1664,51 @@
   </name>
 
   <name id="GinsengRoot" tags="n">
-    { #plural Ginseng Roots | Ginseng Root }
+    { #plural Raizes de ginseng | Raiz de ginseng }
   </name>
 
   <name id="MushroomSpit" tags="n">
-    { #plural Mushroom Spits | Mushroom Spit }
+    { #plural Cuspo de cogumelo | Cuspo de cogumelo }
   </name>
 
   <name id="Cookie" tags="n">
-    { #plural Cookies | Cookie }
+    { #plural Biscoitos | Biscoito }
   </name>
 
   <name id="Bait" tags="n">
-    { #plural Pet Foods | Pet Food }
+    { #plural Comida de Pet | Comida de Pet }
   </name>
 
   <name id="BlueJelly" tags="n s">
-    { #plural Blue Jellies | Blue Jelly }
+    { #plural Geléias Azuis | Geléia Azul }
   </name>
 
   <name id="GreenJelly" tags="n s">
-    { #plural Green Jellies | Green Jelly }
+    { #plural Geléias Verdes | Geléia Verde }
   </name>
 
   <name id="PinkJelly" tags="n s">
-    { #plural Pink Jellies | Pink Jelly }
+    { #plural Geléias Rosas | Geléia Rosa }
   </name>
 
   <name id="YellowJelly" tags="n s">
-    { #plural Yellow Jellies | Yellow Jelly }
+    { #plural Geléias Amarelas | Geléia Amarela }
   </name>
 
   <name id="Carrot" tags="n">
-    { #plural Carrots | Carrot }
+    { #plural Cenouras | Cenoura }
   </name>
 
   <name id="PumpkinMash" tags="n s">
-    { #plural Pumpkin Mashes | Pumpkin Mash }
+    { #plural Purê de abóbora | Purê de abóbora }
   </name>
 
   <name id="BananaMash" tags="n s">
-    { #plural Banana Mashes | Banana Mash }
+    { #plural Purê de Banana | Purê de Banana }
   </name>
 
   <name id="MixedSalad" tags="n s">
-    { #plural Mixed Salads | Mixed Salad }
+    { #plural Salada mista | Salada mista }
   </name>
 
   <name id="RadicchioSalad" tags="n s">
@@ -1716,16 +1716,16 @@
   </name>
 
   <name id="CabbageRolls" tags="p">
-    { #plural Cabbage Rolls | Cabbage Rolls }
+    { #plural Rolos de repolho | Rolos de repolho }
   </name>
 
 
   <name id="Candy" tags="n s">
-    { #plural Candies | Candy }
+    { #plural Doces | Doce }
   </name>
 
   <name id="Lollipop" tags="n">
-    { #plural Lollipops | Lollipop }
+    { #plural Pirulitos | Pirulito }
   </name>
 
   <name id="Softice" tags="n s">
@@ -1733,35 +1733,35 @@
   </name>
 
   <name id="ChocolateDonut" tags="n">
-    { #plural Chocolate Donuts | Chocolate Donut }
+    { #plural Donut de chocolate | Donut de chocolate }
   </name>
 
   <name id="CottonCandy" tags="n s">
-    { #plural Cotton Candies | Cotton Candy }
+    { #plural Algodão doce | Algodão doce }
   </name>
 
   <name id="Popcorn" tags="n s">
-    { #plural Popcorn | Popcorn }
+    { #plural Pipocas | Pipoca }
   </name>
 
   <name id="CerealBar" tags="n">
-    { #plural Cereal Bars | Cereal Bar }
+    { #plural Barras de cereal | Barra de cereal }
   </name>
 
   <name id="StrawberryCake" tags="n s">
-    { #plural Strawberry Cakes | Strawberry Cake }
+    { #plural Bolos de morango | Bolo de morango }
   </name>
 
   <name id="ChocolateCake" tags="n s">
-    { #plural Chocolate Cakes | Chocolate Cake }
+    { #plural Bolo de chocolate | Bolo de chocolate }
   </name>
 
   <name id="ChocolateCupcake" tags="n s">
-    { #plural Chocolate Cupcakes | Chocolate Cupcake }
+    { #plural Cupcake de chocolate | Cupcake de chocolate }
   </name>
 
   <name id="VanillaCupcake" tags="n s">
-    { #plural Vanilla Cupcakes | Vanilla Cupcake }
+    { #plural Cupcake de baunilha | Cupcake de baunilha }
   </name>
 
   <name id="BananaSplit" tags="n s">
@@ -1773,7 +1773,7 @@
   </name>
 
   <name id="Bread" tags="n s">
-    { #plural Breads | Bread }
+    { #plural Pães | Pão }
   </name>
 
   <name id="Lolly" tags="n">
@@ -1781,27 +1781,27 @@
   </name>
 
   <name id="LemonTart" tags="n s">
-    { #plural Lemon Tarts | Lemon Tart }
+    { #plural Tortas de limão | Torta de limão }
   </name>
 
   <name id="ChocolateCookie" tags="n">
-    { #plural Chocolate Cookies | Chocolate Cookie }
+    { #plural Biscoito de chocolate | Biscoito de chocolate }
   </name>
 
   <name id="BubbleGum" tags="n s">
-    { #plural Bubble Gums | Bubble Gum }
+    { #plural Chicletes | Chiclete }
   </name>
 
   <name id="LicoriceCandy" tags="n s">
-    { #plural >Licorice Candies | Licorice Candy }
+    { #plural >Doces de alcaçuz | Doce de alcaçuz }
   </name>
 
   <name id="CinnamonRole" tags="n">
-    { #plural Cinnamon Rolls | Cinnamon Role }
+    { #plural Rolo de canela | Rolo de canela }
   </name>
 
   <name id="AppleRing" tags="n">
-    { #plural Apple Rings | Apple Ring }
+    { #plural Anel de maçã | Anel de maçã }
   </name>
 
   <name id="Waffle" tags="n">
@@ -1809,39 +1809,39 @@
   </name>
 
   <name id="WaterIce" tags="n s">
-    { #plural Water Ices | Water Ice }
+    { #plural Agua gelada | Agua gelada }
   </name>
 
   <name id="DateCookie" tags="n">
-    { #plural Date Cookies | Date Cookie }
+    { #plural Cookies Vencidos | Cookie Vencido }
   </name>
 
   <name id="CandiedApple" tags="n">
-    { #plural Candied Apples | Candied Apple }
+    { #plural Maçã cristalizada | Maçã cristalizada }
   </name>
 
   <name id="StrawberryCocktail" tags="n">
-    { #plural Strawberry Cocktails | Strawberry Cocktail }
+    { #plural Cocktail de Morango | Cocktail de Morango }
   </name>
 
   <name id="MilkChocolateBar" tags="n">
-    Rice { #plural Milk Chocolate Bars | Milk Chocolate Bar }
+    Rice { #plural Barra de chocolate ao leite | Barra de chocolate ao leite }
   </name>
 
   <name id="CaramelChocolateBar" tags="n">
-    { #plural Caramel Chocolate Bars | Caramel Chocolate Bar }
+    { #plural Barra de Chocolate Caramelo | Barra de Chocolate Caramelo }
   </name>
 
   <name id="MintChocolateBar" tags="n">
-    { #plural Mint Chocolate Bars | Mint Chocolate Bar }
+    { #plural Barra de chocolate com menta | Barra de chocolate com menta }
   </name>
 
   <name id="WhiteChocolateBar" tags="n">
-    { #plural White Chocolate Bars | White Chocolate Bar }
+    { #plural Barra de Chocolate Branco | Barra de Chocolate Branco }
   </name>
 
   <name id="SugarCandy" tags="n s">
-    { #plural Sugar Candies | Sugar Candy }
+    { #plural Doce açucarado | Doce açucarado }
   </name>
 
   <name id="BlackberryMarmelade" tags="n s">
@@ -1849,43 +1849,43 @@
   </name>
 
   <name id="SaltedCaramel" tags="n s">
-    { #plural Salted Caramels | Salted Caramel }
+    { #plural Caramelo salgado | Caramelo salgado }
   </name>
 
   <name id="GingerTartlet" tags="n">
-    { #plural Ginger Tartlets | Ginger Tartlet }
+    { #plural Tartlet de gengibre | Tartlet de gengibre }
   </name>
 
   <name id="MangoJuice" tags="n s">
-    { #plural Mango Juices | Mango Juice }
+    { #plural Suco de manga | Suco de manga }
   </name>
 
   <name id="FruitBasket" tags="n">
-    { #plural Fruit Baskets | Fruit Basket }
+    { #plural Cesto de frutas | Cesto de frutas }
   </name>
 
   <name id="MelonIceCream" tags="n s">
-    { #plural Melon Ice Creams | Melon Ice Cream }
+    { #plural Sorvete de melão | Sorvete de melão }
   </name>
 
   <name id="BloodOrangeJuice" tags="n s">
-    { #plural Bloodorange Juices | Bloodorange Juice }
+    { #plural Suco de Laranja Sangrenta | Suco de Laranja Sangrenta }
   </name>
 
   <name id="RaspberryJuice" tags="n s">
-    { #plural Raspberry Juices | Raspberry Juice }
+    { #plural Suco de framboesa | Suco de framboesa }
   </name>
 
   <name id="Pancakes" tags="n p">
-    Pancakes
+    Panquecas
   </name>
 
   <name id="Curry" tags="n s">
-    { #plural Curries | Curry }
+    { #plural Curry | Curry }
   </name>
 
   <name id="BiscuitRole" tags="n">
-    { #plural Biscuit Roles | Biscuit Role }
+    { #plural Papel do biscoito | Papel do biscoito }
   </name>
 
   <name id="Buckhorn" tags="n s">
@@ -1893,268 +1893,268 @@
   </name>
 
   <name id="EucalyptusCandy" tags="n s">
-    { #plural Eucalyptus Candies | Eucalyptus Candy }
+    { #plural Doces de eucalipto | Doce de eucalipto }
   </name>
 
   <name id="MineralWater" tags="n s">
-    { #plural Mineral Waters | Mineral Water }
+    { #plural Água mineral | Água mineral }
   </name>
 
   <name id="SpringWater" tags="n s">
-    { #plural Spring Waters | Spring Water }
+    { #plural Água de nascente | Água de nascente }
   </name>
 
   <name id="Peanut" tags="n">
-    { #plural Peanuts | Peanut }
+    { #plural Amendoins | Amendoim }
   </name>
 
   <name id="ChocolateIceCream" tags="n s">
-    { #plural Chocolate Ice Creams | Chocolate Ice Cream }
+    { #plural Sorvete de chocolate | Sorvete de chocolate }
   </name>
 
   <name id="Pumpkin" tags="n">
-    { #plural Pumpkins | Pumpkin }
+    { #plural Abóboras | Abóbora }
   </name>
 
   <name id="Pineapple" tags="n">
-    { #plural Pineapples | Pineapple }
+    { #plural Abacaxis | Abacaxi }
   </name>
 
   <name id="PineappleSlice" tags="n">
-    { #plural Pineapple Slices | Pineapple Slice }
+    { #plural Fatias de abacaxi | Fatia de abacaxi }
   </name>
 
   <name id="PumpkinMuffin" tags="n">
-    { #plural Pumpkin Muffins | Pumpkin Muffin }
+    { #plural Muffin de Abóboras | Muffin de Abóbora }
   </name>
 
   <name id="LifePotion" tags="n">
-    { #plural Life Potions | Life Potion }
+    { #plural Poções de vida | Poção da Vida }
   </name>
 
   <name id="GreaterLifePotion" tags="n">
-    { #plural Greater Life Potions | Greater Life Potion }
+    { #plural Poções de Vida Maiores | Poção Maior de Vida }
   </name>
 
   <name id="CactusPotion" tags="n">
-    { #plural Cactus Potions | Cactus Potion }
+    { #plural Poções de cacto | Poção de cacto }
   </name>
 
   <name id="ManaPotion" tags="n">
-    { #plural Mana Potions | Mana Potion }
+    { #plural Poções de Mana | Poção de Mana }
   </name>
   
   <name id="EssenceOfWisdom" tags="n">
-    { #plural Essences of Wisdom | Essence of Wisdom }
+    { #plural Essências da Sabedoria | Essência da Sabedoria }
   </name>
   
   <name id="ElixirOfLife" tags="n">
-    { #plural Elixirs of Life | Elixir of Life }
+    { #plural Elixires da Vida | Elixir da vida }
   </name>
   <name id="ElixirOfPower" tags="n">
-    { #plural Elixirs Of Power | Elixir Of Power }
+    { #plural Elixires do poder | Elixir do poder }
   </name>
   <name id="ElixirOfToughness" tags="n">
-    { #plural Elixirs Of Toughness | Elixir Of Toughness }
+    { #plural Elixires da resistência | Elixir da resistência }
   </name>
   <name id="ElixirOfSanity" tags="n">
-    { #plural Elixirs Of Sanity | Elixir Of Sanity }
+    { #plural Elixires da Sanidade | Elixir da Sanidade }
   </name>
   
   <name id="Lemonade" tags="n">
-    { #plural Lemonades | Lemonade }
+    { #plural Limonadas | Limonada }
   </name>
 
   <name id="HotChocolate" tags="n">
-    { #plural Chot Chocolates | Hot Chocolate }
+    { #plural Chocolate quente | Chocolate quente }
   </name>
 
   <name id="GreenSmoothie" tags="n">
-    { #plural Green Smoothies | Green Smoothie }
+    { #plural Smoothie verde | Smoothie verde }
   </name>
 
   <name id="Heartflower" tags="n">
-    { #plural Heartflowers | Heartflower }
+    { #plural Flor do coração | Flor do coração }
   </name>
 
   <name id="PricklyPear" tags="n">
-    { #plural Prickly Pears | Prickly Pear }
+    { #plural Pera espinhosa | Pera espinhosa }
   </name>
 
   <name id="FrozenHeartflower" tags="n">
-    { #plural Iceflowers | Iceflower }
+    { #plural Flor de gelo | Flor de gelo }
   </name>
 
   <name id="SoulFlower" tags="n">
-    { #plural SoulFlowers | SoulFlower }
+    { #plural Flor da Alma | Flor da Alma }
   </name>
 
   <name id="Mindflower" tags="n">
-    { #plural Mindflowers | Mindflower }
+    { #plural Flor da mente | Flor da mente }
   </name>
 
   <name id="ManaOrchid" tags="n">
-    { #plural Mana Orchids | ManaOrchid }
+    { #plural Orquídea de Mana | Orquídea de Mana }
   </name>
 
   <name id="Spiritflower" tags="n">
-    { #plural Spiritflowers | Spiritflower }
+    { #plural Flor do Espírito | Flor do Espírito }
   </name>
 
   <name id="GinsengSoup" tags="n">
-    { #plural Ginseng Soups | Ginseng Soup }
+    { #plural Sopa de Ginseng | Sopa de Ginseng }
   </name>
 
   <name id="RadishSlice" tags="n">
-    { #plural Radish Slices | Radish Slice }
+    { #plural Fatia de rabanete | Fatia de rabanete }
   </name>
 
   <name id="OnionSlice" tags="n">
-    { #plural Onion Slices | Onion Slice }
+    { #plural Fatia de cebola | Fatia de cebola }
   </name>
 
   <name id="WaterFlask" tags="n">
-    { #plural Water Flasks | Water Flask }
+    { #plural Garrafa de água | Garrafa de água }
   </name>
 
   <name id="Bomb" tags="n">
-    { #plural Bombs | Bomb }
+    { #plural bombas | bomba }
   </name>
 
   <name id="PortalStone" tags="n">
-    { #plural Portal Stones | Portal Stone }
+    { #plural Portal de Pedra | Portal de Pedra }
   </name>
   
   <name id="DragonRoot" tags="n">
-    { #plural Dragon Roots | Dragon Root }
+    { #plural Raiz do dragão | Raiz do dragão }
   </name>
 
   <name id="Nugget" tags="n">
-    { #plural Nuggets | Nugget }
+    { #plural Pepitas | Pepita }
   </name>
 
   <name id="Log" tags="n">
-    { #plural Logs | Log }
+    { #plural toras | tora }
   </name>
 
   <name id="Feather" tags="n">
-    { #plural Feathers | Feather }
+    { #plural Plumas | Pluma }
   </name>
 
   <name id="Horn" tags="n">
-    { #plural Horns | Horn }
+    { #plural chifres | chifre }
   </name>
 
   <name id="Claw" tags="n">
-    { #plural Claws | Claw }
+    { #plural Garras | Garra }
   </name>
 
   <name id="Fiber" tags="n">
-    { #plural Fibers | Fiber }
+    { #plural Fibras | Fibra }
   </name>
 
   <name id="Cobweb" tags="n">
-    { #plural Cobwebs | Cobweb }
+    { #plural Teias de aranha | Teia de aranha }
   </name>
 
   <name id="Hair" tags="n">
-    { #plural Hairs | Hair }
+    { #plural Cabelos | Cabelo }
   </name>
 
   <name id="Crystal" tags="n">
-    { #plural Crystals | Crystal }
+    { #plural Cristais | Cristal }
   </name>
 
   <name id="PlatinumCoin" tags="n">
-    { #plural Platinum Coins | Platinum Coin }
+    { #plural Moedas de Platina | Moeda de Platina }
   </name>
 
   <name id="Yarn" tags="n">
-    { #plural Yarns | Yarn }
+    { #plural Fios | Fio }
   </name>
 
   <name id="Cube" tags="n">
-    { #plural Cubes | Cube }
+    { #plural Cubos | Cubo }
   </name>
 
   <name id="Orb" tags="n">
-    { #plural Orbs | Orb }
+    { #plural Esferas | Esfera }
   </name>
 
   <name id="Spirit" tags="n">
-    { #plural Spirits | Spirit }
+    { #plural Espíritos | Espírito }
   </name>
 
   <name id="Flask" tags="n">
-    { #plural Flasks | Flask }
+    { #plural Frascos | Frasco }
   </name>
 
   <name id="Beak" tags="n">
-    { #plural Beaks | Beak }
+    { #plural Bicos | Bico }
   </name>
 
   <name id="JewelCase" tags="n">
-    { #plural Jewel Cases | Jewel Case }
+    { #plural guarda-jóias | guarda-jóias }
   </name>
 
   <name id="Letter" tags="n">
-    { #plural Letters | Letter }
+    { #plural Cartas | Carta }
   </name>
 
   <name id="Note" tags="n">
-    { #plural Notes | Note }
+    { #plural Notas | Nota }
   </name>
 
   <name id="Scroll" tags="n">
-    { #plural Scrolls | Scroll }
+    { #plural Rolagens | Rolagem }
   </name>
 
   <name id="Map" tags="n">
-    { #plural Maps | Map }
+    { #plural Mapas | Mapa }
   </name>
 
   <name id="Tablet" tags="n">
-    { #plural Tablets | Tablet }
+    { #plural tabletes | tablete }
   </name>
 
   <name id="Bag" tags="n">
-    { #plural Bags | Bag }
+    { #plural Sacos | Saco }
   </name>
 
   <name id="Pouch" tags="n">
-    { #plural Pouches | Pouch }
+    { #plural Bolsas | Bolsa }
   </name>
   
   <name id="EternalEmber" tags="n an">
-    { #plural Eternal Embers | Eternal Ember }
+    { #plural Brasas Eterna | Brasa Eterna }
   </name>
 
   <name id="Flute" tags="n">
-    {#the the} { #plural Magic Flutes | Magic Flute }
+    {#the the} { #plural Flautas mágicas | Flauta Mágica }
   </name>
 
   <name id="Harp" tags="n">
-    {#the the} { #plural Divine Harps | Divine Harp }
+    {#the the} { #plural Harpas Divinas | Harpa Divina }
   </name>
 
   <name id="TreasureSpirit" tags="n">
-    {#the the} { #plural Treasure Spirits | Treasure Spirit }
+    {#the the} { #plural Espíritos do tesouro | Espírito do Tesouro }
   </name>
 
   <name id="Fiddle" tags="n">
-    {#the the} { #plural Fiddles | Fiddle }
+    {#the the} { #plural Violinos | Violino }
   </name>
 
   <name id="Whistle" tags="n">
-    {#the the} { #plural Sky Whistles | Sky Whistle }
+    {#the the} { #plural Apitos | Apito }
   </name>
 
   <name id="Bell" tags="n">
-    {#the the} { #plural Spirit Bells | Spirit Bell }
+    {#the the} { #plural Sinos Espirituais | Sino Espiritual }
   </name>
 
   <name id="Lute" tags="n">
-    {#the the}{ #plural Lutes | Lute }
+    {#the the}{ #plural Alaúdes | Alaúde }
   </name>
   
   <name id="Nightingale" tags="n">
@@ -2162,175 +2162,175 @@
   </name>
 
   <name id="MagicBean" tags="n">
-    {#the the} { #plural Magic Beans | Magic Bean }
+    {#the the} { #plural Feijões mágicos | Feijão Mágico }
   </name>
 
   <name id="Key" tags="n">
-    { #plural Keys | Key }
+    { #plural Chaves | Chave }
   </name>
   
    <name id="GateKey" tags="n">
-    { #plural Gate Keys | Gate Key }
+    { #plural Chaves do portão | Chave do portão }
   </name>
 
   <name id="RustyKey" tags="n">
-    { #plural rusty keys | rusty key }
+    { #plural chaves enferrujadas | chave enferrujada }
   </name>
 
   <name id="GoldKey" tags="n">
-    { #plural gold keys | gold key }
+    { #plural chaves de ouro | chave de ouro }
   </name>
 
   <name id="BoneKey" tags="n">
-    { #plural bone keys | bone key }
+    { #plural chaves de osso | chave de osso }
   </name>
 
   <name id="BronzeKey" tags="n">
-    { #plural bronze keys | bronze key }
+    { #plural chaves de bronze | chave de bronze }
   </name>
 
   <name id="SilverKey" tags="n">
-    { #plural silver keys | silver key }
+    { #plural chaves de prata | chave de prata }
   </name>
 
   <name id="SkullKey" tags="n">
-    { #plural skull keys | skull key }
+    { #plural chaves do crânio | chave do crânio }
   </name>
 
   <name id="IronKey" tags="n an">
-    { #plural iron keys | iron key }
+    { #plural chaves de ferro | chave de ferro }
   </name>
 
   <name id="ScratchedKey" tags="n">
-    { #plural scratched keys | scratched key }
+    { #plural teclas riscadas | chave riscada }
   </name>
 
   <name id="AdornedKey" tags="n an">
-    { #plural adorned keys | adorned key }
+    { #plural chaves adornadas | chave adornada }
   </name>
 
   <name id="CopperKey" tags="n">
-    { #plural copper keys | copper key }
+    { #plural chaves de cobre | chave de cobre }
   </name>
 
   <name id="ObsidianKey" tags="n an">
-    { #plural obisidian keys | obisidian key }
+    { #plural chaves de obsidiana | chave de obsidiana }
   </name>
 
   <name id="SteelKey" tags="n">
-    { #plural steel keys | steel key }
+    { #plural chaves de aço | chave de aço }
   </name>
 
   <name id="TwistedKey" tags="n">
-    { #plural twisted keys | twisted key }
+    { #plural chaves torcidas | chave torcida }
   </name>
 
   <name id="SmallKey" tags="n">
-    { #plural small keys | small key }
+    { #plural pequenas chaves | chave pequena }
   </name>
 
   <name id="HeavyKey" tags="n">
-    { #plural heavy keys | heavy key }
+    { #plural chaves pesadas | chave pesada }
   </name>
 
   <name id="MassiveKey" tags="n">
-    { #plural massive keys | massive key }
+    { #plural chaves maciças | chave maciça }
   </name>
 
   <name id="WoodKey" tags="n">
-    { #plural wood keys | wood key }
+    { #plural chaves de madeira | chave de madeira }
   </name>
 
   <name id="StoneKey" tags="n">
-    { #plural stone keys | stone key }
+    { #plural chaves de pedra | chave de pedra }
   </name>
 
   <name id="TinyKey" tags="n">
-    { #plural tiny keys | tiny key }
+    { #plural pequenas chaves | chave minúscula }
   </name>
 
   <name id="DelicateKey" tags="n">
-    { #plural delicate keys | delicate key }
+    { #plural chaves delicadas | chave delicada }
   </name>
 
   <name id="ItemTreasure" tags="n">
-    { #plural Treasures of @ | Treasure of @ }
+    { #plural Tesouros de @ | Tesouro de @ }
   </name>
 
   <name id="ItemTreasureStatue" tags="n">
-    { #plural @ Statues | @ Statue }
+    { #plural @ Estátuas | @ Estátua }
   </name>
 
   <name id="ItemTreasureJewel" tags="n">
-    { #plural Jewels of @ | Jewel of @ }
+    { #plural Jóias de @ | Jóia de @ }
   </name>
 
   <name id="ItemTreasureVase" tags="n">
-    { #plural @ Vases | @ Vase }
+    { #plural @ Vasos | @ Vaso }
   </name>
 
   <name id="DemonIdol" tags="n">
-    { #plural Demon Idols | Demon Idol }
+    { #plural Ídolos demoníacos | Ídolo do Demônio }
   </name>
 
   <name id="BloodaxeClanBanner" tags="n">
-    { #plural Bloodaxe Clan Banners | Bloodaxe Clan Banner }
+    { #plural Banners do Clã Machado-de-sangue | Estandarte do Clã Machado-de-sangue }
   </name>
 
   <name id="Herb" tags="n">
-    { #plural @ Herbs | @ Herb }
+    { #plural @ Ervas | @ Erva }
   </name>
 
   <name id="Flower" tags="n">
-    { #plural @ Flowers | @ Flower }
+    { #plural @ Flores | @ Flor }
   </name>
 
   <name id="Treasure" tags="n">
-    { #plural Treasures | Treasure }
+    { #plural Tesouros | Tesouro }
   </name>
 
   <name id="TreasureStatue" tags="n">
-    { #plural Statues | Statue }
+    { #plural Estátuas | Estátua }
   </name>
 
   <name id="TreasureJewel" tags="n">
-    { #plural Jewels | Jewel }
+    { #plural Jóias | Jóia }
   </name>
 
   <name id="TreasureVase" tags="n">
-    { #plural Vases | Vase }
+    { #plural Vasos | Vaso }
   </name>
 
   <name id="Medicine" tags="n">
-    { #plural Medicines | Medicine }
+    { #plural Medicamentos | Remédio }
   </name>
 
   <name id="Antivenom" tags="n an">
-    { #plural Antivenoms | Antivenom }
+    { #plural Antivenenos | Antiveneno }
   </name>
 
   <name id="Painkiller" tags="n">
-    { #plural Painkillers | Painkiller }
+    { #plural Analgésicos | Analgésico }
   </name>
 
   <name id="StaminaPotion" tags="n">
-    { #plural Stamina Potions | Stamina Potion }
+    { #plural Poções de Vigor | Poção de Vigor }
   </name>
 
   <name id="BandAid" tags="n">
-    { #plural Band Aids | Band Aid }
+    { #plural Curativos | Curativo }
   </name>
 
   <name id="Crutch" tags="n">
-    { #plural Crutches | Crutch }    
+    { #plural Muletas | Muleta }    
   </name>
 
   <name id="Bandage" tags="n">
-    { #plural Bandages | Bandage }
+    { #plural Curativos | Curativo }
   </name>
 
   <name id="Salve" tags="n">
-    { #plural Salves | Salve }
+    { #plural pomadas | pomada }
   </name>
 
   <name id="DragonDrool" tags="n">
@@ -2338,288 +2338,288 @@
   </name>
 
   <name id="FrogSlime" tags="n">
-    { #plural Frog Slimes | Frog Slime }
+    { #plural Lodo de sapos | Lodo de sapo }
   </name>
 
   <name id="GargoyleTooth" tags="n">
-    { #plural Gargoyle Teeth | Gargoyle Tooth }
+    { #plural Dentes de gárgula | Dente de gárgula }
   </name>
 
   <name id="SlimyEye" tags="n">
-    { #plural Slimy Eyes | Slimy Eye }
+    { #plural Olhos viscosos | Olho viscoso }
   </name>
 
   <name id="Broom" tags="n">
-    { #plural Brooms | Broom }
+    { #plural Vassouras | Vassoura }
   </name>
 
   <name id="Anchor" tags="n an">
-    { #plural Anchors | Anchor }
+    { #plural Âncoras | Âncora }
   </name>
 
   <name id="WalkingStick" tags="n">
-    { #plural Walking Sticks | Walking Stick }
+    { #plural Bengalas | Bengala }
   </name>
 
   <name id="TrollFingernail" tags="n">
-    { #plural Troll Fingernails | Troll Fingernail }
+    { #plural Unhas de Troll | Unha de Troll }
   </name>
 
   <name id="Spoon" tags="n">
-    { #plural Spoons | Spoon }
+    { #plural Colheres | Colher }
   </name>
 
   <name id="Socks" tags="n">
-    { #plural Pairs of Socks | Pair of Socks }
+    { #plural Pares de meias | Par de meias }
   </name>
 
   <name id="PicnicBasket" tags="n">
-    { #plural Picnic Baskets | Picnic Basket }
+    { #plural Cestas de piquenique | Cesta de piquenique }
   </name>
 
   <name id="Pan" tags="n">
-    { #plural Pans | Pan }
+    { #plural Panelas | Panela }
   </name>
 
   <name id="LunchBox" tags="n">
-    { #plural Lunch Boxes | Lunch Box }
+    { #plural Lancheiras | Lancheira }
   </name>
 
   <name id="LuckyCharm" tags="n">
-    { #plural Lucky Charms | Lucky Charm }
+    { #plural Amuletos da sorte | Amuleto da sorte }
   </name>
 
   <name id="Belt" tags="n">
-    { #plural Belts | Belt }
+    { #plural Cintos | Cinto }
   </name>
 
   <name id="RareCrystal" tags="n">
-    { #plural Rare @ Crystals | Rare @ Crystal }
+    { #plural Cristais Raros @ | Rare @ Crystal }
   </name>
 
   <name id="FabricScrap" tags="n">
-    { #plural @ Fabric Scraps | @ Fabric Scrap }
+    { #plural @ Pedaços de tecido | @ Sucata de Tecido }
   </name>
 
   <name id="Button" tags="n">
-    { #plural Buttons | Button }
+    { #plural Botões | Botão }
   </name>
 
   <name id="Fruit" tags="n">
-    { #plural @ Fruits | @ Fruit }
+    { #plural @ Frutas | @ Fruta }
   </name>
 
   <name id="Nut" tags="n">
-    { #plural @ Nuts | @ Nut }
+    { #plural @ Nozes | @ Noz }
   </name>
 
   <name id="RareFiber" tags="n">
-    { #plural Rare @ Fibers | Rare @ Fiber }
+    { #plural Fibras @ raras | Rare @ Fiber }
   </name>
 
   <name id="RareBlossom" tags="n">
-    { #plural Rare @ Blossoms | Rare @ Blossom }
+    { #plural Flores raras @ | Rare @ Blossom }
   </name>
   
   <name id="MagicBook" tags="n">
-    { #plural Magic Books | Magic Book }
+    { #plural Livros de magia | Livro Mágico }
   </name>
   
   <name id="SpellBook" tags="n">
-    { #pluralSpellbooks |Spellbook }
+    { #plural Livros de feitiços | Livro de feitiços }
   </name>
 
   <name id="MagicallyLockedBook" tags="n">
-    { #plural Magically Locked Books | Magically Locked Book }
+    { #plural Livros Magicamente Bloqueados | Livro Magicamente Bloqueado }
   </name>
 
   <name id="BrokenWeapon" tags="n">
-    { #plural Broken Weapons | Broken Weapon }
+    { #plural Armas quebradas | Arma quebrada }
   </name>
 
   <name id="EnchantedTimber" tags="n an">
-    { #plural Enchanted @ Timbers | Enchanted @ Timber }
+    { #plural Madeiras @ Encantadas | Madeira @ Encantada }
   </name>
 
   <name id="GhostRemains" tags="n p">
-    Ghost Remains
+    Restos Fatasmas
   </name>
 
   <name id="Leftovers" tags="n p">
-    Leftovers
+    Sobras
   </name>
 
   <name id="Painting" tags="n">
-    { #plural Paintings | Painting }
+    { #plural Pinturas | Pintura }
   </name>
 
   <name id="MaterialIron" tags="an">
-    Iron { #item @item(*) }
+    Ferro { #item @item(*) }
   </name>
   <name id="MaterialWood">
-    Wood { #item @item(*) }
+    Madeira { #item @item(*) }
   </name>
   <name id="MaterialGold">
-    Gold { #item @item(*) }
+    Ouro { #item @item(*) }
   </name>
   <name id="MaterialIce" tags="an">
-    Ice { #item @item(*) }
+    Gelo { #item @item(*) }
   </name>
   <name id="MaterialLight">
-    Light { #item @item(*) }
+    Luz { #item @item(*) }
   </name>
   <name id="MaterialGlass">
-    Glass { #item @item(*) }
+    Vidro { #item @item(*) }
   </name>
   <name id="MaterialSatin">
-    Satin { #item @item(*) }
+    Cetim { #item @item(*) }
   </name>
   <name id="MaterialSilk">
-    Silk { #item @item(*) }
+    Seda { #item @item(*) }
   </name>
   <name id="MaterialLinen">
-    Linen { #item @item(*) }
+    Linho { #item @item(*) }
   </name>
   <name id="MaterialCotton">
-    Cotton { #item @item(*) }
+    Algodão { #item @item(*) }
   </name>
   <name id="MaterialSilver">
-    Silver { #item @item(*) }
+    Prata { #item @item(*) }
   </name>
   <name id="MaterialPlatinum">
-    Platinum { #item @item(*) }
+    Platina { #item @item(*) }
   </name>
   <name id="MaterialCopper">
-    Copper { #item @item(*) }
+    Cobre { #item @item(*) }
   </name>
   <name id="MaterialSandstone">
-    Sandstone { #item @item(*) }
+    Arenito { #item @item(*) }
   </name>
   <name id="MaterialEmerald" tags="an">
-    Emerald { #item @item(*) }
+    Esmeralda { #item @item(*) }
   </name>
   <name id="MaterialSapphire">
-    Sapphire { #item @item(*) }
+    Safira { #item @item(*) }
   </name>
   <name id="MaterialRuby">
-    Ruby { #item @item(*) }
+    Rubi { #item @item(*) }
   </name>
   <name id="MaterialDiamond">
-    Diamond { #item @item(*) }
+    Diamante { #item @item(*) }
   </name>
   <name id="MaterialObsidian">
-    Obsidian { #item @item(*) }
+    Obsidiana { #item @item(*) }
   </name>
   <name id="MaterialSaurian">
-    Saurian { #item @item(*) }
+    Sauriano { #item @item(*) }
   </name>
   <name id="MaterialParrot">
-    Parrot { #item @item(*) }
+    Papagaio { #item @item(*) }
   </name>
   <name id="MaterialMammoth">
-    Mammoth { #item @item(*) }
+    Mamute { #item @item(*) }
   </name>
   <name id="MaterialPlant">
-    Plant { #item @item(*) }
+    Plantar { #item @item(*) }
   </name>
   <name id="MaterialBone">
-    Bone { #item @item(*) }
+    Osso { #item @item(*) }
   </name>
   <name id="MaterialFire">
-    Fire { #item @item(*) }
+    Fogo { #item @item(*) }
   </name>
   <name id="MaterialUnholy" tags="an">
-    Unholy { #item @item(*) }
+    Profano { #item @item(*) }
   </name>
   <name id="MaterialWind">
-    Wind { #item @item(*) }
+    Vento { #item @item(*) }
   </name>
   <name id="MaterialBronze">
     Bronze { #item @item(*) }
   </name>
   <name id="MaterialCalico">
-    Calico { #item @item(*) }
+    Chita { #item @item(*) }
   </name>
   <name id="MaterialFelt">
-    Felt { #item @item(*) }
+    Sentido { #item @item(*) }
   </name>
   <name id="MaterialFlannell">
-    Flannell { #item @item(*) }
+    Flanela { #item @item(*) }
   </name>
   <name id="MaterialSteel">
-    Steel { #item @item(*) }
+    Aço { #item @item(*) }
   </name>
   <name id="MaterialMail">
-    Mail { #item @item(*) }
+    Enviar { #item @item(*) }
   </name>
   <name id="MaterialRivet">
-    Rivet { #item @item(*) }
+    Rebite { #item @item(*) }
   </name>
   <name id="MaterialFilament">
-    Filament { #item @item(*) }
+    Filamento { #item @item(*) }
   </name>
   <name id="MaterialSpike">
-    Spike { #item @item(*) }
+    Espinho { #item @item(*) }
   </name>
   <name id="MaterialFiber">
-    Fiber { #item @item(*) }
+    Fibra { #item @item(*) }
   </name>
   <name id="MaterialScale">
-    Scale { #item @item(*) }
+    Escala { #item @item(*) }
   </name>
   <name id="MaterialWeb">
-    Web { #item @item(*) }
+    Rede { #item @item(*) }
   </name>
   <name id="MaterialShadow">
-    Shadow { #item @item(*) }
+    Sombra { #item @item(*) }
   </name>
   <name id="MaterialDark">
-    Dark { #item @item(*) }
+    Sombrio { #item @item(*) }
   </name>
   <name id="MaterialDemon">
-    Demon { #item @item(*) }
+    Demônio { #item @item(*) }
   </name>
   <name id="MaterialDruid">
-    Druid { #item @item(*) }
+    druida { #item @item(*) }
   </name>
   <name id="MaterialClothing">
-    Cloth { #item @item(*) }
+    Pano { #item @item(*) }
   </name>
 
   <name id="OrderOfTheLight">
-    Order of the Light
+    Ordem da Luz
   </name>
 
   <name id="ObsidianKnights">
-    Obsidian Knights
+    Cavaleiros de Obsidiana
   </name>
 
   <name id="BloodaxeClan">
-    Bloodaxe Clan
+    Clã Machado de Sangue
   </name>
   
   <name id="CultOfDoom">
-    Cult of Doom
+    Culto da Perdição
   </name>
   
   <name id="UnholyPact">
-    Unholy Pact
+    Pacto Profano
   </name>
 
   <name id="SteelEmpire">
-    Steel Empire
+    Império de aço
   </name>
 
   <name id="ExplorersGuild">
-    Explorers Guild
+    Guilda dos Exploradores
   </name>
 
   <name id="MonsterHunters">
-    Monster Hunters
+    Caçadores de Monstros
   </name>
 
   <name id="DruidsOfMana">
-    Druids of Mana
+    Druidas de Mana
   </name>
 
   <name id="Gang">
@@ -2627,102 +2627,102 @@
   </name>
   
   <name id="FactionLoreTribe">
-    @ Tribe
+    @ Tribo
   </name>
   
   <name id="FactionLoreBrotherhood">
-    @ Brotherhood
+    @ fraternidade
   </name>
   
   <name id="FactionLoreEmpire">
-    @ Empire
+    @ Império
   </name>
   <name id="FactionLoreKingdom">
-    Kingdom of @
+    Reino de @
   </name>
   <name id="FactionLoreClan">
-    @ Clan
+    @ Clã
   </name>
   <name id="FactionLoreCult">
-    @ Cult
+    @ Culto
   </name>
   <name id="FactionLorePact">
-    @ Pact
+    @ Pacto
   </name>
   <name id="FactionLoreKnights">
-    @ Knights
+    @ Cavaleiros
   </name>
 
     
     
 
   <name id="RestlessWarrior">
-    Restless Warrior
+    Guerreiro Inquieto
   </name>
 
   <name id="Trade Quarter" tags="n in the">
-    Trade District
+    Distrito de Troca
   </name>
 
   <name id="Crafting Quarter" tags="n in the">
-    Crafting District
+    Distrito de Artesanato
   </name>
 
   <name id="Class Quarter" tags="n in the">
-    Adventurer District
+    Distrito dos Aventureiros
   </name>
 
   <name id="Pet Quarter" tags="n in the">
-    Pet District
+    Distrito de Pets
   </name>
 
   <name id="Mountains" tags="p in the">
-    {@ #named} Mountains
+    {@ #named} Montanhas
   </name>
 
   <name id="Mountain" tags="on">
-    { Mount @ #named | Mountain }
+    { Monte @ #named | Montanhas }
   </name>
 
   <name id="Valley" tags="n in">
-    {@ #named} Valley
+    {@ #named} Vale
   </name>
 
   <name id="Forest" tags="m in">
-    {@ #named} Forest
+    {@ #named} Floresta
   </name>
 
   <name id="Woodlands" tags="m in the p">
-    {@ #named} Woodlands
+    {@ #named} Terras de madeira
   </name>
 
 
   <name id="Wood" tags="m in the">
-    {@ #named} Wood
+    {@ #named} Madeira
   </name>
 
   <name id="GiantForest" tags="m in the">
-    Giant Forest {of @ #named}
+    Floresta Gigante {de @ #named}
   </name>
 
   <name id="SnowForest" tags="m in the">
-    Snowy {@ #named} Forest
+    Floresta nevada {@ #named}
   </name>
 
   <name id="DarkForest" tags="m in the">
-    Dark Forest {of @ #named}
+    Floresta Sombria {de @ #named}
   </name>
 
   <name id="DarkWoods" tags="in the p">
-    Dark @ Woods
+    Bosque @ Sombrio
   </name>
 
   <name id="EnchantedForest" tags="m in the">
-    Enchanted {@ #named} Forest
+    Floresta Encantada {@ #named}
   </name>
 
   <name id="Wetlands" tags="m in the">
-    {@ #named} Wetlands
+    {@ #named} Zonas úmidas
   </name>
 
 
@@ -2731,75 +2731,75 @@
   </name>
 
   <name id="Airship" tags="on the">
-    {@ #named} Airship
+    {@ #named} Dirigível
   </name>  
 
   <name id="Jungle" tags="in the">
-    {@ #named} Jungle
+    {@ #named} Selva
   </name>
 
   <name id="Lake" tags="at the">
-    {@ #named} Lake
+    {@ #named} Lago
   </name>
 
   <name id="LavaLake" tags="at the">
-    {@ #named} Lava Lake
+    {@ #named} Lago de Lava
   </name>
 
   <name id="LavaFlow" tags="at the">
-    {@ #named} Lava Flow
+    {@ #named} Fluxo de lava
   </name>
 
   <name id="PlaguePool" tags="at the">
-    {@ #named} Plague Pool
+    {@ #named} Piscina da Praga
   </name>
 
   <name id="PlagueStream" tags="at the">
-    {@ #named} Plague Stream
+    {@ #named} Córrego de Pragas
   </name>
 
   <name id="River" tags="m at the">
-    {@ #named} River
+    {@ #named} Rio
   </name>
 
   <name id="Road" tags="on the">
-    {@ #named} Road
+    {@ #named} Estrada
   </name>
 
   <name id="Ruins" tags="p in the">
-    Ruins {of @ #named}
+    Ruínas {de @ #named}
   </name>
 
   <name id="Graveyard" tags="n at the">
-    {@ #named} Graveyard
+    {@ #named} Cemitério
   </name>
 
   <name id="AncientRuins" tags="p in the">
-    Ancient Ruins {of @ #named}
+    Ruínas antigas {de @ #named}
   </name>
 
   <name id="AncientRuins" tags="p in the">
-    Ancient Ruins {of @ #named}
+    Ruínas antigas {de @ #named}
   </name>
 
   <name id="CircleOfPower" tags="at the">
-   Circle of Power
+   Círculo de Poder
   </name>
 
   <name id="JungleRuins" tags="p in the">
-    Ancient Ruins {of @ #named}
+    Ruínas antigas {de @ #named}
   </name>
 
   <name id="ForgottenRuins" tags="p in the">
-    Forgotten Ruins {of @ #named}
+    Ruínas esquecidas {de @ #named}
   </name>
 
   <name id="DarkSanctuary" tags="p in the">
-    Dark Sanctuary {of @ #named}
+    Santuário das Trevas {de @ #named}
   </name>
 
   <name id="Cemetery" tags="n at">
-    {@ #named} Cemetery
+    {@ #named} Cemitério
   </name>
 
   <name id="Barrow" tags="in the">
@@ -2807,182 +2807,182 @@
   </name>
 
   <name id="Thicket" tags="in the">
-    {@ #named} Thicket
+    {@ #named} Arvoredo
   </name>
 
   <name id="Mine" tags="in the">
-    {@ #named} Mine
+    {@ #named} Meu
   </name>
 
   <name id="BloodaxeBase" tags="p in the">
-    Bloodaxe Base {of @ #named}
+    Base do Clã Machado de Sangue {de @ #named}
   </name>
 
   <name id="Canyon" tags="in the">
-    {@ #named} Canyon
+    {@ #named} desfiladeiro
   </name>
 
   <name id="Gorge" tags="in the">
-    {@ #named} Gorge
+    {@ #named} Desfiladeiro
   </name>
 
 
   <name id="Rock" tags="m on the">
-    {@ #named }Rock 
+    {@ #named }Rocha 
   </name>
 
   <name id="Rocks" tags="m at the p">
-    {@ #named} Rocks
+    {@ #named} Rochas
   </name>
 
   <name id="ManaPumpZone" tags="n at the">
-    {@ #named} Mana Pump
+    {@ #named} Bomba de Mana
   </name>
   
   <name id="ManaGeneratorZone" tags="n at the">
-    {@ #named} Mana Generator
+    {@ #named} Gerador de Mana
   </name>
 
   <name id="Village" tags="n in">
-    {@ #named} Village
+    {@ #named} Vila
   </name>
  
   <name id="House" tags="m in">
-    {@'s #named} House
+    {@'s #named} casa
   </name>
 
   <name id="OldHut" tags="m in the">
-    Old Hut
+    Cabana velha
   </name>
 
   <name id="Inn" tags="n in an the">
-    {@ #named} Inn
+    {@ #named} Pousada
   </name>
 
   <name id="ItemShop" tags="n in an the">
-    Item Shop
+    Loja de Itens
   </name>
 
   <name id="WeaponShop" tags="n in the">
-    Weapon Shop
+    Loja de armas
   </name>
 
   <name id="ArmorShop" tags="n in an the">
-    Armor Shop
+    Loja de armaduras
   </name>
 
   <name id="IdentifiersShop" tags="n in an the">
-    Identifier
+    Identificador
   </name>
 
   <name id="CarpentersShop" tags="n in the">
-    Carpenter's Shop
+    Carpintaria
   </name>
 
   <name id="TailorsShop" tags="n in the">
-    Tailor's Shop
+    Alfaiataria
   </name>
 
   <name id="Smithy" tags="n in the">
-    Smithy
+    Forja
   </name>
 
   <name id="ShrineOfLife" tags="n at the">
-    Shrine of Life
+    Santuário da Vida
   </name>
 
   <name id="MenhirOfPower" tags="n at the">
-    Menhir of Power
+    Menir do Poder
   </name>
   
   <name id="Menhir" tags="n at the">
-   {@ #named}  Menhir
+   {@ #named}  Menir
   </name>
 
   <name id="ManaWell" tags="n at the">
-   Mana Well
+   Poço de Mana
   </name>
 
   <name id="ShrineOfFinesse" tags="n at the">
-    Shrine of Finesse
+    Santuário da Finesse
   </name>
 
 
   <name id="Farm" tags="m in">
-    {@'s #named} Farm
+    {@'s #named} Fazenda
   </name>
 
   <name id="Village" tags="n in">
-    {@ #named} Village
+    {@ #named} Vila
   </name>
   
   
   <name id="Hut" tags="m in">
-    {@'s #named} Hut
+    {@'s #named} Cabana
   </name>
 
   <name id="Bridge" tags="n on the">
-    {@ #named} Bridge
+    {@ #named} Ponte
   </name>
 
   <name id="Crossroads" tags="n on the p">
-    {@ #named} Crossroads
+    {@ #named} Encruzilhada
   </name>
 
   <name id="Crypt" tags="m in the">
-    {@ #named} Crypt
+    {@ #named} Cripta
   </name>
 
   <name id="Tomb" tags="m in the">
-    Tomb {of @ #named}
+    Túmulo {de @ #named}
   </name>
 
   <name id="Shrine" tags="m at the">
-    Shrine {of @ #named}
+    Santuário {de @ #named}
   </name>
 
   <name id="Chapel" tags="m in the">
-    {@ #named} Chapel
+    {@ #named} Capela
   </name>
 
   <name id="Vault" tags="m in the">
-    {@ #named} Vault
+    {@ #named} Cofre
   </name>
 
   <name id="Altar" tags="m an at the">
-    { Altars #plural | Altar } {of @ #named}
+    { Altares #plural | Altar } {de @ #named}
   </name>
   
   <name id="Sanctuary" tags="m at the">
-    {@ #named} { Sanctuaries #plural | Sanctuary } 
+    {@ #named} { Santuários #plural | Santuário } 
   </name>
 
   <name id="Ship" tags="m on the">
-    {@ #named} Ship
+    {@ #named} Navio
   </name>
 
   <name id="Mine" tags="m in the">
-    {@ #named} Mine
+    {@ #named} Meu
   </name>
 
   <name id="Tree" tags="m at the">
-    Mana { Trees #plural | Tree }
+    Mana { Arvores #plural | Arvore }
   </name>
 
   <name id="Peak" tags="m on">
-    {@ #named} Peak
+    {@ #named} Pico
   </name>
 
   <name id="Island" tags="n an on">
-    {@ #named} Island
+    {@ #named} Ilha
   </name>
 
   <name id="Pyramid" tags="n on">
-    {@ #named} Pyramid
+    {@ #named} Pirâmide
   </name>
 
   <name id="Temple" tags="n in the">
-    Temple {of @ #named}
+    templo {of @ #named}
   </name>
 
   <name id="Arena" tags="n on">
@@ -2990,95 +2990,95 @@
   </name>
 
   <name id="Vault" tags="n in the">
-    Vault {of @ #named}
+    Cofre {of @ #named}
   </name>
 
   <name id="Reef" tags="n on">
-    {@ #named} Reef
+    {@ #named} Recife
   </name>
 
   <name id="Crater" tags="n in the">
-    {@ #named} Crater
+    {@ #named} Cratera
   </name>
   
   <name id="Volcano" tags="n at the">
-    {@ #named} Volcano
+    {@ #named} Vulcão
   </name>
 
   <name id="Cave" tags="n in the">
-    {@ #named} Cave
+    {@ #named} Caverna
   </name>
 
   <name id="Grotto" tags="n in the">
-    {@ #named} Grotto
+    {@ #named} Gruta
   </name>
 
   <name id="Sewers" tags="p in the">
-    {@ #named} Sewers
+    {@ #named} Esgotos
   </name>
 
   <name id="Mines" tags="p in the">
-    Mines of {@ #named}
+    Minas de {@ #named}
   </name>
 
   <name id="Foundry" tags="n in the">
-    {@ #named} Foundry
+    {@ #named} Fundição
   </name>
 
   <name id="Portal" tags="n the">
-    Portal {of @ #named}
+    Portal {de @ #named}
   </name>
 
   <name id="Fortress" tags="n in">
-    {@ #named} Fortress
+    {@ #named} Fortaleza
   </name>
 
   <name id="Castle" tags="n in">
-    {@ #named} Castle
+    {@ #named} Castelo
   </name>
 
   <name id="Catacombs" tags="p in the">
-    Catacombs {of @ #named}
+    Catacumbas {de @ #named}
   </name>
 
   <name id="Palace" tags="m in">
-    {@ #named} Palace
+    {@ #named} Palácio
   </name>
 
   <name id="Temple" tags="m in the">
-    Temple {of @ #named}
+    templo {de @ #named}
   </name>
 
   <name id="Pyramid" tags="f in the">
-    {@ #named} Pyramid
+    {@ #named} Pirâmide
   </name>
 
   <name id="Fort" tags="n in">
-    Fort {@ #named}
+    Forte {@ #named}
   </name>
 
   <name id="Citadel" tags="n in the">
-    {@ #named} Citadel
+    {@ #named} Cidadela
   </name>
 
   <name id="Stronghold" tags="n in the">
-    {@ #named} Stronghold
+    {@ #named} Fortaleza
   </name>
 
   <name id="Tower" tags="n in">
-    {@'s #named} Tower
+    {@'s #named} Torre
   </name>
 
   <name id="Bastion" tags="n in the">
-    Bastion {of @ #named}
+    Bastião {de @ #named}
   </name>
 
   <name id="Outpost" tags="n at the">
-    {@ #named} Outpost
+    {@ #named} Posto avançado
   </name>
 
   <name id="Grove" tags="n in the">
-    {@ #named} Grove
+    {@ #named} Arvoredo
   </name>
 
   <name id="Arena" tags="n in the">
@@ -3086,19 +3086,19 @@
   </name>
 
   <name id="Camp" tags="n in the">
-   Camp
+   Acampamento
   </name>
   
    <name id="BanditCamp" tags="n in the">
-   Bandit Camp
+   Acampamento de bandidos
   </name>
 
   <name id="BreedingGround" tags="n on the">
-    Breeding Ground
+    Terreno fértil
   </name>
 
   <name id="NPCCamp" tags="n in">
-    {@'s #named} Camp
+    {@ #named} Acampamento
   </name>
 
   <name id="Spire" tags="m on the">
@@ -3106,11 +3106,11 @@
   </name>
 
   <name id="Riverside" tags="n at the">
-    {@ #named} Riverside
+    {@ #named} ribeira
   </name>
 
   <name id="Plains" tags="n p the">
-    {@ #named} Plains
+    {@ #named} Planícies
   </name>
 
   <name id="Heights" tags="n p on the">
@@ -3118,83 +3118,83 @@
   </name>
 
   <name id="Hills" tags="n p the">
-    {@ #named} Hills
+    {@ #named} Colinas
   </name>
 
   <name id="Hill" tags="n on the">
-    {@ #named} Hill
+    {@ #named} Colina
   </name>
 
   <name id="Lands" tags="n p in the">
-    Lands {of @ #named}
+    Terras {de @ #named}
   </name>
 
   <name id="Snowlands" tags="n p in the">
-    {@ #named} Snowlands
+    {@ #named} Terras de Gélidas
   </name>
 
   <name id="Firelands" tags="n p in the">
-    Firelands {of @ #named}
+    Terras Ferventes {de @ #named}
   </name>
 
   <name id="Deadlands" tags="n p in the">
-    Deadlands {of @ #named}
+    Terras mortas {de @ #named}
   </name>  
 
   <name id="Ocean" tags="n in the">
-    {@ #named} Ocean
+    {@ #named} oceano
   </name>
   
   <name id="SpiritWorld" tags="n in the">
-    The Spirit World
+    O Mundo Espiritual
   </name>
 
   <name id="City" tags="n in">
-    {@ #named} City
+    {@ #named} Cidade
   </name>  
 
   <name id="Wilderness" tags="n in the">
-    {@ #named} Wilderness
+    {@ #named} Região selvagem
   </name>
 
   <name id="Reef" tags="n in the">
-    {@ #named} Reef
+    {@ #named} Recife
   </name>
 
   <name id="Plateau" tags="on the">
-    {@ #named} Plateau
+    {@ #named} planalto
   </name>
 
   <name id="Shallows" tags="n in the">
-    {@ #named} Shallows
+    {@ #named} Raso
   </name>
 
   <name id="Waters" tags="n in the">
-    {@ #named} Waters
+    {@ #named} Águas
   </name>
 
   <name id="Beach" tags="n on the">
-    {@ #named} Beach
+    {@ #named} praia
   </name>
 
   <name id="Plain" tags="n on the">
-    {@ #named} Plain
+    {@ #named} planície
   </name>
 
   <name id="Crater" tags="n in the">
-    {@ #named} Crater
+    {@ #named} Cratera
   </name>
 
   <name id="Savannah" tags="n in the">
-    {@ #named} Savannah
+    {@ #named} Savana
   </name>
 
   <name id="Desert" tags="n in the">
-    {@ #named} Desert
+    {@ #named} Deserto
   </name>
 
   <name id="Wasteland" tags="n in the">
-    {@ #named} Wasteland
+    {@ #named} Terrenos residuais
   </name>
 
 
@@ -3203,127 +3203,127 @@
 
 
   <name id="item:shabby">
-    {#the the} shabby @materialitem(*,item)
+    {#the the} Gasto @materialitem(*,item)
   </name>
 
   <name id="item:plain">
-    {#the the} plain @materialitem(*,item)
+    {#the the} Plano @materialitem(*,item)
   </name>
 
   <name id="item:battered">
-    {#the the} battered @materialitem(*,item)
+    {#the the} Batido @materialitem(*,item)
   </name>
 
   <name id="item:artless">
-    {#the the} artless @materialitem(*,item)
+    {#the the} simples @materialitem(*,item)
   </name>
 
   <name id="item:unwieldy">
-    {#the the} unwieldy @materialitem(*,item)
+    {#the the} Desajeitado @materialitem(*,item)
   </name>
 
   <name id="item:used">
-    {#the the} used @materialitem(*,item)
+    {#the the} usado @materialitem(*,item)
   </name>
 
   <name id="item:dusty">
-    {#the the} dusty @materialitem(*,item)
+    {#the the} Enferrujado @materialitem(*,item)
   </name>
 
   <name id="item:scratched">
-    {#the the} scratched @materialitem(*,item)
+    {#the the} arranhado @materialitem(*,item)
   </name>
 
   <name id="item:worn">
-    {#the the} worn @materialitem(*,item)
+    {#the the} desgastado @materialitem(*,item)
   </name>
 
   <name id="item:common">
-    {#the the} common @materialitem(*,item)
+    {#the the} comum @materialitem(*,item)
   </name>
 
   <!--Rarity 1-->
 
   <name id="item:adjusted" tags="an">
-    {#the the} adjusted @materialitem(*,item)
+    {#the the} Ajustado @materialitem(*,item)
   </name>
 
   <name id="item:balanced">
-    {#the the} balanced @materialitem(*,item)
+    {#the the} Equilibrado @materialitem(*,item)
   </name>
 
   <name id="item:battletested">
-    {#the the} battle-tested @materialitem(*,item)
+    {#the the} Testado em Batalha @materialitem(*,item)
   </name>
 
   <name id="item:good">
-    {#the the} good @materialitem(*,item)
+    {#the the} Adequado @materialitem(*,item)
   </name>
 
   <name id="item:handmade">
-    {#the the} handmade @materialitem(*,item)
+    {#the the} Feito à mão @materialitem(*,item)
   </name>
 
   <name id="item:fair">
-    {#the the} fair @materialitem(*,item)
+    {#the the} Justo @materialitem(*,item)
   </name>
 
   <name id="item:neat">
-    {#the the} neat @materialitem(*,item)
+    {#the the} arrumado @materialitem(*,item)
   </name>
 
   <name id="item:clean">
-    {#the the} clean @materialitem(*,item)
+    {#the the} limpo @materialitem(*,item)
   </name>
 
   <name id="item:undamaged" tags="an">
-    {#the the} undamaged @materialitem(*,item)
+    {#the the} intacto @materialitem(*,item)
   </name>
 
   <name id="item:flawless">
-    {#the the} flawless @materialitem(*,item)
+    {#the the} Sem falhas @materialitem(*,item)
   </name>
 
   <!--Rarity 2-->
 
   <name id="item:exceptional" tags="an">
-    {#the the} exceptional @materialitem(*,item)
+    {#the the} Excepcional @materialitem(*,item)
   </name>
 
   <name id="item:polished">
-    {#the the} polished @materialitem(*,item)
+    {#the the} polido @materialitem(*,item)
   </name>
 
   <name id="item:extraordinary" tags="an">
-    {#the the} extraordinary @materialitem(*,item)
+    {#the the} extraordinário @materialitem(*,item)
   </name>
 
   <name id="item:exquisite" tags="an">
-    {#the the} exquisite @materialitem(*,item)
+    {#the the} requintado @materialitem(*,item)
   </name>
 
   <name id="item:superb">
-    {#the the} superb @materialitem(*,item)
+    {#the the} soberbo @materialitem(*,item)
   </name>
 
   <name id="item:unique">
-    {#the the} unique @materialitem(*,item)
+    {#the the} único @materialitem(*,item)
   </name>
 
   <name id="item:handsome">
-    {#the the} handsome @materialitem(*,item)
+    {#the the} bonito @materialitem(*,item)
   </name>
 
   <name id="item:grand">
-    {#the the} grand @materialitem(*,item)
+    {#the the} grande @materialitem(*,item)
   </name>
 
   <name id="item:magic">
-    {#the the} magic @materialitem(*,item)
+    {#the the} encantado @materialitem(*,item)
   </name>
 
   <name id="item:decorated">
-    {#the the} decorated @materialitem(*,item)
+    {#the the} Decorado @materialitem(*,item)
   </name>
 
 
@@ -3334,93 +3334,93 @@
   </name>
 
   <name id="item:polished2">
-    {#the the} polished @materialitem(*,item) of @name
+    {#the the} polished @materialitem(*,item) de @name
   </name>
 
   <name id="item:extraordinary2">
-    {#the the} extraordinary @materialitem(*,item) of @name
+    {#the the} extraordinário @materialitem(*,item) de @name
   </name>
 
   <name id="item:exquisite2">
-    {#the the} exquisite @materialitem(*,item) of @name
+    {#the the} requintado @materialitem(*,item) de @name
   </name>
 
   <name id="item:superb2">
-    @name's superb @materialitem(*,item)
+    @name's soberbo @materialitem(*,item)
   </name>
 
   <name id="item:unique2">
-    {#the the} unique @materialitem(*,item) of @name
+    {#the the} único @materialitem(*,item) de @name
   </name>
 
   <name id="item:handsome2">
-    @name's handsome @materialitem(*,item)
+    @name's bonito @materialitem(*,item)
   </name>
 
   <name id="item:grand2">
-    {#the the} grand @materialitem(*,item) of @name
+    {#the the} grande @materialitem(*,item) de @name
   </name>
 
   <name id="item:magic2">
-    {#the the} magic @materialitem(*,item) of @name
+    {#the the} magico @materialitem(*,item) de @name
   </name>
 
   <name id="item:decorated2">
-    {#the the} decorated @materialitem(*,item) of @name
+    {#the the} decorado @materialitem(*,item) de @name
   </name>
 
 
   <!--Rarity 4-->
 
   <name id="item:brilliant">
-    @name's brilliant @materialitem(*,item)
+    @name's brilhante @materialitem(*,item)
   </name>
 
   <name id="item:shining">
-    {#the the} shining @materialitem(*,item) of @name
+    {#the the} reluzente @materialitem(*,item) de @name
   </name>
 
   <name id="item:magnificent">
-    {#the the} magnificent @materialitem(*,item) of @name
+    {#the the} magnífico @materialitem(*,item) de @name
   </name>
 
   <name id="item:sublime">
-    {#the the} sublime @materialitem(*,item) of @name
+    {#the the} sublime @materialitem(*,item) de @name
   </name>
 
   <name id="item:pompous">
-    @name's pompous @materialitem(*,item)
+    @name's imponente @materialitem(*,item)
   </name>
 
   <name id="item:glorious">
-    {#the the} glorious @materialitem(*,item) of @name
+    {#the the} glorioso @materialitem(*,item) de @name
   </name>
 
   <name id="item:splendid">
-    @name's splendid @materialitem(*,item)
+    @name's esplêndido @materialitem(*,item)
   </name>
 
   <name id="item:famous">
-    {#the the} famous @materialitem(*,item) of @name
+    {#the the} famoso @materialitem(*,item) de @name
   </name>
 
   <name id="item:legendary">
-    {#the the} legendary @materialitem(*,item) of @name
+    {#the the} lendário @materialitem(*,item) de @name
   </name>
 
   <name id="item:fabulous">
-    {#the the} fabulous @materialitem(*,item) of @name
+    {#the the} fabuloso @materialitem(*,item) de @name
   </name>
 
 
-  <!-- Specializations -->
+  <!-- Specializations                        ||| luck parou aqui |||  -->
 
   <speech id="SpecializationBerserker">
     Berserker
   </speech>
 
   <speech id="SpecializationGuardian">
-    Guardian
+    Guardião
   </speech>
   
   <speech id="SpecializationSniper">
@@ -3428,19 +3428,19 @@
   </speech>
 
   <speech id="SpecializationScout">
-    Scout
+    Batedor
   </speech>
 
   <speech id="SpecializationFire">
-    Fire Magic
+    Magia de Fogo
   </speech>
   
   <speech id="SpecializationWater">
-    Water Magic
+    Magia de Agua
   </speech>
 
   <speech id="SpecializationAssassin">
-    Assassin
+    Assassino
   </speech>
 
   <speech id="SpecializationNinja">
@@ -3518,79 +3518,79 @@
   <!--Skills-->
 
   <speech id="SkillPetTaming">
-    Pet Master
+    Mestre dos Pets
   </speech>
 
   <speech id="SkillPetRiding">
-    Pet Riding
+    Montaria
   </speech>
 
   <speech id="SkillClimbing">
-    Climbing
+    Escalada
   </speech>
 
   <speech id="SkillHangGliding">
-    Hang Gliding
+    Planador
   </speech>
 
   <speech id="SkillSwimming">
-    Swimming
+    Natação
   </speech>
 
   <speech id="SkillBoatDriving">
-    Sailing
+    Navegação
   </speech>
 
   <speech id="SkillSmash">
-    Smash
+    Esmagar
   </speech>
 
   <speech id="SkillCyclone">
-    Cyclone
+    Ciclone
   </speech>
 
   <speech id="SkillBulwark">
-    Bulwark
+    Bastião
   </speech>
 
   <speech id="SkillHeroicShout">
-    Heroic Shout
+    Brado Heróico
   </speech>
   
    <speech id="SkillRockFist">
-    Rock Fist
+    Punho de Pedra
   </speech>
 
   <speech id="SkillSprint">
-    Sprint
+    Corrida
   </speech>
 
   <speech id="SkillThrowPoisonVial">
-    Poison Vial
+    Frasco de Veneno
   </speech>
   
   <speech id="SkillFireBreath">
-    Breath of Fire
+    Sopro de Fogo
   </speech>
   
   <speech id="SkillLavaPuddle">
-   Lava Puddle
+   Poça de Lava
   </speech>
   
   <speech id="SkillFireMissiles">
-    Fire Missiles
+    Mísseis de Fogo
   </speech>
   
    <speech id="SkillFireSwirl">
-    Fire Swirl
+    Redemoinho de Fogo
   </speech>
   
    <speech id="SkillFireSwirl">
-    Fire Swirl
+    Redemoinho de Fogo
   </speech>
   
    <speech id="SkillFireVortex">
-    Fire Vortex
+    Vortex de Fogo
   </speech>
   
    <speech id="SkillFirebolt">
@@ -3598,27 +3598,27 @@
   </speech>
   
    <speech id="SkillFireball">
-    Fireball
+    Bola de Fogo
   </speech>
   
    <speech id="SkillFireRay">
-    Fire Ray
+    Raio de Fogo
   </speech>
   
    <speech id="SkillFireBeam">
-    Fire Beam
+    Feixe de Fogo
   </speech>
   
    <speech id="SkillWaterSwirl">
-    Water Swirl
+    Redemoinho de Agua
   </speech>
   
    <speech id="SkillWaterSwirl">
-    Water Swirl
+    Redemoinho de Agua
   </speech>
   
    <speech id="SkillWaterVortex">
-    Water Vortex
+    Vortex de Agua
   </speech>
   
    <speech id="SkillWaterbolt">
@@ -3626,71 +3626,71 @@
   </speech>
   
    <speech id="SkillWaterball">
-    Waterball
+    Bola de Agua
   </speech>
   
    <speech id="SkillWaterRay">
-    Water Ray
+    Raio de Agua
   </speech>
   
    <speech id="SkillWaterBeam">
-    Water Beam
+    Feixe de Agua
   </speech>
   
    <speech id="SkillPortCity">
-    Travel
+    Viagem
   </speech>
 
   <speech id="SkillWarFrenzy">
-    War Frenzy
+    Frenesi de Guerra
   </speech>
 
   <speech id="SkillRangerKick">
-    Kick
+    Chute
   </speech>
 
   <speech id="SkillRetreat">
-    Retreat
+    Retirada
   </speech>
 
   <speech id="SkillAim">
-    Aim
+    Mirar
   </speech>
 
   <speech id="SkillSwiftness">
-    Scout's Swiftness
+    Rapidez do Batedor
   </speech>
 
   <speech id="SkillQuicksandTrap">
-    Quicksand Trap
+    Armadilha de Areia Movediça
   </speech>
 
   <speech id="SkillShadowClone">
-    Shadow Shooter
+    Atirador das Sombras
   </speech>
 
   <speech id="SkillFireExplosion">
-    Fire Explosion
+    Explosão Incendiária
   </speech>
 
   <speech id="SkillManaShield">
-    Mana Shield
+    Escudo de Mana
   </speech>
 
   <speech id="SkillTeleport">
-    Teleport
+    Teletransporte
   </speech>
 
   <speech id="SkillHealingStream">
-    Healing Stream
+    Corrente de Cura
   </speech>
 
   <speech id="SkillFloat">
-    Float
+    Flutuar
   </speech>
 
   <speech id="SkillChargedBoomerang">
-    Charged Boomerang
+    Boomerang Carregado
   </speech>
 
   <speech id="SkillSalvo">
@@ -3698,27 +3698,27 @@
   </speech>
 
   <speech id="SkillChargedShot">
-    Charged Shot
+    Tiro Carregado
   </speech>
 
   <speech id="SkillAttack">
-    Attack
+    Ataque
   </speech>
 
   <speech id="SkillCrush">
-    Crush
+    Esmagar
   </speech>
 
   <speech id="SkillSwirl">
-    Swirl
+    Redemoinho
   </speech>
 
   <speech id="SkillBlock">
-    Block
+    Bloqueio
   </speech>
 
   <speech id="SkillPerforate">
-    Perforate
+    Perfurar
   </speech>
 
 
@@ -3727,31 +3727,31 @@
   </speech>
 
   <speech id="SkillIntercept">
-    Intercept
+    Interceptar
   </speech>
 
   <speech id="SkillAmbush">
-    Ambush
+    Emboscada
   </speech>
 
   <speech id="SkillIntercept">
-    Intercept
+    Interceptar
   </speech>
 
   <speech id="SkillKick">
-    Kick
+    Chute
   </speech>
 
   <speech id="SkillCamouflage">
-    Camouflage
+    Camuflagem
   </speech>
 
   <speech id="SkillSneak">
-    Sneak
+    Furtividade
   </speech>
 
   <speech id="SkillAssassinate">
-    Assassinate
+    Assassinar
   </speech>
 
   <speech id="SkillNinjutsu">
@@ -3759,11 +3759,11 @@
   </speech>
 
   <speech id="SkillFlameRush">
-    Flame Rush
+    Corrida Flamejante
   </speech>
 
   <speech id="SkillWaterBubbles">
-    Water Bubbles
+    Bolhas de Agua
   </speech>
 
   <speech id="skill:level">
@@ -3779,119 +3779,119 @@
   <speech id="description:SkillWeaponPower">
     {Weapon Skill $stress}
     %
-    Increases your damage and enables you to equip powerful weapons.
+    Aumenta seu dano e lhe permite equipar armas poderosas.
   </speech>
 
   <speech id="details:SkillWeaponPower">
-    Increases your damage by {@weapondamage $number} and your weapon skill by {@weaponskill $number}.
+    Aumenta seu dano em {@weapondamage $number} e sua habilidade com armas em {@weaponskill $number}.
   </speech>
 
   <speech id="description:SkillArmorPower">
     {Armor Skill $stress}
     %
-    Increases your armor and resistance and enables you to equip powerful armor.
+    Aumenta sua armadura e resistência e lhe permite equipar armaduras poderosas.
   </speech>
 
   <speech id="details:SkillArmorPower">
-    Increases armor and resistance by {@armoramount $number} and your armor skill by {@armorskill $number}
+    Aumenta sua armadura e resistência em {@armoramount $number} e sua habilidade com armaduras em {@armorskill $number}
   </speech>
 
   <speech id="description:SkillPetTaming">
     {Pet Master $stress}
     %
-    Your pets become stronger.
+    Seus companheiros ficam mais fortes.
   </speech>
 
   <speech id="details:SkillPetTaming">
-    The health of your pet is increased by {@health $number}.
+    A vida de seu companheiro é aumentada em {@health $number}.
   </speech>
 
   <speech id="description:SkillPetRiding">
     {Riding $stress}
     %
-    Enables pet riding for fast traveling.
+    Habilita montaria para viagens mais rápidas.
   </speech>
 
   <speech id="details:SkillPetRiding">
-    Your riding speed amounts to {@ridingspeed $number}.
+    Sua velocidade de montaria é {@ridingspeed $number}.
   </speech>
 
   <speech id="description:SkillClimbing">
     {Climbing $stress}
     %
-    Enables more effective climbing on steep walls.
+    Permite escalar mais efetivamente as superfícies.
   </speech>
 
   <speech id="details:SkillClimbing">
-    You consume {@climbingpower $number} less stamina during climbing.
+    Você consome {@climbingpower $number} menos stamina durante a escalada.
   </speech>
 
   <speech id="description:SkillHangGliding">
     {Hang Gliding $stress}
     %
-    Enables usage of hang gliders.
+    Habilita a utilização do Planador.
   </speech>
 
   <speech id="details:SkillHangGliding">
-    You consume {@flyingpower $number} less stamina during hang gliding.
+    Você consome {@flyingpower $number} menos stamina durante a Planagem.
   </speech>
 
   <speech id="description:SkillSwimming">
     {Swimming $stress}
     %
-    Enables faster swimming in water.
+    Habilita natação mais veloz na agua.
   </speech>
 
   <speech id="details:SkillSwimming">
-    Your swimming speed amounts to {@swimmingspeed $number}.
+    Sua velocidade da natação é {@swimmingspeed $number}.
   </speech>
 
   <speech id="description:SkillBoatDriving">
     {Sailing $stress}
     %
-    Enables usage of boats.
+    Permite a utilização de Barcos.
   </speech>
 
   <speech id="details:SkillBoatDriving">
-    Your boat speed amounts to {@boatspeed $number}.
+    Sua velocidade de navegação é {@boatspeed $number}.
   </speech>
 
   <speech id="description:SkillSmash">
     {Smash $stress}
     %
-    You jump to the selected spot and smash nearby enemies.
+    Você salta para o local escolhio e esmaga inimigos próximos.
   </speech>
 
   <speech id="details:SkillSmash">
-    The cooldown lasts {@smashcooldown $number} seconds.
+    Restam {@smashcooldown $number} segundos de recarga.
   </speech>
 
   <speech id="description:SkillCyclone">
     {Cyclone $stress}
     %
-    You spin around for {@cycloneduration $number} seconds and attack all enemies around you.
+    Você gira por {@cycloneduration $number} segundos e ataca todos os inimigos ao seu redor.
   </speech>
 
   <speech id="details:SkillCyclone">
-    The cooldown lasts {@cyclonecooldown $number} seconds.
+    Restam {@cyclonecooldown $number} segundos de recarga.
   </speech>
 
   <speech id="description:SkillBulwark">
     {Bulwark $stress}
     %
-    You mobilize your forces to become immune against stuns and suffer less damage.
+    Você junta suas forças para se tornar imune contra atordoamentos e sofre menos dano.
     %
-    Can be used while you are stunned.
+    Pode ser usando enquanto atordoado.
     %
-    Lasts {@bulwarkduration $number} seconds.
+    Dura {@bulwarkduration $number} segundos.
   </speech>
 
   <speech id="details:SkillBulwark">
-    The cooldown lasts {@bulwarkcooldown $number} seconds and you suffer {@bulwarkamount $number} less damage.
+    A recarga dura {@bulwarkcooldown $number} segundos e você sofre {@bulwarkamount $number} menos de dano.
   </speech>
 
   <speech id="details:SkillHeroicShout">
-    The cooldown lasts {@heroicshoutcooldown $number} seconds and allies are healed by {@heroicshoutamount $number} per second.
+    A recarga dura {@heroicshoutcooldown $number} segundos e seus aliados são curados em {@heroicshoutamount $number} por segundo.
   </speech>
 
   <speech id="description:SkillHeroicShout">
@@ -3948,7 +3948,7 @@
   </speech>
 
   <speech id="description:SkillSwiftness">
-    {Scout's Swiftness $stress}
+    {Scouts Swiftness $stress}
     %
     Thanks to your agility you can move and attack faster.
     %
@@ -4789,19 +4789,19 @@
   </speech>
 
   <speech id="solved_defeat_huge_enemy">
-    You defeated the huge *mob.
+    Você derrotou o enorme *mob.
   </speech>
 
   <speech id="objective_defeat_huge_enemy_in_zone">
-    Defeat the huge *mob *in_the_zone.
+    Derrote o enorme *mob *in_the_zone.
   </speech>
 
   <speech id="solved_defeat_huge_enemy_in_zone">
-    You defeated the huge *mob *in_the_zone.
+    Você derrotou o enorme *mob *in_the_zone.
   </speech>
 
   <speech id="objective_defeat_boss">
-    Defeat *mob_name.
+    Derrote *mob_name.
   </speech>
 
   <speech id="solved_defeat_boss">
@@ -4809,43 +4809,43 @@
   </speech>
 
   <speech id="objective_defeat_bosses">
-    Defeat *mob_name and *mob2_name.
+    Derrote *mob_name e *mob2_name.
   </speech>
 
   <speech id="solved_defeat_bosses">
-    You defeated *mob_name and *mob2_name.
+    Você derrotou *mob_name e *mob2_name.
   </speech>
  
   <speech id="objective_defeat_enemies">
-    Defeat the *mobs.
+    Derrote o *mobs.
   </speech>
 
   <speech id="solved_defeat_enemies">
-    You defeated the *mobs.
+    Você derrotou o *mobs.
   </speech>
 
   <speech id="solved_defeat_gang">
-    You defeated *the_faction.
+    Você derrotou *the_faction.
   </speech>
 
   <speech id="objective_defeat_enemies_in_zone">
-    Defeat the *mobs *in_the_zone.
+    Derrote o *mobs *in_the_zone.
   </speech>
 
   <speech id="solved_defeat_enemies_in_zone">
-    You defeated the *mobs *in_the_zone.
+    Você derrotou o *mobs *in_the_zone.
   </speech>
 
   <speech id="objective_defeat_enemies_in_land">
-    Defeat the *mobs *in_the_land.
+    Derrote o *mobs *in_the_land.
   </speech>
 
   <speech id="solved_defeat_enemies_in_land">
-    You defeated the *mobs *in_the_land.
+    Você derrotou o *mobs *in_the_land.
   </speech>
 
   <speech id="objective_destroy_objects">
-    Destroy the *mobs.
+    Destrua o *mobs.
   </speech>
 
   <speech id="solved_destroy_objects">
@@ -5437,27 +5437,27 @@
   </speech>
   
    <speech id="you_repelled_the_creatures">
-    You repelled the *mobs.
+    Você repeliu o *mobs.
   </speech>
   
    <speech id="you_repelled_the_creatures_from_the_zone">
-    You repelled the *mobs from *the_zone.
+    Você repeliu o *mobs from *the_zone.
   </speech>
   
   <speech id="you_discovered_the_zone">
-      You discovered *the_zone.
+      Você descobriu *the_zone.
   </speech>
 
   <speech id="you_discovered_a_zone">
-    You discovered *a_zone.
+    Você descobriu *a_zone.
   </speech>
 
   <speech id="you_should_explore_it">
-    You should explore *zone_it!
+    Você deveria explorar *zone_it!
   </speech>
 
   <speech id="you_should_explore_this_zone">
-    You should explore *this_zone!
+    Você deveria explorar *this_zone!
   </speech>
 
   <speech id="you_must_defeat_the_enemies">
@@ -5520,11 +5520,11 @@
  
 
   <speech id="my_name_is">
-    My name is *mob_name {!|.}
+    Meu nome é *mob_name {!|.}
   </speech>
 
   <speech id="his_name_is">
-    *mob_his name is *mob_name {!|.}
+    *mob_his nome é *mob_name {!|.}
   </speech>
 
   
@@ -5925,15 +5925,15 @@
   </speech>
 
   <speech id="you_should_examine_the_object">
-    You should examine the *mob {!|.}
+    Você deve examinar o *mob {!|.}
   </speech>
 
   <speech id="you_should_examine_the_objects">
-    You should examine the *mobs {!|.}
+    Você deve examinar o *mobs {!|.}
   </speech>
 
   <speech id="over_there">
-    [Over] there!
+    [Sobre] lá!
   </speech>
 
   <speech id="free_me">
@@ -6213,7 +6213,7 @@
   </speech>
 
   <speech id="you_should_cure_npc_with_it">
-    You should cure *mob_name with it.
+    Você deveria curar *mob_name com isso.
   </speech>
 
   <speech id="lets_see_if_the_item_is_working">
@@ -6221,15 +6221,15 @@
   </speech>
 
   <speech id="i_feel_better">
-    I feel { much } better { now } {!|.}
+    eu sinto { Muito } Melhor { agora } {!|.}
   </speech>
 
   <speech id="get_out_of_my_sight">
-    Get out of my sight!
+    Saia da minha frente!
   </speech>
 
   <speech id="may_the_light_illuminate_your_path">
-    May the light illuminate your path.
+    Que a luz ilumine seu caminho.
   </speech>
 
   <speech id="hey_boss">
@@ -6249,15 +6249,15 @@
   </speech>
 
   <speech id="i_will_take_care_of_him">
-    I'll take care of *mob_him...
+    Eu vou cuidar de *mob_him...
   </speech>
 
   <speech id="suddenly_a_creature_appeared">
-    Suddenly *a_mob appeared.
+    De repente *a_mob apareceu.
   </speech>
 
   <speech id="it_seems_he_is_a_ghost">
-    *mob_he seems to be a {ghost $stress}!
+    *mob_he parece ser um {fantasma $stress}!
   </speech>
 
   <speech id="something_inside_the_object_is_moving">
@@ -6362,27 +6362,27 @@
   </speech>
 
   <speech id="you_should_return_to_npc">
-    You should return to *mob_name.
+    Você deve voltar para *mob_name.
   </speech>
 
   <speech id="you_found_npcs_pet">
-    You found *mob_names *mob2.
+    Você encontrou *mob_names *mob2.
   </speech>
 
   <speech id="you_should_bring_him_to_npc">
-    You should bring *mob_him to *mob2_name.
+    Você deve trazer *mob_him para *mob2_name.
   </speech>
 
   <speech id="there_is_an_inscription_on_the_object">
-    There is an inscription on the *mob:
+    Há uma inscrição no *mob:
   </speech>
 
   <speech id="npc_is_resting_here">
-    *mob_name is resting here.
+    *mob_name está descansando aqui.
   </speech>
 
   <speech id="he_was_a_hero_of_the_faction">
-    *mob_he was a hero of *the_faction.
+    *mob_he era um herói de *the_faction.
   </speech>
 
   <speech id="he_was_defeated_in_zone">
@@ -6484,27 +6484,27 @@
   </speech>
 
   <speech id="you_defeated_the_creature">
-    You defeated the *mob.
+    Você derrotou o *mob.
   </speech>
 
   <speech id="you_defeated_the_creatures">
-    You defeated the *mobs.
+    Você derrotou o *mobs.
   </speech>
   
    <speech id="you_defeated_the_creatures_in_zone">
-    You defeated the *mobs *in_the_zone.
+    Você derrotou o *mobs *in_the_zone.
   </speech>
 
   <speech id="you_destroyed_the_object">
-    You destroyed the *mob.
+    Você derrotou o *mob.
   </speech>
   
   <speech id="you_destroyed_the_objects_in_zone">
-    You destroyed the *mobs *in_the_zone.
+    Você derrotou o *mobs *in_the_zone.
   </speech>
   
    <speech id="you_defeated_boss">
-    You defeated *mob_name.
+    Você derrotou o *mob_name.
   </speech>
 
   <speech id="there_is_a_creature_in_zone_direction_of_here">
@@ -6759,7 +6759,7 @@
   </speech>
   
   <speech id="shrine">
-    I shall grant you a gift. Choose wisely, traveller.
+    Vou conceder-lhe um presente. Escolha sabiamente, viajante.
   </speech>
 
   <speech id="there_is_no_way_to_fan_the_flame">
@@ -6784,27 +6784,27 @@
   </speech>
 
   <speech id="increase_vitality">
-    Increase vitality.
+    Aumentar a vitalidade.
   </speech>
   <speech id="increase_strength">
-    Increase strength.
+    Aumentar a força.
   </speech>
   <speech id="increase_dexterity">
-    Increase dexterity.
+    Aumentar a destreza.
   </speech>
   <speech id="increase_intelligence">
-    Increase intelligence.
+    Aumentar a inteligência.
   </speech>
   <speech id="leave">
-    Leave.
+    Sair.
   </speech>
 
   <speech id="your_level_increased_to">
-    Your level increased to @level!
+    Seu nível aumentou para @level!
   </speech>  
 
   <speech id="you_are_not_intelligent_enough_to_read_this">
-    Your are not intelligent enough to read this.
+    Você não é inteligente o suficiente para ler isso.
   </speech>
 
   <speech id="pedestal">
@@ -6819,7 +6819,7 @@
   </speech>
 
   <speech id="you_found_one_item">
-    You found one *item.
+    Você encontrou um *item.
   </speech>
 
   <speech id="you_found_n_items">
@@ -6952,27 +6952,27 @@
 
 
   <speech id="claim_rewards?">
-    I want to claim my rewards.
+    Eu quero reivindicar minhas recompensas.
   </speech>
 
   <speech id="change_specialization?">
-    I want to change my specialization to { @specialization() $stress}.
+    Eu quero mudar minha especialização para { @specialization() $stress}.
   </speech>
 
   <speech id="i_want_to_improve_my_skills?">
-    I want to improve my skills.
+    Eu quero melhorar minhas habilidades.
   </speech>
 
   <speech id="your_specialization_is_now">
-    Your specialization is now { @specialization() $stress}.
+    Sua especialização está agora { @specialization() $stress}.
   </speech>
   
   <speech id="rest_inn?">
-    I want to rest here until next morning. { @number ® $yellow}
+    Eu quero descansar aqui até a manhã seguinte. { @number ® $yellow}
   </speech>
   
   <speech id="you_can_rest_here_between_six_and_six">
-    You can rest in our inn between { 18=:=00 $number } in the evening and { 6=:=00 $number } in the morning.
+    Você pode descansar em nossa pousada entre { 18=:=00 $number } à noite e { 6=:=00 $number } de manhã.
   </speech>
 
   
@@ -6983,7 +6983,7 @@
   </speech>
 
   <speech id="goodbye?">
-    Goodbye!
+    Tchau!
   </speech>
 
   <speech id="i_was_exploring_the_location">
@@ -7095,23 +7095,23 @@
   </speech>
 
   <speech id="how_fast_can_you_ride">
-    How fast can you ride?
+    Hquão rápido você pode andar?
   </speech>
 
   <speech id="how_far_can_you_fly">
-    How far can you { fly | glide } ?
+    Quão longe você pode { voar | plainar } ?
   </speech>
 
   <speech id="how_high_can_you_fly">
-    How high can you { fly | glide } ?
+    Quão alto você pode { voar | plainar } ?
   </speech>
 
   <speech id="where_will_you_ride_next">
-   Where will you ride next?
+   Onde você vai andar a seguir?
   </speech>
 
   <speech id="spooky">
-    { Spooky! $shake}
+    { Assustador! $shake}
   </speech>
 
 
@@ -7262,19 +7262,19 @@
   </macro>
 
   <speech id="RealmFactionKingdom">
-    { #named *realmname } Kingdom
+    { #named *realmname } Reinos
   </speech>
 
   <speech id="RealmFactionKingdomOf" tags="the">
-    Kingdom { #named of *realmname }
+    Reinos { #named of *realmname }
   </speech>
 
   <speech id="RealmFactionKingdoms" tags="the p">
-    { #named *realmname } Kingdoms
+    { #named *realmname } Reinos
   </speech>
 
   <speech id="RealmFactionKingdomsOf" tags="the p">
-    Kingdoms { #named of *realmname }
+    Reinos { #named of *realmname }
   </speech>
 
   <speech id="RealmFactionRealm" tags="the">
@@ -7306,71 +7306,71 @@
   </speech>
 
   <speech id="RulerKing" tags="m title">
-    King
+    Rei
   </speech>
 
   <speech id="RulerQueen" tags="f title">
-    Queen
+    Rainha
   </speech>
 
   <speech id="RulerCultistMale" tags="m">
-    Cultist
+    Cultivador
   </speech>
 
   <speech id="RulerCultistFemale" tags="f">
-    Cultist
+    Cultivadora
   </speech>
 
   <speech id="RulerEmperor" tags="m an title">
-    Emperor
+    Imperador
   </speech>
 
   <speech id="RulerEmpress" tags="f an title">
-    Empress
+    Imperatriz
   </speech>
 
   <speech id="RulerLord" tags="m title">
-    Lord
+    senhor
   </speech>
 
   <speech id="RulerLady" tags="f title">
-    Lady
+    Senhora
   </speech>
 
   <speech id="RulerWizard" tags="m">
-    Wizard
+    Mago
   </speech>
 
   <speech id="RulerWitch" tags="f">
-    Witch
+    Bruxa
   </speech>
 
   <speech id="RulerSorcerer" tags="m">
-    Sorcerer
+    Feiticeiro
   </speech>
 
   <speech id="RulerSorceress" tags="f">
-    Sorceress
+    Feiticeira
   </speech>
 
   <speech id="RulerPrince" tags="m title">
-    Prince
+    Principe
   </speech>
 
   <speech id="RulerPrincess" tags="f title">
-    Princess
+    Princesa
   </speech>
 
   <speech id="RulerChieftainMale" tags="m title">
-    Chieftain
+    Chefe
   </speech>
 
   <speech id="RulerChieftainFemale" tags="f title">
-    Chieftain
+    Chefe
   </speech>
 
   <speech id="RulerSeer" tags="m">
-    Seer
+    Vidente
   </speech>
 
   <speech id="RulerSeeress" tags="f">
@@ -7378,35 +7378,35 @@
   </speech>
 
   <speech id="RulerElderMale" tags="m an">
-    Elder
+    Mais velho
   </speech>
 
   <speech id="RulerElderFemale" tags="f an">
-    Elder
+    Mais velha
   </speech>
 
   <speech id="RulerShamanMale" tags="m">
-    Shaman
+    Xamã
   </speech>
 
   <speech id="RulerShamanFemale" tags="f">
-    Shaman
+    Xamã
   </speech>
 
   <speech id="RulerKnightMale" tags="m">
-    Knight
+    Cavaleiro
   </speech>
 
   <speech id="RulerKnightFemale" tags="f">
-    Knight
+    Cavaleiro
   </speech>
 
   <speech id="RulerPreacherMale" tags="m">
-    Preacher
+    Pregador
   </speech>
 
   <speech id="RulerPreacherFemale" tags="f">
-    Preacher
+    Pregadora
   </speech>
 
 
@@ -7912,16 +7912,15 @@
 
   
    <speech id="the_location_is_full_of_insects">
-      { The { @zone() $zone } is full of { insects $creature}! | There are so many { insects $creature} *in_the_unnamed_zone! | The { @zone() $zone } is in danger! { insects $creature} are attacking! | { insects $creature} have invaded the { @zone() $zone }! }
+      { { @zone() $zone } está cheio de { insects $creature}! | Há muitos { insects $creature} *in_the_unnamed_zone! | { @zone() $zone } está em perigo! { insects $creature} estão atacando! | { insects $creature} invadiram { @zone() $zone }! }
   </speech>
 
 
   <speech id="a_new_challenger_entered_the_arena">
-   A new { challenger | contender } entered the arena!
+   Um novo { desafiante | competidor } entrou na arena!
   </speech>
   
   <speech id="congratulations">
-    Congratulations!  
+    Parabéns!  
   </speech>
 </root>
-
