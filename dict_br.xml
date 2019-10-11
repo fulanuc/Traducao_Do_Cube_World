@@ -19,11 +19,11 @@
   </name>
 
   <name id="LizardmanMale" tags="m">
-    { #plural Homem lagarto | Homem lagarto }
+    { #plural Homens lagarto | Homem lagarto }
   </name>
 
   <name id="LizardmanFemale" tags="f">
-    { #plural Mulher lagarto | Mulher lagarto }
+    { #plural Mulheres lagarto | Mulher lagarto }
   </name>
 
   <name id="GoblinMale" tags="m">
