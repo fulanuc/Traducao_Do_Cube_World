@@ -216,7 +216,7 @@
   </name>
 
   <name id="Crawler" tags="n">
-    { #plural Rastreadores | Rastreador }
+    { #plural Aterrorizadores | Aterrorizador }
   </name>
 
   <name id="BarkBeetle" tags="n">
@@ -297,11 +297,11 @@
   </name>
 
   <name id="ArtifactGem" tags="n">
-    @ gema
+    @ de Pedra Preciosa
   </name>
 
   <name id="ArtifactCrown" tags="n">
-    Coroa de @
+    Corôa de @
   </name>
 
   <name id="ArtifactScepter" tags="n">
@@ -437,7 +437,7 @@
   </name>
 
   <name id="AlphaDog" tags="n">
-    { #plural Cães Alpha | Cão alfa }
+    { #plural Cães Alfa | Cão alfa }
   </name>
 
   <name id="ShepherdDog" tags="n">
@@ -481,7 +481,7 @@
   </name>
 
   <name id="ScottishTerrier" tags="n">
-    { #plural Scottish Terriers | Scottish Terrier }
+    { #plural Terriers Escocês | Terrier Escocês }
   </name>
 
   <name id="Panther" tags="n">
@@ -493,11 +493,11 @@
   </name>
 
   <name id="BrownCat" tags="n">
-    { #plural Gatos Marrões | Gato marrom }
+    { #plural Gatos | Gato }
   </name>
 
   <name id="WhiteCat" tags="n">
-    { #plural Gatos brancos | Gato branco }
+    { #plural Gatos | Gato }
   </name>
 
   <name id="Pig" tags="n">
@@ -521,11 +521,11 @@
   </name>
 
   <name id="Makake" tags="n">
-    { #plural Makakes | Makake }
+    { #plural Babuínos | Babuíno }
   </name>
 
   <name id="SkeletonDog" tags="n">
-    { #plural Cães esqueletos | Cão esqueleto }
+    { #plural Cães de Ossos | Cão de Ossos }
   </name>
 
   <name id="Chicken" tags="n">
@@ -593,7 +593,7 @@
   </name>
 
   <name id="SnowGnobold" tags="m">
-    { #plural Snow Gnobolds | Snow Gnobold }
+    { #plural Gnobolds das Neves | Gnobold da Neve }
   </name>
 
   <name id="Gnome" tags="m">
@@ -601,15 +601,15 @@
   </name>
 
   <name id="Insectoid" tags="m an">
-    { #plural Insectoides | Insectoide }
+    { #plural Insetóides | Insetóide }
   </name>
 
   <name id="Jester" tags="m">
-    { #plural Jesters | Jester }
+    { #plural Bobos da Corte | Bobo da corte }
   </name>
 
   <name id="DarkJester" tags="m">
-    { #plural Dark Jesters | Dark Jester }
+    { #plural Bobos da Corte das Sombras | Bobo da Corte Sombrio }
   </name>
   
   <name id="Gnoll" tags="m">
@@ -617,7 +617,7 @@
   </name>
 
   <name id="PolarGnoll" tags="m">
-    { #plural Polar Gnolls | Polar Gnoll }
+    { #plural Gnolls dos Campos Polares | Gnoll do Campo Polar }
   </name>
 
   <name id="Mermaid" tags="f">
@@ -661,7 +661,7 @@
   </name>
 
   <name id="ManaMech" tags="m">
-    { #plural Mana Mechs | Mana Mech }
+    { #plural Robôs de Mana | Robô de Mana }
   </name>
 
   <name id="Treant" tags="m">
@@ -690,19 +690,19 @@
   </name>
 
   <name id="SkullSlater" tags="n">
-    { #plural Skull Slaters | Skull Slater }
+    { #plural Encravadores de Caveiras | Encravador de Caveira }
   </name>
 
   <name id="TortureRack" tags="n">
-    { #plural Mesas de Tortura | Mesa de Tortura }
+    { #plural Aparelhos de Tortura | Aparelho de Tortura }
   </name>
 
   <name id="LegIrons" tags="n p">
-    Perna de Ferro
+    { #plural Grilhões | Grilhão }
   </name>
 
   <name id="Pole" tags="n">
-    { #plural Polos | Pólo }
+    { #plural Estacas | Estaca }
   </name>
 
   <name id="CeilingChain" tags="n">
@@ -714,7 +714,7 @@
   </name>
 
   <name id="Cyclops" tags="m">
-    { #plural Cyclopses | Cyclops }
+    { #plural Ciclopses | Ciclopse }
   </name>
 
   <name id="RuneGiant" tags="m">
@@ -750,11 +750,11 @@
   </name>
 
   <name id="SpikeCreature" tags="n">
-    { #plural Criaturas Espinhosa | Criatura Espinhosa }
+    { #plural Criaturas Espinhenta | Criatura Espinhenta }
   </name>
 
   <name id="Spectrino" tags="m">
-    { #plural Spectrinos | Spectrino }
+    { #plural Espectrinos | Espectrino }
   </name>
 
   <name id="Djinn" tags="m">
@@ -774,11 +774,11 @@
   </name>
 
   <name id="SandHorror" tags="n">
-    { #plural Terrores da Areia | Terror da Areia }
+    { #plural Horrores de Areia | Horror de Areia }
   </name>
 
   <name id="Imp" tags="an n">
-    { #plural Imps | Imp }
+    { #plural Diabretes | Diabrete }
   </name>
 
   <name id="Vampire" tags="m">
@@ -786,15 +786,15 @@
   </name>
 
   <name id="Spitter" tags="n">
-    { #plural Spitters | Spitter }
+    { #plural Pogos | Pogo }
   </name>
 
   <name id="PlantCreature" tags="m">
-    { #plural Cormlings | Cormling }
+    { #plural Plantas-Vivas | Planta-Viva }
   </name>
 
   <name id="BabyElephant" tags="n">
-    { #plural Elefantes bebê | Elefante bébé }
+    { #plural Elefantes bebê | Elefante bebê }
   </name>
 
   <name id="BabyMammoth" tags="n">
@@ -802,7 +802,7 @@
   </name>
 
   <name id="PlantCreatureSprout" tags="n">
-    { #plural Brotos de Cormling | Broto de Cormling }
+    { #plural Brotos de Plantas-Vivas | Broto de Planta-Viva }
   </name>
 
   <name id="RadishCreature" tags="m">
@@ -814,31 +814,31 @@
   </name>
 
   <name id="Onionling" tags="m an">
-    { #plural Onionlings | Onionling }
+    { #plural Cebolões | Cebolão }
   </name>
 
   <name id="Chiling" tags="m">
-    { #plural Chilings | Chiling }
+    { #plural Pimentões | Pimentão }
   </name>
 
   <name id="ChilingSprout" tags="m">
-    { #plural Chiling Sprouts | Chiling Sprout }
+    { #plural Brotos de Pimentões | Broto de Pimentão }
   </name>
 
   <name id="Habanero" tags="m">
-    { #plural Habaneros | Habanero }
+    { #plural Pimentas-Habanero | Pimenta-Habanero }
   </name>
 
   <name id="Bloomling" tags="m">
-    { #plural Bloomlings | Bloomling }
+    { #plural Planteixos | Planteixo }
   </name>
 
   <name id="DesertOnionling" tags="m">
-    { #plural Desert Onionlings | Desert Onionling }
+    { #plural Cebolões do Deserto | Cebolão do Deserto }
   </name>
 
   <name id="Ginseng" tags="n">
-    { #plural Ginseng | Ginseng }
+    { #plural Gengibres | Gengibre }
   </name>
 
   <name id="Bush" tags="n">
@@ -850,19 +850,19 @@
   </name>
 
   <name id="SnowBerryBush" tags="n">
-    { #plural arbustos de Snowberrys | arbusto de Snowberry }
+    { #plural arbustos de fruta da neve | arbusto de fruta da neve }
   </name>
 
   <name id="SnowBerry" tags="n">
-    { #plural Snowberries | Snowberry }
+    { #plural Frutas da neve | Fruta da neve }
   </name>
 
   <name id="SnowBerryMash" tags="n">
-    { #plural Snowberry Mashes | Snowberry Mash }
+    { #plural Mix de frutas da neve | Mix de fruta da neve }
   </name>
 
   <name id="ThornTree" tags="n">
-    { #plural Árvores de espinho | Árvore de espinho }
+    { #plural Árvores espinhentas | Árvore espinhenta }
   </name>
 
   <name id="Cactus" tags="n">
@@ -870,7 +870,7 @@
   </name>
 
   <name id="Dummy" tags="n">
-    { #plural Manequins | Manequim }
+    { #plural Bonecos de treino | Boneco de treino }
   </name>
 
   <name id="Aim" tags="n">
@@ -882,7 +882,7 @@
   </name>
 
   <name id="SlimeWell" tags="n">
-    { #plural Slime Wells | Slime Well }
+    { #plural Criadouros de Slime | Criadouro de Slime }
   </name>
 
   <name id="HornetsNest" tags="n">
@@ -978,7 +978,7 @@
   </name>
 
   <name id="FlyingEye" tags="n">
-    { #plural Olhos Voadores | Olho Voador }
+    { #plural Olhos Alados | Olho Alado }
   </name>
 
   <name id="DarkTroll" tags="m">
@@ -998,7 +998,7 @@
   </name>
 
   <name id="Ring" tags="m">
-    { #plural argolas | Anel }
+    { #plural Anéis | Anel }
   </name>
 
   <name id="Amulet1" tags="n an">
@@ -1244,7 +1244,7 @@
   </name>
 
   <name id="SpinningWheel" tags="n">
-    { #plural roda de fiar | roda de fiar }
+    { #plural Máquinas de Costura | Máquina de Costura }
   </name>
 
   <name id="Loom" tags="n">
@@ -1252,11 +1252,11 @@
   </name>
 
   <name id="SawBench" tags="n">
-    { #plural Serras | Serra }
+    { #plural Mesas de Serralheiros | Mesa de Serrailheiro }
   </name>
 
   <name id="Workbench" tags="n">
-    { #plural Bancadas | Bancada }
+    { #plural Bancadas de Criação | Bancada de Criação }
   </name>
 
   <name id="CustomizationBench" tags="n">
@@ -1468,11 +1468,11 @@
   </name>
 
   <name id="ChestArmor" tags="n">
-    { #plural Armaduras de peito | Armadura de peito }
+    { #plural Peitorais | Peitoral }
   </name>
 
   <name id="ShoulderArmor" tags="n">
-    { #plural Armaduras de Ombro | Armadura de Ombro }
+    { #plural Ombreiras | Ombreira }
   </name>
 
   <name id="Sword" tags="n">
@@ -1484,11 +1484,11 @@
   </name>
 
   <name id="Fist" tags="n">
-    { #plural Punhos | Punho }
+    { #plural Soqueiras | Soqueira }
   </name>
 
   <name id="Mace" tags="n">
-    { #plural Bastões | Bastão }
+    { #plural Maças | Maça }
   </name>
 
   <name id="Axe" tags="n">
@@ -1500,7 +1500,7 @@
   </name>
 
   <name id="Crossbow" tags="n">
-    { #plural Besta | Besta }
+    { #plural Bestas | Besta }
   </name>
 
   <name id="Boomerang" tags="n">
@@ -1520,7 +1520,7 @@
   </name>
 
   <name id="Staff" tags="n">
-    { #plural varas | vara }
+    { #plural Cajados | Cajado }
   </name>
 
   <name id="Wand" tags="n">
@@ -1540,11 +1540,11 @@
   </name>
 
   <name id="Greataxe" tags="n">
-    { #plural Grande machado | Grande machado }
+    { #plural Machados de duas Mãos | Machado de Duas Mãos }
   </name>
 
   <name id="Greatmace" tags="n">
-    { #plural Grande bastão | Grande bastão}
+    { #plural Maças de duas mãos | Maça de duas mãos}
   </name>
 
   <name id="Longsword" tags="n">
@@ -1560,39 +1560,39 @@
   </name>
 
   <name id="HangGlider" tags="n">
-    {#the the} { #plural Asa Delta | Asa Delta }
+    {#As A} { #plural Asa Delta | Asa Delta }
   </name>
 
   <name id="Boat" tags="n">
-    {#the the} { #plural Barcos | Barco }
+    {#Os O} { #plural Barcos | Barco }
   </name>
   
   <name id="MagicCraftingBook" tags="n">
-    {#the the} { #plural Livro Mágico de Artesanato | Livro Mágico de Artesanato }
+    {#Os O} { #plural Livro Mágico de Criações | Livro Mágico de Criação }
   </name>
   
   <name id="RareCraftingBook" tags="n">
-    {#the the} { #plural Livro Raro de Artesanato | Livro Raro de Artesanato }
+    {#Os O} { #plural Livro Raro de Criações | Livro Raro de Criação }
   </name>
   
   <name id="EpicCraftingBook" tags="n an">
-    {#the the} { #plural Livro Épico de Artesanato | Livro Épico de Artesanato }
+    {#Os O} { #plural Livro Épico de Criações | Livro Épico de Criação }
   </name>
   
   <name id="LegendaryCraftingBook" tags="n">
-    {#the the} { #plural Livros Lendários de Artesanato | Livro de Artesanato Lendário }
+    {#Os O} { #plural Livros Lendários de Criações | Livro de Criação Lendário }
   </name>
   
   <name id="ClimbingSpikes" tags="n p">
-    {#the the} Espinho de Escalada
+    {#As A} Sola de escalada
   </name>
 
   <name id="Reins" tags="n p">
-    {#the the} Reins
+    {#As A} { #plural Rédeas | Rédea }
   </name>
 
   <name id="TamersWhistle" tags="n p">
-    {#the the} Apito do Tamer
+    {#Os O} { #plural Apitos de Domadores | Apito do Domador }
   </name>
 
   <name id="Lamp" tags="n">
@@ -1616,7 +1616,7 @@
   </name>
   
   <name id="Dewdrop" tags="n">
-    { #plural Dewdrops | Dewdrop }
+    { #plural Gotas de Orvalho | Gota de Orvalho }
   </name>
 
   <name id="SugarCube" tags="n">
@@ -1660,15 +1660,15 @@
   </name>
 
   <name id="ShimmerMushroom" tags="n">
-    { #plural Shimmer Mushrooms | Shimmer Mushroom }
+    { #plural Cogumelos de Pouca Luz | Cogumelo de Pouca luz }
   </name>
 
   <name id="GinsengRoot" tags="n">
-    { #plural Raizes de ginseng | Raiz de ginseng }
+    { #plural Raízes de Genbibre | Raíz de Gengibre }
   </name>
 
   <name id="MushroomSpit" tags="n">
-    { #plural Cuspo de cogumelo | Cuspo de cogumelo }
+    { #plural gosmas de cogumelo | Gosma de cogumelo }
   </name>
 
   <name id="Cookie" tags="n">
@@ -1721,7 +1721,7 @@
 
 
   <name id="Candy" tags="n s">
-    { #plural Doces | Doce }
+    { #plural Balinhas | Balinha }
   </name>
 
   <name id="Lollipop" tags="n">
@@ -1793,7 +1793,7 @@
   </name>
 
   <name id="LicoriceCandy" tags="n s">
-    { #plural >Doces de alcaçuz | Doce de alcaçuz }
+    { #plural Doces de alcaçuz | Doce de alcaçuz }
   </name>
 
   <name id="CinnamonRole" tags="n">
@@ -1817,7 +1817,7 @@
   </name>
 
   <name id="CandiedApple" tags="n">
-    { #plural Maçã cristalizada | Maçã cristalizada }
+    { #plural Maçãs do Amor | Maçã do Amor }
   </name>
 
   <name id="StrawberryCocktail" tags="n">
@@ -1841,7 +1841,7 @@
   </name>
 
   <name id="SugarCandy" tags="n s">
-    { #plural Doce açucarado | Doce açucarado }
+    { #plural Balas de açúcar | Bala de açúcar }
   </name>
 
   <name id="BlackberryMarmelade" tags="n s">
@@ -1857,23 +1857,23 @@
   </name>
 
   <name id="MangoJuice" tags="n s">
-    { #plural Suco de manga | Suco de manga }
+    { #plural Sucos de manga | Suco de manga }
   </name>
 
   <name id="FruitBasket" tags="n">
-    { #plural Cesto de frutas | Cesto de frutas }
+    { #plural Cestos de frutas | Cesto de frutas }
   </name>
 
   <name id="MelonIceCream" tags="n s">
-    { #plural Sorvete de melão | Sorvete de melão }
+    { #plural Sorvetes de melão | Sorvete de melão }
   </name>
 
   <name id="BloodOrangeJuice" tags="n s">
-    { #plural Suco de Laranja Sangrenta | Suco de Laranja Sangrenta }
+    { #plural Sucos de Laranja Sangrenta | Suco de Laranja Sangrenta }
   </name>
 
   <name id="RaspberryJuice" tags="n s">
-    { #plural Suco de framboesa | Suco de framboesa }
+    { #plural Sucos de framboesa | Suco de framboesa }
   </name>
 
   <name id="Pancakes" tags="n p">
@@ -1893,15 +1893,15 @@
   </name>
 
   <name id="EucalyptusCandy" tags="n s">
-    { #plural Doces de eucalipto | Doce de eucalipto }
+    { #plural Balas de eucalipto | Bala de eucalipto }
   </name>
 
   <name id="MineralWater" tags="n s">
-    { #plural Água mineral | Água mineral }
+    { #plural Águas minerais | Água mineral }
   </name>
 
   <name id="SpringWater" tags="n s">
-    { #plural Água de nascente | Água de nascente }
+    { #plural Águas de nascentes | Água de nascente }
   </name>
 
   <name id="Peanut" tags="n">
@@ -1925,7 +1925,7 @@
   </name>
 
   <name id="PumpkinMuffin" tags="n">
-    { #plural Muffin de Abóboras | Muffin de Abóbora }
+    { #plural Bolinhos de Abóbora | Bolinho de Abóbora }
   </name>
 
   <name id="LifePotion" tags="n">
@@ -1970,27 +1970,27 @@
   </name>
 
   <name id="GreenSmoothie" tags="n">
-    { #plural Smoothie verde | Smoothie verde }
+    { #plural Smoothies verde | Smoothie verde }
   </name>
 
   <name id="Heartflower" tags="n">
-    { #plural Flor do coração | Flor do coração }
+    { #plural Flores do coração | Flor do coração }
   </name>
 
   <name id="PricklyPear" tags="n">
-    { #plural Pera espinhosa | Pera espinhosa }
+    { #plural Peras espinhentas | Pera espinhenta }
   </name>
 
   <name id="FrozenHeartflower" tags="n">
-    { #plural Flor de gelo | Flor de gelo }
+    { #plural Flores de gelo | Flor de gelo }
   </name>
 
   <name id="SoulFlower" tags="n">
-    { #plural Flor da Alma | Flor da Alma }
+    { #plural Flores da Alma | Flor da Alma }
   </name>
 
   <name id="Mindflower" tags="n">
-    { #plural Flor da mente | Flor da mente }
+    { #plural Flores da mente | Flor da mente }
   </name>
 
   <name id="ManaOrchid" tags="n">
@@ -1998,23 +1998,23 @@
   </name>
 
   <name id="Spiritflower" tags="n">
-    { #plural Flor do Espírito | Flor do Espírito }
+    { #plural Flores do Espírito | Flor do Espírito }
   </name>
 
   <name id="GinsengSoup" tags="n">
-    { #plural Sopa de Ginseng | Sopa de Ginseng }
+    { #plural Sopas de Genbibre | Sopa de Gengibre }
   </name>
 
   <name id="RadishSlice" tags="n">
-    { #plural Fatia de rabanete | Fatia de rabanete }
+    { #plural Fatias de rabanete | Fatia de rabanete }
   </name>
 
   <name id="OnionSlice" tags="n">
-    { #plural Fatia de cebola | Fatia de cebola }
+    { #plural Fatias de cebola | Fatia de cebola }
   </name>
 
   <name id="WaterFlask" tags="n">
-    { #plural Garrafa de água | Garrafa de água }
+    { #plural Garrafas d'água | Garrafa de água }
   </name>
 
   <name id="Bomb" tags="n">
@@ -2026,7 +2026,7 @@
   </name>
   
   <name id="DragonRoot" tags="n">
-    { #plural Raiz do dragão | Raiz do dragão }
+    { #plural Raízes de dragão | Raíz de dragão }
   </name>
 
   <name id="Nugget" tags="n">
@@ -2130,39 +2130,39 @@
   </name>
 
   <name id="Flute" tags="n">
-    {#the the} { #plural Flautas mágicas | Flauta Mágica }
+    {#As A} { #plural Flautas mágicas | Flauta Mágica }
   </name>
 
   <name id="Harp" tags="n">
-    {#the the} { #plural Harpas Divinas | Harpa Divina }
+    {#As A} { #plural Harpas Divinas | Harpa Divina }
   </name>
 
   <name id="TreasureSpirit" tags="n">
-    {#the the} { #plural Espíritos do tesouro | Espírito do Tesouro }
+    {#Os O} { #plural Zé Gotinhas | Zé Gotinha }
   </name>
 
   <name id="Fiddle" tags="n">
-    {#the the} { #plural Violinos | Violino }
+    {#Os O} { #plural Violinos | Violino }
   </name>
 
   <name id="Whistle" tags="n">
-    {#the the} { #plural Apitos | Apito }
+    {#Os O} { #plural Apitos | Apito }
   </name>
 
   <name id="Bell" tags="n">
-    {#the the} { #plural Sinos Espirituais | Sino Espiritual }
+    {#Os O} { #plural Sinos dos Espíritos | Sino do Espírito }
   </name>
 
   <name id="Lute" tags="n">
-    {#the the}{ #plural Alaúdes | Alaúde }
+    {#As A} { #plural Violas | Viola }
   </name>
   
   <name id="Nightingale" tags="n">
-    {#the the}{ #plural Nightingales | Nightingale }
+    {#Os O} { #plural Chamados da Noite | Chamado da noite }
   </name>
 
   <name id="MagicBean" tags="n">
-    {#the the} { #plural Feijões mágicos | Feijão Mágico }
+    {#Os O} { #plural Feijões mágicos | Feijão Mágico }
   </name>
 
   <name id="Key" tags="n">
@@ -2258,7 +2258,7 @@
   </name>
 
   <name id="ItemTreasureStatue" tags="n">
-    { #plural @ Estátuas | @ Estátua }
+    { #plural Estátuas de @ | Estátua de @ }
   </name>
 
   <name id="ItemTreasureJewel" tags="n">
@@ -2266,7 +2266,7 @@
   </name>
 
   <name id="ItemTreasureVase" tags="n">
-    { #plural @ Vasos | @ Vaso }
+    { #plural Vasos de @ | Vaso de @ }
   </name>
 
   <name id="DemonIdol" tags="n">
@@ -2278,11 +2278,11 @@
   </name>
 
   <name id="Herb" tags="n">
-    { #plural @ Ervas | @ Erva }
+    { #plural Ervas de @ | Erva de @ }
   </name>
 
   <name id="Flower" tags="n">
-    { #plural @ Flores | @ Flor }
+    { #plural Flores de @ | Flor de @ }
   </name>
 
   <name id="Treasure" tags="n">
@@ -2394,11 +2394,11 @@
   </name>
 
   <name id="RareCrystal" tags="n">
-    { #plural Cristais Raros @ | Rare @ Crystal }
+    { #plural Cristais Raros de @ | Raro Cristal de @ }
   </name>
 
   <name id="FabricScrap" tags="n">
-    { #plural @ Pedaços de tecido | @ Sucata de Tecido }
+    { #plural Pedaços de tecido de @ | Pedaço de tecido de @ }
   </name>
 
   <name id="Button" tags="n">
@@ -2406,19 +2406,19 @@
   </name>
 
   <name id="Fruit" tags="n">
-    { #plural @ Frutas | @ Fruta }
+    { #plural Frutas de @ | Fruta de @ }
   </name>
 
   <name id="Nut" tags="n">
-    { #plural @ Nozes | @ Noz }
+    { #plural Nozes de @ | Noz de @ }
   </name>
 
   <name id="RareFiber" tags="n">
-    { #plural Fibras @ raras | Rare @ Fiber }
+    { #plural Fibras raras de @ | Rara Fibra de @ }
   </name>
 
   <name id="RareBlossom" tags="n">
-    { #plural Flores raras @ | Rare @ Blossom }
+    { #plural Flores raras de @ | Rara flor de @ }
   </name>
   
   <name id="MagicBook" tags="n">
@@ -2538,10 +2538,10 @@
     Bronze { #item @item(*) }
   </name>
   <name id="MaterialCalico">
-    Chita { #item @item(*) }
+    Tecido { #item @item(*) }
   </name>
   <name id="MaterialFelt">
-    Sentido { #item @item(*) }
+    Feltro { #item @item(*) }
   </name>
   <name id="MaterialFlannell">
     Flanela { #item @item(*) }
@@ -2565,22 +2565,22 @@
     Fibra { #item @item(*) }
   </name>
   <name id="MaterialScale">
-    Escala { #item @item(*) }
+    Escamas { #item @item(*) }
   </name>
   <name id="MaterialWeb">
     Rede { #item @item(*) }
   </name>
   <name id="MaterialShadow">
-    Sombra { #item @item(*) }
+    Das Sombras { #item @item(*) }
   </name>
   <name id="MaterialDark">
-    Sombrio { #item @item(*) }
+    Da Escuridão { #item @item(*) }
   </name>
   <name id="MaterialDemon">
     Demônio { #item @item(*) }
   </name>
   <name id="MaterialDruid">
-    druida { #item @item(*) }
+    Druída { #item @item(*) }
   </name>
   <name id="MaterialClothing">
     Pano { #item @item(*) }
@@ -2623,34 +2623,34 @@
   </name>
 
   <name id="Gang">
-    @'s Gang
+    Gangue dos @
   </name>
   
   <name id="FactionLoreTribe">
-    @ Tribo
+    Tribo dos @
   </name>
   
   <name id="FactionLoreBrotherhood">
-    @ fraternidade
+    Fraternidade dos @
   </name>
   
   <name id="FactionLoreEmpire">
-    @ Império
+    Imperio de @
   </name>
   <name id="FactionLoreKingdom">
     Reino de @
   </name>
   <name id="FactionLoreClan">
-    @ Clã
+    Clã dos @
   </name>
   <name id="FactionLoreCult">
-    @ Culto
+    Culto de @
   </name>
   <name id="FactionLorePact">
-    @ Pacto
+    Pacto de @
   </name>
   <name id="FactionLoreKnights">
-    @ Cavaleiros
+    Cavaleiros da Ordem @
   </name>
 
     
@@ -2848,7 +2848,7 @@
   </name>
  
   <name id="House" tags="m in">
-    {@'s #named} casa
+    {@ de #named} casa
   </name>
 
   <name id="OldHut" tags="m in the">
@@ -2909,7 +2909,7 @@
 
 
   <name id="Farm" tags="m in">
-    {@'s #named} Fazenda
+    {@ de #named} Fazenda
   </name>
 
   <name id="Village" tags="n in">
@@ -2918,7 +2918,7 @@
   
   
   <name id="Hut" tags="m in">
-    {@'s #named} Cabana
+    {@ de #named} Cabana
   </name>
 
   <name id="Bridge" tags="n on the">
@@ -2990,7 +2990,7 @@
   </name>
 
   <name id="Vault" tags="n in the">
-    Cofre {of @ #named}
+    Cofre {de @ #named}
   </name>
 
   <name id="Reef" tags="n on">
@@ -3066,7 +3066,7 @@
   </name>
 
   <name id="Tower" tags="n in">
-    {@'s #named} Torre
+    {@ do grande #named} Torre
   </name>
 
   <name id="Bastion" tags="n in the">
@@ -3102,7 +3102,7 @@
   </name>
 
   <name id="Spire" tags="m on the">
-    Spire {of @ #named}
+    Espiral {de @ #named}
   </name>
 
   <name id="Riverside" tags="n at the">
@@ -3203,189 +3203,189 @@
 
 
   <name id="item:shabby">
-    {#the the} Gasto @materialitem(*,item)
+    {#Os O} Gasto @materialitem(*,item)
   </name>
 
   <name id="item:plain">
-    {#the the} Plano @materialitem(*,item)
+    {#Os O} básico @materialitem(*,item)
   </name>
 
   <name id="item:battered">
-    {#the the} Batido @materialitem(*,item)
+    {#Os O} Surrado @materialitem(*,item)
   </name>
 
   <name id="item:artless">
-    {#the the} simples @materialitem(*,item)
+    {#Os O} simplório @materialitem(*,item)
   </name>
 
   <name id="item:unwieldy">
-    {#the the} Desajeitado @materialitem(*,item)
+    {#Os O} Desajeitado @materialitem(*,item)
   </name>
 
   <name id="item:used">
-    {#the the} usado @materialitem(*,item)
+    {#Os O} usado @materialitem(*,item)
   </name>
 
   <name id="item:dusty">
-    {#the the} Enferrujado @materialitem(*,item)
+    {#Os O} Enferrujado @materialitem(*,item)
   </name>
 
   <name id="item:scratched">
-    {#the the} arranhado @materialitem(*,item)
+    {#Os O} arranhado @materialitem(*,item)
   </name>
 
   <name id="item:worn">
-    {#the the} desgastado @materialitem(*,item)
+    {#Os O} desgastado @materialitem(*,item)
   </name>
 
   <name id="item:common">
-    {#the the} comum @materialitem(*,item)
+    {#Os O} comum @materialitem(*,item)
   </name>
 
   <!--Rarity 1-->
 
   <name id="item:adjusted" tags="an">
-    {#the the} Ajustado @materialitem(*,item)
+    {#Os O} Ajeitado @materialitem(*,item)
   </name>
 
   <name id="item:balanced">
-    {#the the} Equilibrado @materialitem(*,item)
+    {#Os O} Balanceado @materialitem(*,item)
   </name>
 
   <name id="item:battletested">
-    {#the the} Testado em Batalha @materialitem(*,item)
+    {#Os O} Aprovado em Batalha @materialitem(*,item)
   </name>
 
   <name id="item:good">
-    {#the the} Adequado @materialitem(*,item)
+    {#Os O} Adequado @materialitem(*,item)
   </name>
 
   <name id="item:handmade">
-    {#the the} Feito à mão @materialitem(*,item)
+    {#Os O} Feito à mão @materialitem(*,item)
   </name>
 
   <name id="item:fair">
-    {#the the} Justo @materialitem(*,item)
+    {#Os O} interessante @materialitem(*,item)
   </name>
 
   <name id="item:neat">
-    {#the the} arrumado @materialitem(*,item)
+    {#Os O} arrumado @materialitem(*,item)
   </name>
 
   <name id="item:clean">
-    {#the the} limpo @materialitem(*,item)
+    {#Os O} limpo @materialitem(*,item)
   </name>
 
   <name id="item:undamaged" tags="an">
-    {#the the} intacto @materialitem(*,item)
+    {#Os O} intacto @materialitem(*,item)
   </name>
 
   <name id="item:flawless">
-    {#the the} Sem falhas @materialitem(*,item)
+    {#Os O} de bom estado @materialitem(*,item)
   </name>
 
   <!--Rarity 2-->
 
   <name id="item:exceptional" tags="an">
-    {#the the} Excepcional @materialitem(*,item)
+    {#Os O} Excepcional @materialitem(*,item)
   </name>
 
   <name id="item:polished">
-    {#the the} polido @materialitem(*,item)
+    {#Os O} polido @materialitem(*,item)
   </name>
 
   <name id="item:extraordinary" tags="an">
-    {#the the} extraordinário @materialitem(*,item)
+    {#Os O} extraordinário @materialitem(*,item)
   </name>
 
   <name id="item:exquisite" tags="an">
-    {#the the} requintado @materialitem(*,item)
+    {#Os O} requintado @materialitem(*,item)
   </name>
 
   <name id="item:superb">
-    {#the the} soberbo @materialitem(*,item)
+    {#Os O} soberbo @materialitem(*,item)
   </name>
 
   <name id="item:unique">
-    {#the the} único @materialitem(*,item)
+    {#Os O} único @materialitem(*,item)
   </name>
 
   <name id="item:handsome">
-    {#the the} bonito @materialitem(*,item)
+    {#Os O} belo @materialitem(*,item)
   </name>
 
   <name id="item:grand">
-    {#the the} grande @materialitem(*,item)
+    {#Os O} Maravilhoso @materialitem(*,item)
   </name>
 
   <name id="item:magic">
-    {#the the} encantado @materialitem(*,item)
+    {#Os O} encantado @materialitem(*,item)
   </name>
 
   <name id="item:decorated">
-    {#the the} Decorado @materialitem(*,item)
+    {#Os O} Decorado @materialitem(*,item)
   </name>
 
 
   <!--Rarity 3-->
 
   <name id="item:exceptional2">
-    @name's exceptional @materialitem(*,item)
+    @name incrivelmente exceptional @materialitem(*,item)
   </name>
 
   <name id="item:polished2">
-    {#the the} polished @materialitem(*,item) de @name
+    {#Os O} polido @materialitem(*,item) de @name
   </name>
 
   <name id="item:extraordinary2">
-    {#the the} extraordinário @materialitem(*,item) de @name
+    {#Os O} extraordinário @materialitem(*,item) de @name
   </name>
 
   <name id="item:exquisite2">
-    {#the the} requintado @materialitem(*,item) de @name
+    {#Os O} requintado @materialitem(*,item) de @name
   </name>
 
   <name id="item:superb2">
-    @name's soberbo @materialitem(*,item)
+    @name considerávelmente soberbo @materialitem(*,item)
   </name>
 
   <name id="item:unique2">
-    {#the the} único @materialitem(*,item) de @name
+    {#Os O} único @materialitem(*,item) de @name
   </name>
 
   <name id="item:handsome2">
-    @name's bonito @materialitem(*,item)
+    @name extremamente bonito @materialitem(*,item)
   </name>
 
   <name id="item:grand2">
-    {#the the} grande @materialitem(*,item) de @name
+    {#Os O} Maravilhoso @materialitem(*,item) de @name
   </name>
 
   <name id="item:magic2">
-    {#the the} magico @materialitem(*,item) de @name
+    {#Os O} magico @materialitem(*,item) de @name
   </name>
 
   <name id="item:decorated2">
-    {#the the} decorado @materialitem(*,item) de @name
+    {#Os O} decorado @materialitem(*,item) de @name
   </name>
 
 
   <!--Rarity 4-->
 
   <name id="item:brilliant">
-    @name's brilhante @materialitem(*,item)
+    @name incrivelmente brilhante @materialitem(*,item)
   </name>
 
   <name id="item:shining">
-    {#the the} reluzente @materialitem(*,item) de @name
+    {#Os O} reluzente @materialitem(*,item) de @name
   </name>
 
   <name id="item:magnificent">
-    {#the the} magnífico @materialitem(*,item) de @name
+    {#Os O} magnífico @materialitem(*,item) de @name
   </name>
 
   <name id="item:sublime">
-    {#the the} sublime @materialitem(*,item) de @name
+    {#Os O} sublime @materialitem(*,item) de @name
   </name>
 
   <name id="item:pompous">
@@ -3393,7 +3393,7 @@
   </name>
 
   <name id="item:glorious">
-    {#the the} glorioso @materialitem(*,item) de @name
+    {#Os O} glorioso @materialitem(*,item) de @name
   </name>
 
   <name id="item:splendid">
@@ -3401,15 +3401,15 @@
   </name>
 
   <name id="item:famous">
-    {#the the} famoso @materialitem(*,item) de @name
+    {#Os O} famoso @materialitem(*,item) de @name
   </name>
 
   <name id="item:legendary">
-    {#the the} lendário @materialitem(*,item) de @name
+    {#Os O} lendário @materialitem(*,item) de @name
   </name>
 
   <name id="item:fabulous">
-    {#the the} fabuloso @materialitem(*,item) de @name
+    {#Os O} fabuloso @materialitem(*,item) de @name
   </name>
 
 
@@ -3432,11 +3432,11 @@
   </speech>
 
   <speech id="SpecializationFire">
-    Magia de Fogo
+    Mago de Fogo
   </speech>
   
   <speech id="SpecializationWater">
-    Magia de Agua
+    Mago de Água
   </speech>
 
   <speech id="SpecializationAssassin">
@@ -3450,69 +3450,69 @@
   <speech id="description:SpecializationBerserker">
     {Berserker $stress}
     %
-    Berserkers jump into the fray to defeat their enemies with furious strikes.
+    Berserkers pulam para o meio do combate para derrotar seus inimigos com ataques de fúria.
     %
-    {Berserker Rage $stress}: Your attack speed is increased with each hit.
+    {Fúria Berserker $stress}: Sua velocidade de ataque sobe a cada hit.
   </speech>
 
   <speech id="description:SpecializationGuardian">
-    {Guardian $stress}
+    {Guardião $stress}
     %
-    Guardians withstand the hardest attacks and biggest enemy crowds. They're well-suited to avert damage from allies.
+    Guardiões aguentam receber os ataques mais intensos das multidões mais furiosas. Eles são bem equipados para retirar a atenção de seus aliados.
     %
-    {Toughness $stress}: Your health is increased by {25% $number}.
+    {Força $stress}: Sua vida base é maior {25% $number}.
     %
-    {Barricade $stress}: Your shield block lasts twice as long as normal. Additionally you can parry damage with all weapons.
+    {Barricada $stress}: Seu bloqueio com o escudo tem o dobro da duração. Adicionalmente você pode bloquear com qualquer arma que puder equipar.
   </speech>
 
   <speech id="description:SpecializationScout">
-    {Scout $stress}
+    {Batedor $stress}
     %
-    Scouts are swift ranged combatants that fight their enemies with quick attacks.
+    Batedores são unidades de rápido combate a distância que usam sua velocidade para lidar com os inimigos.
     %
-    {Intuition $stress}: Your attacks have a chance to make your next special attack instantly chargeable.
+    {Intuição $stress}: Seus ataques possuem uma chance de fazer seu próximo ataque especial carregar instantâneamente.
   </speech>
 
   <speech id="description:SpecializationSniper">
     {Sniper $stress}
     %
-    Snipers use to hide away to eliminate their enemies with aimed shots.
+    Snipers se escondem a distância para eliminar seus inimigos com poderosos ataques carregados.
     %
-    {Hit Series $stress}: Your attack speed is increased with each hit.
+    {Ataques em Sucessão $stress}: Sua velocidade de ataque sobe a cada hit.
   </speech>
 
   <speech id="description:SpecializationFire">
-    {Fire Magic $stress}
+    {Mago de Fogo $stress}
     %
-    Fire Mages use the force of fire to burn their enemies with dangerous fire spells.
+    Magos de fogo usam o poder do fogo para queimar seus inimigos com perigosas magias de fogo.
     %
-    {Fire Spark $stress}: Your attacks have a chance to make your next special attack a free instant cast.
+    {Fagulha de labareda $stress}: Seus ataques possuem a chance de fazer seu próximo ataque especial carregar instantâneamente.
   </speech>
 
   <speech id="description:SpecializationWater">
-    {Water Magic $stress}
+    {Mago de Água $stress}
     %
-    Water Mages cast mighty water spells to fight enemies and heal allies.
+    Curandeiros lançam poderosas habilidades aquaticas para enfraquecer seus inimigos e curar seus aliados.
     %
-    {Torrent $stress}: Your attack speed is increased with each hit.
+    {Torrentes $stress}: Sua velocidade de ataque sobe a cada hit.
   </speech>
 
   <speech id="description:SpecializationAssassin">
-    {Assassin $stress}
+    {Assassino $stress}
     %
-    Assassins are specialized on sneaking and stealth attacks.
+    Assassinos são especializados em se locomover furtivamente e promover emboscadas.
     %
-    {Way of the shadows $stress}: Each special attack increases your stealth. {Stealth $stress} increases damage, critical strike chance and regenerates MP.
+    {Caminho das Sombras $stress}: Cada ataque especial aumenta seu nível de furtividade. {Furtividade $stress} aumenta dano, chance crítica e regenera mana.
   </speech>
 
   <speech id="description:SpecializationNinja">
     {Ninja $stress}
     %
-    Ninjas are quick melee fighters who are specialized on evasion and counterattacks.
+    Ninjas São rápidos ofensores corpo-a-corpo que são especializados em evadir e contra-atacar seus inimigos.
     %
-    {Counter Strike $stress}: You dodge all attacks while performing a special attack.
+    {Contra ataque $stress}: Você desvia de todos os ataques enquanto estiver realizando um ataque especial.
     %
-    {Elusiveness $stress}: Each time you dodge an attack, you gain {25 MP $number} and your next special attack will be critical.
+    {Prática da esquiva $stress}: Toda vez que você desviar-se de um ataque, você ganha {25 de mana $number} e seu próximo ataque especial será crítico.
   </speech>
 
   <!--Skills-->
@@ -3690,7 +3690,7 @@
   </speech>
 
   <speech id="SkillChargedBoomerang">
-    Boomerang Carregado
+    Bumerangue Carregado
   </speech>
 
   <speech id="SkillSalvo">
@@ -3773,11 +3773,11 @@
 
 
   <speech id="skill:nextlevel">
-    % {Next Level $stress} %
+    % {Próximo Level $stress} %
   </speech>
 
   <speech id="description:SkillWeaponPower">
-    {Weapon Skill $stress}
+    {Habilidade com Armas $stress}
     %
     Aumenta seu dano e lhe permite equipar armas poderosas.
   </speech>
@@ -3787,7 +3787,7 @@
   </speech>
 
   <speech id="description:SkillArmorPower">
-    {Armor Skill $stress}
+    {Habilidade com Armaduras $stress}
     %
     Aumenta sua armadura e resistência e lhe permite equipar armaduras poderosas.
   </speech>
@@ -3797,17 +3797,17 @@
   </speech>
 
   <speech id="description:SkillPetTaming">
-    {Pet Master $stress}
+    {Mestre Pet $stress}
     %
-    Seus companheiros ficam mais fortes.
+    Seus Pets ficam mais fortes.
   </speech>
 
   <speech id="details:SkillPetTaming">
-    A vida de seu companheiro é aumentada em {@health $number}.
+    A vida de seu Pet é aumentada em {@health $number}.
   </speech>
 
   <speech id="description:SkillPetRiding">
-    {Riding $stress}
+    {Montaria $stress}
     %
     Habilita montaria para viagens mais rápidas.
   </speech>
@@ -3817,7 +3817,7 @@
   </speech>
 
   <speech id="description:SkillClimbing">
-    {Climbing $stress}
+    {Escalada $stress}
     %
     Permite escalar mais efetivamente as superfícies.
   </speech>
@@ -3827,7 +3827,7 @@
   </speech>
 
   <speech id="description:SkillHangGliding">
-    {Hang Gliding $stress}
+    {Habilidade em Planar $stress}
     %
     Habilita a utilização do Planador.
   </speech>
@@ -3837,7 +3837,7 @@
   </speech>
 
   <speech id="description:SkillSwimming">
-    {Swimming $stress}
+    {Natação $stress}
     %
     Habilita natação mais veloz na agua.
   </speech>
@@ -3847,7 +3847,7 @@
   </speech>
 
   <speech id="description:SkillBoatDriving">
-    {Sailing $stress}
+    {Navegar $stress}
     %
     Permite a utilização de Barcos.
   </speech>
@@ -3857,7 +3857,7 @@
   </speech>
 
   <speech id="description:SkillSmash">
-    {Smash $stress}
+    {Esmagar $stress}
     %
     Você salta para o local escolhio e esmaga inimigos próximos.
   </speech>
@@ -3877,7 +3877,7 @@
   </speech>
 
   <speech id="description:SkillBulwark">
-    {Bulwark $stress}
+    {Bastião $stress}
     %
     Você junta suas forças para se tornar imune contra atordoamentos e sofre menos dano.
     %
@@ -3895,62 +3895,62 @@
   </speech>
 
   <speech id="description:SkillHeroicShout">
-    {Heroic Shout $stress}
+    {Grito Heróico $stress}
     %
-    You shout to taunt your enemies and motivate yourself and your allies.
-    Lasts {@heroicshoutduration $number} seconds.
+    Você grita para atrair seus inimigos e motivar a si mesmo e seus aliados.
+    Dura {@heroicshoutduration $number} segundos.
   </speech>
 
   <speech id="description:SkillWarFrenzy">
-    {War Frenzy $stress}
+    {Fúria de Guerra $stress}
     %
-    You enter a war frenzy and can charge your special attacks faster.
+    Você entra em um estado de fúria e pode carregar seus ataques especiais mais rápido.
     %
-    Lasts {@warfrenzyduration $number} seconds.
+    Dura {@warfrenzyduration $number} segundos.
   </speech>
 
   <speech id="details:SkillWarFrenzy">
-    The cooldown lasts {@warfrenzycooldown $number} seconds and you can charge special attacks {@warfrenzyamount $number} faster.
+    A recarga dura {@warfrenzycooldown $number} segundos e você pode carregar ataques especiais {@warfrenzyamount $number} mais rápido.
   </speech>
 
 
   <speech id="description:SkillRangerKick">
-    {Kick $stress}
+    {Chute Rápido $stress}
     %
-    You repulse all enemies in melee range with a bold kick. Enemies can be stunned thereby.
+    Você arremessa todos os inimigos a sua proximidade corpo-a-corpo com um rápido chute. Inimigos acertados por este ataque podem ficar atordoados.
   </speech>
 
   <speech id="details:SkillRangerKick">
-    The cooldown lasts {@rangerkickcooldown $number} seconds and the repulsion is increased by {@rangerkickknockback $number}.
+    A recarga dura {@rangerkickcooldown $number} segundos e a repulsa é aumentada em {@rangerkickknockback $number}.
   </speech>
 
   <speech id="description:SkillRetreat">
-    {Retreat $stress}
+    {Recuo $stress}
     %
-    You jump back to seek shelter.
+    Você salta para trás, buscando abrigo.
   </speech>
 
   <speech id="details:SkillRetreat">
-    The cooldown lasts {@retreatcooldown $number} seconds and the jump distance is increased by {@retreatdistance $number}.
+    A recarga dura {@retreatcooldown $number} segundos e a distância do pulo é aumentada em {@retreatdistance $number}.
   </speech>
 
 
   <speech id="description:SkillAim">
-    {Aim $stress}
+    {Mira $stress}
     %
-    You lay down and camouflage yourself in stealth. {Stealth $stress} increases damage, critical strike chance and regenerates MP.
+    Você deita no chão e se camufla furtivamente. {Furtividade $stress} aumenta o dano, a chance crítica e regenera mana.
     %
-    Gets canceled by movement.
+    A habilidade é cancelada caso você se mova.
   </speech>
 
   <speech id="details:SkillAim">
-    The cooldown lasts {@aimcooldown $number} seconds and you enter stealth {@aimstealth $number} faster.
+    A recarga dura {@aimcooldown $number} segundos e você entra em modo furtivo {@aimstealth $number} mais rápido.
   </speech>
 
   <speech id="description:SkillSwiftness">
     {Scouts Swiftness $stress}
     %
-    Thanks to your agility you can move and attack faster.
+    Graças a sua agilidade você pode se mover e atacar mais rápido.
     %
     Lasts {@swiftnessduration $number} seconds.
   </speech>
@@ -4099,156 +4099,156 @@
 
 
   <speech id="explored">
-    Have you already explored *thescenery?
+    Você ja explorou *thescenery?
     %
-    Look, I've marked the location on your [map $stress]!
+    Vou marcar a localização no seu [mapa $stress]!
   </speech>
 
   <speech id="random:1">
-    How are you?
+    Olá, como vai você?
   </speech>
 
   <speech id="random:2">
-    The weather is nice!
+    Esse clima está bom!
   </speech>
 
   <speech id="random:3">
-    I love camping.
+    Eu amo acampar.
     %
-    In [Cube World $stress]!
+    No [Cube World $stress]!
   </speech>
 
   <speech id="random:4">
-    You look like an adventurer!
+    Nossa! Você parece um aventureiro!
   </speech>
 
   <speech id="random:5">
-    Are you looking for [@itemvendoritem_plural $item]?
-    You should visit the [Item Shop $stress]!
+    Você está procurando por [@itemvendoritem_plural $item]?
+    Você devia visitar a [Loja de Itens $stress]!
   </speech>
 
   <speech id="random:6">
-    Are you looking for Weapons?
-    You should visit the [Weapon Shop $stress]!
+    Você está procurando por armas melhores?
+    Você deveria visitar a [Loja de Armas $stress]!
   </speech>
 
   <speech id="random:7">
-    Have you found [Leftovers $stress]?
-    You should visit the [Identifier $stress]!
+    Você encontrou [resíduos $stress]?
+    Você devia ver na Loja do [Identificador $stress] para descobrir o que são!
   </speech>
 
   <speech id="random:8">
-    I like your style!
+    Curti seu estilo!
   </speech>
 
   <speech id="random:9">
-    You are strange looking!
+    Nossa que aparência estranha!
   </speech>
 
   <speech id="random:10">
-    Do I know you?
+    Por acaso eu te conheço?
   </speech>
 
   <speech id="random:11">
-    My [@pet_singular $creature] is adorable!
+    [@pet_plural $creature] são adoraveis!
   </speech>
 
   <speech id="random:12">
-    I have a new [Pet $stress]. It's a [@pet_singular $creature]. I love it!
+    Eu vi um novo [Pet $stress] por aí, [@pet_singular $creature]. Amei!
   </speech>
 
   <speech id="random:13">
-    I like your name.
+    Gostei do seu nome.
   </speech>
 
   <speech id="random:14">
-    I haven't seen you before. Are you an adventurer?
+    Ainda não tinha te visto por aí. Você é um aventureiro?
   </speech>
 
   <speech id="random:15">
-    My favourite sport is [Hang Gliding $stress].
+    Meu esporte favorito é [Asa Delta $stress].
   </speech>
 
   <speech id="random:16">
-    My climbing skill is 285. I'm probably the best climber in Cube World!
+    Minha habilidade de escalada é ótima, porcausa desse artefato que eu peguei. É provável que eu seja o melhor escalador do Cube World!
   </speech>
 
   <speech id="random:17">
-    I love sailing!
+    Eu amo navegar!
   </speech>
 
   <speech id="random:18">
-    I love nature!
+    Eu amo a natureza!
   </speech>
 
   <speech id="random:19">
-    I would love to have a [@pet_singular $creature] pet.
+    [@pet_singular $creature] é o meu animal espiritual.
   </speech>
 
   <speech id="random:20">
-    I don't like hiking. I prefer riding.
+    Não gosto de escaladas. Eu prefiro montarias.
   </speech>
 
   <speech id="random:21">
-    [@monster_plural $creature] are really strong.
+    [@monster_plural $creature] são muito fortes.
   </speech>
 
   <speech id="random:22">
-    Dungeons are really dangerous places. Don't forget to take some potions with you.
+    Calabouços e Castelos são lugares muito perigosos. Não se esqueça de levar algumas poções com você.
   </speech>
 
   <speech id="random:23">
-    I have my own house!
+    Eu tenho minha própria casa!
   </speech>
 
   <speech id="random:24">
-    My favourite food is Ginseng Soup.
+    Minha comida favorita é sopa de Gengibre.
   </speech>
 
   <speech id="random:25">
-    You can use better bombs when you become stronger.
+    Você conseguirá usar bombas mais poderosas quando ficar mais forte.
   </speech>
 
   <speech id="random:26">
-    Some rocks can be destroyed with bombs.
+    Algumas rochas podem ser destruídas com bombas.
     %
-    You can purchase them in the [Item Shop $stress]!
+    Você pode comprá-las na [Loja de Items $stress]!
   </speech>
 
   <speech id="random:27">
-    I'm saving money to buy a hang glider.
+    Estou economizando dinheiro pra comprar um asa delta.
   </speech>
 
   <speech id="random:28">
-    I'm saving money to buy a boat.
+    Estou economizando dinheiro pra comprar um barco pra mim.
   </speech>
 
   <speech id="random:29">
-    I love traveling to cities of different lands.
+    Eu amo viajar para cidades em terras diferentes.
   </speech>
 
   <speech id="random:30">
-    I love traveling from city to city.
+    Amo viajar de cidade pra cidade. A águia é muito legal!
   </speech>
 
   <speech id="petfood">
-    Do you know what *creatures like to eat? [@food_plural $item], of course!
+    Você sabe o que *creatures gostam de comer? [@food_plural $item], obviamente!
   </speech>
 
   
   <speech id="tent">
-    You can rest between [six 'o clock in the evening $stress] and [six 'o clock in the morning $stress].
+    Você só pode descançar entre [6 da tarde $stress] e [6 da manhã $stress].
   </speech>
   
 
   <macro id="direction_of_here">
-    { east of here #east | north of here #north | west of here #west | south of here #south |
-    northeast of here #northeast | northwest of here #northwest | southeast of here #southeast | southwest of here #southwest | nearby }
+    { leste daqui #east | norte daqui #north | oeste daqui #west | sul daqui #south |
+    nordeste daqui #northeast | noroeste daqui #northwest | sudeste daqui #southeast | sudoeste daqui #southwest | próximo }
   </macro>
 
   <macro id="direction_of_this_zone2">
-    { east of #east | north of #north | west of #west | south of #south |
-    northeast of #northeast | northwest of #northwest | southeast of #southeast | southwest of #southwest | near }  *this_zone2
+    { leste de #east | norte de #north | oeste de #west | sul de #south |
+    nordeste de #northeast | noroeste de #northwest | sudeste de #southeast | sudoeste de #southwest | perto de }  *this_zone2
   </macro>
 
   <macro id="mob">
